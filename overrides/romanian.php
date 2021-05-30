@@ -1,5 +1,7 @@
 <?php
 /**
+ * WHMCS overriding language pack
+ * 
  * WHMCS Language File
  * Romanian (ro)
  *
@@ -19,7 +21,7 @@
  * @link       https://www.whmcs.com/
  */
 
-if (!defined("WHMCS")) die("This file cannot be accessed directly");
+if (!defined("WHMCS")) die("Acest fișier nu poate fi accesat direct");
 
 $_LANG['locale'] = "ro_RO";
 
@@ -3733,26 +3735,26 @@ $_LANG['homepage']['supportRequests'] = "Support Requests";
 $_LANG['homepage']['makeAPayment'] = "Make a Payment";
 $_LANG['homepage']['yourAccount'] = "Your Account";
 
-$_LANG['downloads']['numDownload'] = ":num File";
-$_LANG['downloads']['numDownloads'] = ":num Files";
-$_LANG['knowledgebase']['numArticle'] = ":num Article";
-$_LANG['knowledgebase']['numArticles'] = ":num Articles";
+$_LANG['downloads']['numDownload'] = ":num fișier";
+$_LANG['downloads']['numDownloads'] = ":num fișiere";
+$_LANG['knowledgebase']['numArticle'] = ":num articol";
+$_LANG['knowledgebase']['numArticles'] = ":num articole";
 
-$_LANG['userLogin']['createAccount'] = "Create account";
-$_LANG['userLogin']['signInToContinue'] = "Sign in to your account to continue.";
-$_LANG['userLogin']['notRegistered'] = "Not registered?";
+$_LANG['userLogin']['createAccount'] = "Înscrie-te";
+$_LANG['userLogin']['signInToContinue'] = "Autentifică-te pentru a continua.";
+$_LANG['userLogin']['notRegistered'] = "Nu ai cont?";
 
-$_LANG['networkIssues']['scheduled'] = "There are :count Scheduled Network Impacting Issues.";
+$_LANG['networkIssues']['scheduled'] = "Sunt :count întreruperi programate.";
 $_LANG['networkIssues']['http'] = "HTTP";
 $_LANG['networkIssues']['ftp'] = "FTP";
 $_LANG['networkIssues']['pop3'] = "POP3";
-$_LANG['networkIssues']['affectingYou'] = "This issue affects a server that may impact your services";
+$_LANG['networkIssues']['affectingYou'] = "Această problemă poate afectea și serviciile tale";
 
 $_LANG['chooseFile'] = "Alege fișierul";
-$_LANG['support']['postedBy'] = "Publicat de :name în :date :requestorType";
+$_LANG['support']['postedBy'] = "Publicat de :name la data de :date :requestorType";
 
 $_LANG['requestor'] = "Solicitant";
 
-$_LANG['facebook']['notAuthorized'] = "Nu ai autorizat Facebook pentru autentificare. Nu te putem autentifica acum.";
+$_LANG['facebook']['notAuthorized'] = "Nu ai autorizat Facebook pentru autentificare. Nu poți folosi această metodă pentru a intra.";
 
 ////////// End of romanian language file.  Do not place any translation strings below this line!
