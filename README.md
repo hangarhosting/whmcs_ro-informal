@@ -1,2 +1,2 @@
-# whmcs_romanian_informal
-Romanian language for WHMCS, using friendly addressing
+# whmcs_ro-informal
+Romanian language for WHMCS, wuth using friendly addressing
