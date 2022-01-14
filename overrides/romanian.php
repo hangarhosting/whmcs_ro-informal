@@ -25,9 +25,9 @@ if (!defined("WHMCS")) die("Acest fișier nu poate fi accesat direct");
 
 $_LANG['locale'] = "ro_RO";
 
-$_LANG['accountinfo'] = "Informații cont";
+$_LANG['accountinfo'] = "Contul tău";
 $_LANG['accountstats'] = "Statistici";
-$_LANG['addfunds'] = "Adăugare fonduri";
+$_LANG['addfunds'] = "Adaugă fonduri";
 $_LANG['addfundsamount'] = "Depunere";
 $_LANG['addfundsmaximum'] = "Depunere maximă";
 $_LANG['addfundsmaximumbalance'] = "Depozit maxim";
@@ -48,7 +48,7 @@ $_LANG['affiliatesdisabled'] = "Deocamdată nu avem un program de afiliere în d
 $_LANG['affiliatesearn'] = "Câștigă";
 $_LANG['affiliatesearningstodate'] = "Câștiguri totale până azi";
 $_LANG['affiliatesfootertext'] = "De fiecare dată când ne trimiți un vizitator prin intermediul linkului unic de referință, salvăm în calculatorul acestuia un cookie ce conține codul tău de identificare, pentru a-ți calcula corect comisionul de recomandare.";
-$_LANG['affiliateshostingpackage'] = "Abonament de servicii";
+$_LANG['affiliateshostingpackage'] = "Pachet de găzduire";
 $_LANG['affiliatesintrotext'] = "Activează acum contul de afiliat la:";
 $_LANG['affiliateslinktous'] = "Link-ul de afiliere";
 $_LANG['affiliatesnosignups'] = "Încă nu ai clienți recomandați";
@@ -56,7 +56,7 @@ $_LANG['affiliatesrealtime'] = "Aceste statistici sunt calculate în timp real �
 $_LANG['affiliatesreferallink'] = "Link-ul tău unic de referință";
 $_LANG['affiliatesreferals'] = "Clienții recomandați";
 $_LANG['affiliatesregdate'] = "Data înregistrării";
-$_LANG['affiliatesrequestwithdrawal'] = "Utilizare fonduri";
+$_LANG['affiliatesrequestwithdrawal'] = "Cerere de retragere";
 $_LANG['affiliatessignupdate'] = "Data înregistrării";
 $_LANG['affiliatesstatus'] = "Stare";
 $_LANG['affiliatestitle'] = "Afiliere";
