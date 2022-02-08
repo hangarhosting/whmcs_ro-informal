@@ -860,11 +860,11 @@ $_LANG['maxFileSize'] = "Dimensiune maximă fișier:: :fileSize";
 
 $_LANG['clientareafiles'] = "Fișiere atașate";
 $_LANG['clientareafilesdate'] = "Data adăugării";
-$_LANG['clientareafilesfilename'] = "Nume fișier";
+$_LANG['clientareafilesfilename'] = "Fișier";
 
 $_LANG['pwreset'] = "Regenerare parolă";
-$_LANG['pwresetdesc'] = "Dacă ați uitat parola de acces la portalul clienților, o puteți regenera aici. După ce veți introduce adresa de email cu care v-ați înregistrat (și eventual răspunsul la întrebarea personală), veți primi prin email instrucțiuni pentru regenerarea parolei.";
-$_LANG['pwresetemailrequired'] = "Introduceți adresa e-mail";
+$_LANG['pwresetdesc'] = "Dacă ai uitat parola de acces la portalul clienților, o poți regenera aici. După ce vei introduce adresa de email cu care te-ai înregistrat (și eventual răspunsul la întrebarea personală), vei primi prin email instrucțiuni pentru regenerarea parolei.";
+$_LANG['pwresetemailrequired'] = "Introdu adresa e-mail";
 $_LANG['pwresetemailnotfound'] = "Nu am găsit niciun client cu adresa de email introdusă";
 $_LANG['pwresetsecurityquestionrequired'] = "Devreme ce ați salvat și o întrebare personală de securitate la contul de client, vă rugăm să răspundeți mai jos.";
 $_LANG['pwresetsecurityquestionincorrect'] = "Răspunsul dat la întrebarea personală de securitate nu se potrivește cu cel salvat inițial în cont.";
