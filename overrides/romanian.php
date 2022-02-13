@@ -5,21 +5,19 @@
  * WHMCS Language File
  * Romanian (ro)
  *
- * Please Note: These language files are overwritten during software updates
- * and therefore editing of these files directly is not advised. Instead we
- * recommend that you use overrides to customise the text displayed in a way
- * which will be safely preserved through the upgrade process.
  *
- * For instructions on overrides, please visit:
- *   https://developers.whmcs.com/languages/overrides/
  *
  * @package    WHMCS
- * @author     WHMCS Limited <development@whmcs.com>
- * @copyright  Copyright (c) WHMCS Limited 2005-2018
- * @license    https://www.whmcs.com/license/ WHMCS Eula
- * @version    $Id$
- * @link       https://www.whmcs.com/
+ * @author     Hangar Hosting <contact@hangar.hosting>
+ * @copyright  Copyright (c) Hangar Hosting 2022
  */
+
+
+
+
+
+
+
 
 if (!defined("WHMCS")) die("Acest fișier nu poate fi accesat direct");
 
@@ -49,10 +47,10 @@ $_LANG['affiliatesearn'] = "Câștigă";
 $_LANG['affiliatesearningstodate'] = "Câștiguri totale până azi";
 $_LANG['affiliatesfootertext'] = "De fiecare dată când ne trimiți un vizitator prin intermediul linkului unic de referință, salvăm în calculatorul acestuia un cookie ce conține codul tău de identificare, pentru a-ți calcula corect comisionul de recomandare.";
 $_LANG['affiliateshostingpackage'] = "Abonament de servicii";
-$_LANG['affiliatesintrotext'] = "Activează acum contul de afiliat la:";
+$_LANG['affiliatesintrotext'] = "Activează-ți contul de afiliat la:";
 $_LANG['affiliateslinktous'] = "Link-ul de afiliere";
 $_LANG['affiliatesnosignups'] = "Încă nu ai clienți recomandați";
-$_LANG['affiliatesrealtime'] = "Aceste statistici sunt calculate în timp real și actualizate instantaneu";
+$_LANG['affiliatesrealtime'] = "Statisticile sunt calculate în timp real și actualizate instantaneu";
 $_LANG['affiliatesreferallink'] = "Link-ul tău unic de referință";
 $_LANG['affiliatesreferals'] = "Clienții recomandați";
 $_LANG['affiliatesregdate'] = "Data înregistrării";
@@ -62,6 +60,7 @@ $_LANG['affiliatesstatus'] = "Stare";
 $_LANG['affiliatestitle'] = "Afiliere";
 $_LANG['affiliatesvisitorsreferred'] = "Vizitatori recomandați";
 $_LANG['affiliateswithdrawalrequestsuccessful'] = "Solicitarea de retragere de fonduri a fost trimisă. Te vom contacta în curând pentru confirmare.";
+$_LANG['affiliatesWithdrawalRequestUnsuccessful'] = "Cerera ta pentru retragere de fonduri a eșuat. Te rugăm sa încerci mai târziu.";
 $_LANG['affiliateswithdrawn'] = "Suma totală retrasă";
 $_LANG['all'] = "Toate";
 $_LANG['alreadyregistered'] = "Ai deja un cont la noi?";
@@ -185,6 +184,7 @@ $_LANG['clientareaerrorpostcode'] = "Nu ai introdus codul poștal";
 $_LANG['clientareaerrorpostcode2'] = "Codul poștal poate conține doar litere, cifre și spații";
 $_LANG['clientareaerrors'] = "Au apărut următoarele erori:";
 $_LANG['clientareaerrorstate'] = "Nu ai introdus județul/sectorul";
+$_LANG['clientareaerrorlanguage'] = "Nu ai ales o limbă validă de comunicare";
 $_LANG['clientareaexpired'] = "Expirat";
 $_LANG['clientareafirstname'] = "Prenumele";
 $_LANG['clientareafraud'] = "Fraudă";
@@ -245,6 +245,7 @@ $_LANG['clientareaupdateyourdetails'] = "Actualizează detaliile";
 $_LANG['clientareaused'] = "Utilizat";
 $_LANG['clientareaviewaddons'] = "Opțiuni suplimentare";
 $_LANG['clientareaviewdetails'] = "Detalii";
+$_LANG['clientarealanguage'] = "Limba";
 $_LANG['clientlogin'] = "Autentificare";
 $_LANG['clientregisterheadertext'] = "Completează câmpurile de mai jos pentru a înregistra un cont nou.";
 $_LANG['clientregistertitle'] = "Înregistrare";
@@ -708,7 +709,6 @@ $_LANG['serverchangepasswordsuccessful'] = "Parola a fost modificată cu succes!
 $_LANG['serverchangepasswordupdate'] = "Actualizare";
 $_LANG['serverhostname'] = "Hostname";
 $_LANG['serverlogindetails'] = "Detalii de autentificare";
-$_LANG['servername'] = "Server";
 $_LANG['serverns1prefix'] = "Nameserver 1";
 $_LANG['serverns2prefix'] = "Nameserver 2";
 $_LANG['serverpassword'] = "Parola";
@@ -723,32 +723,38 @@ $_LANG['serverstatusserverload'] = "Încărcare server";
 $_LANG['serverstatustitle'] = "Stare server";
 $_LANG['serverstatusuptime'] = "Uptime";
 $_LANG['serverusername'] = "Username";
-$_LANG['show'] = "Afișare";
+$_LANG['show'] = "Afișează";
 $_LANG['ssladmininfo'] = "Informații de contact administrativ";
-$_LANG['ssladmininfodetails'] = "Informațiile de contact de mai jos nu vor fi afișate în certificat - sunt folosite doar pentru a vă putea contacta în privința acestei comenzi. Certificatul SSL și toate mesajele legate de acesta vor fi trimise la adresa de email specificată de dumneavoastră.";
-$_LANG['sslcertapproveremail'] = "Adresa de email pentru aprobare";
-$_LANG['sslcertapproveremaildetails'] = "Alegeți mai jos unde doriți să vă fie trimis emailul de aprobare a cererii de validare pentru acest certificat.";
+$_LANG['ssladmininfodetails'] = "Informațiile de contact de mai jos nu vor fi afișate în certificat - sunt folosite doar pentru a te putea contacta în privința acestei comenzi. Certificatul SSL și toate mesajele legate de acesta vor fi trimise la adresa de email specificată.";
 $_LANG['sslcertinfo'] = "Informații despre certificatul SSL";
-$_LANG['pleasechooseone'] = "Alegeți una din opțiuni...";
+$_LANG['pleasechooseone'] = "Alege una din opțiuni...";
 $_LANG['sslcerttype'] = "Tipul certificatului";
 $_LANG['sslconfigcomplete'] = "Configurare completă";
-$_LANG['sslconfigcompletedetails'] = "Configurarea certificatului dumneavoastră SSL este completă și a fost trimisă către autoritatea de certificare pentru validare. Veți primi în scurt timp un email de aprobare.";
 $_LANG['sslconfsslcertificate'] = "Configurare certificat SSL";
 $_LANG['sslcsr'] = "CSR";
-$_LANG['sslerrorapproveremail'] = "Trebuie să alegeți o adresă e-mail pentru aprobare";
-$_LANG['sslerrorentercsr'] = "Trebuie să introduceți cererea de semnare a certificatului (CSR)";
-$_LANG['sslerrorselectserver'] = "Trebuie să alegeți tipul serverului";
-$_LANG['sslinvalidlink'] = "Link invalid. Vă rugăm încercați din nou.";
+$_LANG['sslerrorapproveremail'] = "Trebuie să alegi o adresă e-mail pentru aprobare";
+$_LANG['sslerrorentercsr'] = "Trebuie să introduci cererea de semnare a certificatului (CSR)";
+$_LANG['sslerrorselectserver'] = "Trebuie să alegi tipul serverului";
+$_LANG['sslinvalidlink'] = "Link invalid. Te rugăm să încerci din nou.";
 $_LANG['sslorderdate'] = "Data comenzii";
 $_LANG['sslserverinfo'] = "Informații despre server";
-$_LANG['sslserverinfodetails'] = "Trebuie să aveți o cerere validă de semnare a certificatului - \"CSR\" (Certificate Signing Request) pentru a putea configura certificatul dumneavoastră SSL. CSR este un text criptat generat de serverul web unde va fi instalat certificatul SSL. Dacă nu aveți deja un CSR, va trebui să generați unul sau să cereți furnizorului dumneavoastră de servicii de găzduire să vă genereze un CSR. De asemenea, asigurați-vă că informația introdusă este corectă, deoarece nu poate fi schimbată după ce a fost emis certificatul SSL.";
+$_LANG['sslserverinfodetails'] = "Trebuie să ai o cerere validă de semnare a certificatului - \"CSR\" (Certificate Signing Request) pentru a putea configura certificatul SSL. CSR este un text criptat generat de serverul web unde va fi instalat certificatul SSL. Dacă nu ai deja un CSR, va trebui să generezi unul sau să ceri furnizorului de servicii de găzduire să-ți genereze unul. De asemenea, asigură-te că informația introdusă este corectă, deoarece nu poate fi schimbată după ce a fost emis certificatul SSL.";
 $_LANG['sslservertype'] = "Tipul serverului web";
+$_LANG['ssl']['selectWebserver'] = "Alege un :serverType";
 $_LANG['sslstatus'] = "Starea configurării";
-$_LANG['sslawaitingconfig'] = "Awaiting Configuration";
-$_LANG['sslconfigure'] = "Configure";
-$_LANG['ssldomain'] = "Domain";
-$_LANG['sslproduct'] = "SSL Product";
-$_LANG['sslrenewaldate'] = "Renewal Date";
+$_LANG['sslawaitingconfig'] = "Așteaptă configurarea";
+$_LANG['sslconfigure'] = "Configurează";
+$_LANG['ssldomain'] = "Domeniu";
+$_LANG['sslproduct'] = "Certificat SSL";
+$_LANG['sslrenewaldate'] = "Data reînnoirii";
+$_LANG['sslresendmail'] = "Retrimite mesajul email";
+
+$_LANG['sslcertapproveremail'] = "Adresa de email pentru aprobare";
+$_LANG['sslcertapproveremaildetails'] = "Alegeți mai jos unde doriți să vă fie trimis emailul de aprobare a cererii de validare pentru acest certificat.";
+
+$_LANG['sslconfigcompletedetails'] = "Configurarea certificatului dumneavoastră SSL este completă și a fost trimisă către autoritatea de certificare pentru validare. Veți primi în scurt timp un email de aprobare.";
+
+
 $_LANG['sslresendmail'] = "Resend Email";
 $_LANG['statscreditbalance'] = "Balanța de credit a contului";
 $_LANG['statsdueinvoicesbalance'] = "Restanțe de plată";
