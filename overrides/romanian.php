@@ -748,18 +748,10 @@ $_LANG['ssldomain'] = "Domeniu";
 $_LANG['sslproduct'] = "Certificat SSL";
 $_LANG['sslrenewaldate'] = "Data reînnoirii";
 $_LANG['sslresendmail'] = "Retrimite mesajul email";
-
-$_LANG['sslcertapproveremail'] = "Adresa de email pentru aprobare";
-$_LANG['sslcertapproveremaildetails'] = "Alegeți mai jos unde doriți să vă fie trimis emailul de aprobare a cererii de validare pentru acest certificat.";
-
-$_LANG['sslconfigcompletedetails'] = "Configurarea certificatului dumneavoastră SSL este completă și a fost trimisă către autoritatea de certificare pentru validare. Veți primi în scurt timp un email de aprobare.";
-
-
-$_LANG['sslresendmail'] = "Resend Email";
 $_LANG['statscreditbalance'] = "Balanța de credit a contului";
 $_LANG['statsdueinvoicesbalance'] = "Restanțe de plată";
-$_LANG['statsnumdomains'] = "Numărul domeniilor";
-$_LANG['statsnumproducts'] = "Numărul serviciilor";
+$_LANG['statsnumdomains'] = "Domenii";
+$_LANG['statsnumproducts'] = "Servicii";
 $_LANG['statsnumreferredsignups'] = "Numărul clienților recomandați";
 $_LANG['statsnumtickets'] = "Numărul tichetelor de suport";
 $_LANG['submitticketdescription'] = "Deschideți un tichet de asistență";
