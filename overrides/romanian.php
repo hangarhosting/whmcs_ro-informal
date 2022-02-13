@@ -752,29 +752,29 @@ $_LANG['statscreditbalance'] = "Balanța de credit a contului";
 $_LANG['statsdueinvoicesbalance'] = "Restanțe de plată";
 $_LANG['statsnumdomains'] = "Domenii";
 $_LANG['statsnumproducts'] = "Servicii";
-$_LANG['statsnumreferredsignups'] = "Numărul clienților recomandați";
-$_LANG['statsnumtickets'] = "Numărul tichetelor de suport";
-$_LANG['submitticketdescription'] = "Deschideți un tichet de asistență";
+$_LANG['statsnumreferredsignups'] = "Clienți recomandați";
+$_LANG['statsnumtickets'] = "Tichete de suport";
+$_LANG['submitticketdescription'] = "Deschide un tichet de asistență";
 $_LANG['supportclickheretocontact'] = "click aici pentru a ne contacta";
-$_LANG['supportpresalesquestions'] = "dacă aveți nelămuriri înainte de orice achiziție";
+$_LANG['supportpresalesquestions'] = "dacă ai nelămuriri înainte de orice achiziție";
 $_LANG['supportticketinvalid'] = "A apărut o eroare. Tichetul solicitat nu a fost găsit.";
-$_LANG['supportticketsallowedextensions'] = "Tipuri de fișiere acceptate";
-$_LANG['supportticketschoosedepartment'] = "Alegeți departamentul";
+$_LANG['supportticketsallowedextensions'] = "Fișiere acceptate";
+$_LANG['supportticketschoosedepartment'] = "Alege departamentul";
 $_LANG['supportticketsclient'] = "Client";
-$_LANG['supportticketsclientemail'] = "Adresa e-mail";
+$_LANG['supportticketsclientemail'] = "Adresa email";
 $_LANG['supportticketsclientname'] = "Nume";
 $_LANG['supportticketsdate'] = "Data";
 $_LANG['supportticketsdepartment'] = "Departament";
 $_LANG['supportticketsdescription'] = "Afișează și răspunde la tichetele de suport existente";
 $_LANG['supportticketserror'] = "Eroare";
-$_LANG['supportticketserrornoemail'] = "Nu ați introdus adresa e-mail";
-$_LANG['supportticketserrornomessage'] = "Nu ați introdus mesajul";
-$_LANG['supportticketserrornoname'] = "Nu v-ați trecut numele";
-$_LANG['supportticketserrornosubject'] = "Nu ați introdus un subiect";
-$_LANG['supportticketsfilenotallowed'] = "Fișierul pe care ați încercat să-l atașați nu este permis.";
-$_LANG['supportticketsheader'] = "Dacă nu găsiți soluția problemei în biblioteca noastră de cunoștințe, trimiteți o sesizare de suport, alegând mai jos departamentul potrivit.";
+$_LANG['supportticketserrornoemail'] = "Nu ai introdus adresa e-mail";
+$_LANG['supportticketserrornomessage'] = "Nu ai introdus mesajul";
+$_LANG['supportticketserrornoname'] = "Nu ți-ai trecut numele";
+$_LANG['supportticketserrornosubject'] = "Nu ai introdus un subiect";
+$_LANG['supportticketsfilenotallowed'] = "Fișierul atașat nu este permis.";
+$_LANG['supportticketsheader'] = "Dacă nu găsești soluția problemei în biblioteca noastră de cunoștințe, trimite-ne o sesizare de suport, alegând mai jos departamentul potrivit.";
 $_LANG['supportticketsnotfound'] = "Tichetul nu a fost găsit";
-$_LANG['supportticketsopentickets'] = "Tichete de suport deschise";
+$_LANG['supportticketsopentickets'] = "Tichete deschise";
 $_LANG['supportticketspagetitle'] = "Tichete de suport";
 $_LANG['supportticketsposted'] = "Publicat";
 $_LANG['supportticketsreply'] = "Răspuns";
@@ -3755,4 +3755,378 @@ $_LANG['requestor'] = "Solicitant";
 
 $_LANG['facebook']['notAuthorized'] = "Nu ai autorizat Facebook pentru autentificare. Nu poți folosi această metodă pentru a intra.";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$_LANG['usagebilling']['metric']['diskSpace'] = "Spațiu de stocare";
+$_LANG['usagebilling']['metric']['bandwidth'] = "Trafic";
+$_LANG['usagebilling']['metric']['emailAccounts'] = "Conturi email";
+$_LANG['usagebilling']['metric']['addonDomains'] = "Domenii suplimentare";
+$_LANG['usagebilling']['metric']['parkedDomains'] = "Domenii parcate";
+$_LANG['usagebilling']['metric']['subDomains'] = "Subdomenii";
+$_LANG['usagebilling']['metric']['mysqlDatabases'] = "Baze de date";
+$_LANG['usagebilling']['metric']['mysqlDiskUsage'] = "Spatiu de disc pentru bazele de date";
+$_LANG['usagebilling']['metric']['subAccounts'] = "Sub-conturi";
+
+$_LANG['idna']['emptyLabel'] = "Câmpul cu numele domneiului e gol.";
+$_LANG['idna']['labelTooLong'] = "Eticheta domeniului depășește limita admisă.";
+$_LANG['idna']['domainTooLong'] = "Numele domeniului depășește limita admisă.";
+$_LANG['idna']['invalidDomain'] = "Domeniul este invalid.";
+$_LANG['idna']['unknownError'] = "A apărut o eroare necunoscută.";
 ////////// End of romanian language file.  Do not place any translation strings below this line!
