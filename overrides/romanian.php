@@ -1188,9 +1188,9 @@ $_LANG['recaptcha-incorrect-captcha-sol'] = "Caracterele introduse nu se potrive
 
 $_LANG['bundledeal'] = "Pachete de servicii!";
 $_LANG['bundlevaliddateserror'] = "Pachet indisponibil";
-$_LANG['bundlevaliddateserrordesc'] = "Acest pachet nu este încă activ sau a expirat. Dacă credeți că e o eroare, contactează echipa de suport.";
+$_LANG['bundlevaliddateserrordesc'] = "Acest pachet nu este încă activ sau a expirat. Dacă crezi că e o eroare, contactează echipa de suport.";
 $_LANG['bundlemaxusesreached'] = "Pachet indisponibil";
-$_LANG['bundlemaxusesreacheddesc'] = "Acest pachet a ajuns la numărul maxim de comenzi și din păcate nu mai este disponibil. Vă rugăm să ne contactați pentru o ofertă.";
+$_LANG['bundlemaxusesreacheddesc'] = "Acest pachet a ajuns la numărul maxim de comenzi și din păcate nu mai este disponibil. Te rugăm să ne contactați pentru o ofertă.";
 $_LANG['bundlereqsnotmet'] = "Condițiile pentru acest pachet nu sunt îndeplinite";
 $_LANG['bundlewarningpromo'] = "Pachetul ales nu poate fi folosit împreună cu alte promoții sau oferte";
 $_LANG['bundlewarningproductcycle'] = "Pachetul ales necesită abonamentul '%s' la produsul %s pentru calificare";
@@ -1218,8 +1218,8 @@ $_LANG['navbilling'] = "Financiar";
 $_LANG['navinvoices'] = "Facturi";
 $_LANG['navsupport'] = "Asistență";
 $_LANG['navtickets'] = "Tichete de suport";
-$_LANG['navopenticket'] = "Deschide Tichet";
-$_LANG['navmanagecc'] = "Credit Card";
+$_LANG['navopenticket'] = "Deschide tichet";
+$_LANG['navmanagecc'] = "Credit card";
 $_LANG['navemailssent'] = "Istoric mesaje";
 
 $_LANG['hello'] = "Salutare";
@@ -1229,14 +1229,14 @@ $_LANG['login'] = "Autentificare";
 $_LANG['register'] = "Înregistrare";
 $_LANG['forgotpw'] = "Ai uitat parola?";
 
-$_LANG['clientareanavccdetails'] = "Detaliile cardului";
+$_LANG['clientareanavccdetails'] = "Detalii de card";
 
-$_LANG['manageyouraccount'] = "Contul dumneavoastră";
+$_LANG['manageyouraccount'] = "Contul tău";
 $_LANG['accountoverview'] = "Imagine generală";
 $_LANG['paymentmethod'] = "Modalitate de plată";
 $_LANG['paymentmethoddefault'] = "Implicită (aleasă în comandă)";
 $_LANG['productmanagementactions'] = "Acțiuni";
-$_LANG['clientareanoaddons'] = "Nu aveți opțiuni suplimentare";
+$_LANG['clientareanoaddons'] = "Nu ai opțiuni suplimentare";
 $_LANG['downloadssearch'] = "Căutare fișiere";
 $_LANG['emailviewmessage'] = "Afișare mesaj";
 $_LANG['resultsperpage'] = "Rezultate pe pagină";
@@ -1246,45 +1246,44 @@ $_LANG['cancel'] = "Anulare";
 $_LANG['clientareabacklink'] = "« înapoi";
 $_LANG['backtoserviceslist'] = "« înapoi la lista serviciilor";
 $_LANG['backtodomainslist'] = "« înapoi la lista domeniilor";
-$_LANG['copy'] = "Copy";
+$_LANG['copy'] = "Copiază";
 
-$_LANG['clientareahomeorder'] = "În formularul de comandă veți găsi toate produsele și serviciile noastre.<br />Dacă sunteți deja client, puteți comanda și opțiuni suplimentare.";
-$_LANG['clientareahomelogin'] = "Aveți deja un cont de client la noi?<br />Dacă da, apăsați pe butonul de mai jos.";
+$_LANG['clientareahomeorder'] = "În formularul de comandă vei găsi toate produsele și serviciile noastre.<br />Dacă ești deja client, poți comanda și opțiuni suplimentare.";
+$_LANG['clientareahomelogin'] = "Ești deja clientul nostru?<br />Dacă da, apasă pe butonul de mai jos.";
 $_LANG['clientareahomeorderbtn'] = "Coș de cumpărături";
 $_LANG['clientareahomeloginbtn'] = "Acces securizat";
 
 $_LANG['clientareaproductsintro'] = "Acestea sunt toate serviciile înregistrate sub acest cont.";
 $_LANG['clientareaproductdetailsintro'] = "Aceasta este o imagine generală a produselor și serviciilor achiziționate.";
-$_LANG['clientareadomainsintro'] = "Afișați și configurați aici toate domeniile înregistrate la noi ...";
-$_LANG['invoicesintro'] = "Istoricul facturilor emise";
-$_LANG['quotesintro'] = "Aici sunt toate ofertele noastre pentru dumneavoastră.";
-$_LANG['emailstagline'] = "Aici regăsiți cele mai recente mesaje pe care vi le-am trimis...";
-$_LANG['supportticketsintro'] = "Deschideți și urmăriți tichetele de asistență...";
-$_LANG['addfundsintro'] = "Depozitați bani în avans";
-$_LANG['registerintro'] = "Înregistrați-vă un cont de client la noi . . .";
-$_LANG['masspayintro'] = "Achitați toate aceste facturi într-un singur pas";
+$_LANG['clientareadomainsintro'] = "Afișează și configurează aici toate domeniile înregistrate la noi ...";
+$_LANG['quotesintro'] = "Aici sunt toate ofertele noastre pentru tine.";
+$_LANG['emailstagline'] = "Aici regăsești cele mai recente mesaje pe care ți le-am trimis...";
+$_LANG['supportticketsintro'] = "Deschide și urmărește tichetele de asistență...";
+$_LANG['addfundsintro'] = "Deschide un depozit în avans";
+$_LANG['registerintro'] = "Înregistrează-te cu un cont de client la noi . . .";
 $_LANG['networkstatusintro'] = "Situația serviciilor, lucrări programate și întreruperi în curs";
 
 $_LANG['creditcardyourinfo'] = "Informații de plată";
 $_LANG['ourlatestnews'] = "Ultimele noutăți";
 $_LANG['ccexpiringsoon'] = "Cardul expiră în curând";
-$_LANG['ccexpiringsoondesc'] = "Cardul dumneavoastră de credit expiră în curând. Vă rugăm să %actualizați datele de card%s din timp";
+$_LANG['ccexpiringsoondesc'] = "Cardul tău expiră în curând. Te rugăm să %actualizezi datele de card%s din timp";
 $_LANG['availcreditbal'] = "Credit disponibil";
-$_LANG['availcreditbaldesc'] = "Aveți un credit în valoare totală de <strong>%s</strong>; creditul va fi aplicat automat la facturile următoare.";
-$_LANG['youhaveoverdueinvoices'] = "Aveți %s factură/facturi cu scadența depășită";
-$_LANG['overdueinvoicesdesc'] = "Pentru a evita întreruperea serviciilor, vă rugăm să achitați facturile restante cât mai curând. %sPlăttiți acum »%s";
-$_LANG['supportticketsnoneopen'] = "Nu aveți tichete de suport nerezolvate";
-$_LANG['invoicesnoneunpaid'] = "Felicitări! Nu aveți restanțe de plată";
+$_LANG['availcreditbaldesc'] = "Ai un credit în valoare totală de <strong>%s</strong>; creditul va fi aplicat automat la facturile următoare.";
+$_LANG['youhaveoverdueinvoices'] = "Ai %s facturi cu scadența depășită";
+$_LANG['overdueinvoicesdesc'] = "Pentru a evita întreruperea serviciilor, te rugăm să achiți facturile restante cât mai curând. %sPlătește acum »%s";
+$_LANG['supportticketsnoneopen'] = "Nu ai tichete de suport nerezolvate";
+$_LANG['invoicesnoneunpaid'] = "Felicitări! Nu ai restanțe de plată";
 
-$_LANG['registerdisablednotice'] = "Pentru a vă înregistra, <strong><a href=\"cart.php\">adaugați o comandă</a></strong>";
-$_LANG['registerCreateAccount'] = "Pentru a vă înregistra, va rugăm";
-$_LANG['registerCreateAccountOrder'] = "să plasați o comandă";
+$_LANG['registerdisablednotice'] = "Pentru a te înregistra, <strong><a href=\"cart.php\">adaugă o comandă</a></strong>";
+$_LANG['registerCreateAccount'] = "Pentru a te înregistra, te rugăm";
+$_LANG['registerCreateAccountOrder'] = "să plasezi o comandă";
 
 $_LANG['pwstrength'] = "Complexitatea parolei";
-$_LANG['pwstrengthenter'] = "Introduceți o parolă";
+$_LANG['pwstrengthenter'] = "Introdu o parolă";
 $_LANG['pwstrengthweak'] = "foarte slabă";
 $_LANG['pwstrengthmoderate'] = "bunicică";
 $_LANG['pwstrengthstrong'] = "puternică";
+$_LANG['pwstrengthrating'] = "Complexitatea noii parole";
 
 $_LANG['managing'] = "Configurare";
 $_LANG['information'] = "Informații";
@@ -1296,53 +1295,53 @@ $_LANG['clientareadomainmanageemailfwds'] = "Configurare forward e-mail";
 $_LANG['moduleactionsuccess'] = "Acțiunea a fost finalizată cu succes!";
 $_LANG['moduleactionfailed'] = "Acțiunea a eșuat";
 
-$_LANG['domaininfoexp'] = "Alăturat veți găsi detaliile domeniului dumneavoastră. Puteți configura domeniul utilizând opțiunile de sus.";
-$_LANG['domainrenewexp'] = "Activați reînnoirea automată pentru a primi o notificare și o factură înainte ca domeniul să expire.";
-$_LANG['domainnsexp'] = "Puteți modifica aici către ce nameservere punctează domeniul dumneavoastră. Va dura până la 24 de ore ca modificarea să se propage.";
-$_LANG['domainlockingexp'] = "Blocați domeniul pentru a preveni transferul neautorizat.";
+$_LANG['domaininfoexp'] = "Alăturat vei găsi detaliile domeniului tău. Poți configura domeniul utilizând opțiunile de sus.";
+$_LANG['domainrenewexp'] = "Activează reînnoirea automată pentru a primi o notificare și o factură înainte ca domeniul să expire.";
+$_LANG['domainnsexp'] = "Poți modifica aici către ce nameservere punctează domeniul tău. Va dura până la 24 de ore ca modificarea să se propage.";
+$_LANG['domainlockingexp'] = "Blochează domeniul pentru a preveni transferul neautorizat.";
 $_LANG['domaincurrentlyunlocked'] = "Domeniu deblocat!";
-$_LANG['domaincurrentlyunlockedexp'] = "Dacă nu doriți să transferați domeniul, vă recomandăm activarea blocării la registrar.";
+$_LANG['domaincurrentlyunlockedexp'] = "Dacă nu vrei să transferi domeniul, îți recomandăm activarea blocării la registrar.";
 $_LANG['searchmultipletlds'] = "Extensii multiple";
 
 $_LANG['networkstatustitle'] = "Starea sistemelor";
 $_LANG['networkstatusnone'] = "În acest moment nu există %s";
-$_LANG['serverstatusheadingtext'] = "Mai jos aveți o imagine de ansamblu în timp real asupra serverelor noastre, unde puteți urmări eventualele probleme.";
+$_LANG['serverstatusheadingtext'] = "Mai jos ai o imagine de ansamblu în timp real asupra serverelor noastre, unde poți urmări eventualele întreruperi.";
 
-$_LANG['clientareacancelreasonrequired'] = "Trebuie să adăugați și un motiv la cererea de anulare";
+$_LANG['clientareacancelreasonrequired'] = "Trebuie să adaugi și un motiv la cererea de anulare";
 
-$_LANG['addfundsdescription'] = "Adăugați fonduri în cont pentru a evita o mulțime de tranzacții mărunte și a achita automat facturile noi.";
+$_LANG['addfundsdescription'] = "Adaugă fonduri în cont pentru a evita o mulțime de tranzacții mărunte și a achita automat facturile noi.";
 $_LANG['addfundsnonrefundable'] = "* toate depozitele sunt nereturnabile.";
 
 $_LANG['creditcardexpirydateinvalid'] = "Data expirării trebuie să fie introdusă în format LL/AA (lună/an) și nu trebuie să fie în trecut";
 
-$_LANG['domaincheckerchoosedomain'] = "Alegeți un domeniu...";
-$_LANG['domaincheckerchecknewdomain'] = "Verificați un domeniu nou";
+$_LANG['domaincheckerchoosedomain'] = "Alege un domeniu...";
+$_LANG['domaincheckerchecknewdomain'] = "Verifică un domeniu nou";
 $_LANG['domaincheckerdomainexample'] = " ex. example.com";
-$_LANG['domaincheckerhostingonly'] = "Comandați doar găzduire";
-$_LANG['domaincheckerenterdomain'] = "Asigurați-vă prezența online alegând un domeniu internet sau un pachet de găzduire web...";
+$_LANG['domaincheckerhostingonly'] = "Vreau doar găzduire";
+$_LANG['domaincheckerenterdomain'] = "Asigură-ți prezența online alegând un domeniu internet sau un pachet de găzduire web...";
 
-$_LANG['kbquestionsearchere'] = "Aveți o întrebare? Începeți căutarea aici.";
+$_LANG['kbquestionsearchere'] = "Ai o întrebare? Începe căutarea aici.";
 $_LANG['contactus'] = "Contact";
 
 $_LANG['opennewticket'] = "Deschide un tichet";
-$_LANG['searchtickets'] = "Introduceți codul sau subiectul tichetului";
+$_LANG['searchtickets'] = "Introdu codul sau subiectul tichetului";
 $_LANG['supportticketspriority'] = "Prioritate";
 $_LANG['supportticketsubmitted'] = "A fost trimis";
 $_LANG['supportticketscontact'] = "Contact";
 $_LANG['supportticketsticketlastupdated'] = "Ultima actualizare";
 
-$_LANG['upgradedowngradepackage'] = "Upgrade/Downgrade";
-$_LANG['upgradedowngradechooseproduct'] = "Alegeți un serviciu";
+$_LANG['upgradedowngradepackage'] = "Modificare servicii";
+$_LANG['upgradedowngradechooseproduct'] = "Alege un serviciu";
 
-$_LANG['jobtitlereqforcompany'] = "(obligatoriu dacă ați introdus numele companiei)";
+$_LANG['jobtitlereqforcompany'] = "(obligatoriu dacă ai introdus numele companiei)";
 
 $_LANG['downloadproductrequired'] = "Descărcarea acestui fișier necesită o instanță activă a următoarelor produse sau servicii:";
 
-$_LANG['affiliatesignuptitle'] = "Vă răsplătim pentru clienții recomandați";
-$_LANG['affiliatesignupintro'] = "Activați contul de afiliat și începeți să câștigați ...";
-$_LANG['affiliatesignupinfo1'] = "Oferim un comision pentru fiecare client recomandat prin link-ul dumneavoastră unic.";
-$_LANG['affiliatesignupinfo2'] = "Urmărim vizitatorii recomandați de dumneavoastră prin intermediul unor cookie-uri, astfel încât chiar dacă ei nu cumpără imediat produse sau servicii, dumneavoastră veți primi comisionul. Cookie-urile sunt stocate până la 90 de zile de la vizita inițială.";
-$_LANG['affiliatesignupinfo3'] = "Dacă doriți să aflați mai multe detalii, contactați-ne.";
+$_LANG['affiliatesignuptitle'] = "Te răsplătim pentru clienții recomandați";
+$_LANG['affiliatesignupintro'] = "Activează contul de afiliat și începe să câștigi ...";
+$_LANG['affiliatesignupinfo1'] = "Oferim un comision pentru fiecare client recomandat prin link-ul tău unic.";
+$_LANG['affiliatesignupinfo2'] = "Urmărim vizitatorii recomandați de tine prin intermediul unor cookie-uri, astfel încât chiar dacă ei nu cumpără imediat produse sau servicii, tu veți primi comisionul. Cookie-urile sunt stocate până la 90 de zile de la vizita inițială.";
+$_LANG['affiliatesignupinfo3'] = "Dacă vrei să afi mai multe detalii, contactează-ne.";
 
 # Version 5.1
 
