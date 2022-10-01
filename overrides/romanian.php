@@ -863,16 +863,16 @@ $_LANG['clientareafilesdate'] = "Data adăugării";
 $_LANG['clientareafilesfilename'] = "Nume fișier";
 
 $_LANG['pwreset'] = "Regenerare parolă";
-$_LANG['pwresetdesc'] = "Dacă ați uitat parola de acces la portalul clienților, o puteți regenera aici. După ce veți introduce adresa de email cu care v-ați înregistrat (și eventual răspunsul la întrebarea personală), veți primi prin email instrucțiuni pentru regenerarea parolei.";
-$_LANG['pwresetemailrequired'] = "Introduceți adresa e-mail";
-$_LANG['pwresetemailnotfound'] = "Nu am găsit niciun client cu adresa de email introdusă";
-$_LANG['pwresetsecurityquestionrequired'] = "Devreme ce ați salvat și o întrebare personală de securitate la contul de client, vă rugăm să răspundeți mai jos.";
+$_LANG['pwresetdesc'] = "Dacă ai uitat parola de acces la portalul clienților, o poți regenera aici. După ce vei introduce adresa de email cu care te-ai înregistrat (și eventual răspunsul la întrebarea personală), vei primi prin e-mail instrucțiuni pentru regenerare.";
+$_LANG['pwresetemailrequired'] = "Introdu adresa e-mail";
+$_LANG['pwresetemailnotfound'] = "Nu am găsit niciun client cu această adresă e-mail";
+$_LANG['pwresetsecurityquestionrequired'] = "Devreme ce ai salvat și o întrebare personală de securitate la contul de client, te rugăm să răspunzi mai jos.";
 $_LANG['pwresetsecurityquestionincorrect'] = "Răspunsul dat la întrebarea personală de securitate nu se potrivește cu cel salvat inițial în cont.";
 $_LANG['pwresetsubmit'] = "Trimite";
 $_LANG['pwresetrequested'] = "Recuperarea parolei a fost inițiată";
-$_LANG['pwresetcheckemail'] = "Dacă adresa de email pe care ați introdus-o se potrivește cu o adresă aparținând contului, vă rugăm să verificați contul de email pentru instrucțiunile de resetare";
-$_LANG['pwresetkeyinvalid'] = "Link-ul de regenerare este invalid. Vă rugăm să încercați din nou.";
-$_LANG['pwresetkeyexpired'] = "Link-ul de regenerare a expirat. Vă rugăm să încercați din nou.";
+$_LANG['pwresetcheckemail'] = "Dacă adresa e-mail pe care ai introdus-o se potrivește cu o adresă aparținând contului, vei primi instrucțiunile de resetare.";
+$_LANG['pwresetkeyinvalid'] = "Link-ul de regenerare este invalid. Te rugăm să încerci din nou.";
+$_LANG['pwresetkeyexpired'] = "Link-ul de regenerare a expirat. Te rugăm să încerci din nou.";
 $_LANG['pwresetvalidationsuccess'] = "Parola a fost schimbată cu succes";
 
 $_LANG['overagescharges'] = "Taxă de depășire a resurselor";
@@ -881,18 +881,16 @@ $_LANG['overagestotalbwusage'] = "Trafic total utilizat";
 
 $_LANG['affiliatescommissionspending'] = "Comisioane în așteptarea maturizării";
 $_LANG['affiliatescommissionsavailable'] = "Balanța comisioanelor disponibile";
-$_LANG['affiliatessignups'] = "Înregistrări";
-$_LANG['affiliatesconversionrate'] = "Conversii";
 
 $_LANG['configoptionqtyminmax'] = "%s #<br /># valorile admise sunt între %s și %s";
 
-$_LANG['creditcardnostore'] = "Bifați acest câmp dacă NU doriți stocarea datelor de card pentru plățile recurente";
+$_LANG['creditcardnostore'] = "Bifează acest câmp dacă NU dorești stocarea datelor de card pentru plățile recurente";
 $_LANG['creditcarddelete'] = "Ștergere informații de card";
-$_LANG['creditcarddeleteconfirmation'] = "Toate informațiile cardului au fost șterse din contul dumneavoastră";
-$_LANG['creditcardupdatenotpossible'] = "Detaliile cardului de credit nu pot fi actualizate în acest moment. Vă rugăm să reveniți mai târziu.";
+$_LANG['creditcarddeleteconfirmation'] = "Toate informațiile cardului au fost șterse din contul tău.";
+$_LANG['creditcardupdatenotpossible'] = "Detaliile cardului de credit nu pot fi actualizate în acest moment. Te rugăm să revii mai târziu.";
 
-$_LANG['invoicepaymentsuccessconfirmation'] = "Vă mulțumim! Plata dumneavoastră a fost înregistrată.";
-$_LANG['invoicepaymentfailedconfirmation'] = "Din păcate, plata dumneavoastră nu a fost efectuată.<br />Vă rugăm să încercați din nou sau să contactați echipa de suport.";
+$_LANG['invoicepaymentsuccessconfirmation'] = "Îți mulțumim! Plata a fost înregistrată.";
+$_LANG['invoicepaymentfailedconfirmation'] = "Din păcate, plata nu a fost efectuată.<br />Te rugăm să încerci din nou sau să contactezi echipa de suport.";
 
 # Version 4.2
 
