@@ -975,14 +975,14 @@ $_LANG['vpsnetstatus'] = "Starea sistemului";
 $_LANG['vpsnetbwusage'] = "Trafic utilizat";
 
 $_LANG['twitterlatesttweets'] = "Cele mai recente anunțuri pe Twitter";
-$_LANG['twitterfollow'] = "Urmăriți-ne pe Twitter";
-$_LANG['twitterfollowus'] = "Urmăriți";
+$_LANG['twitterfollow'] = "Urmărește-ne pe Twitter";
+$_LANG['twitterfollowus'] = "Urmărește";
 $_LANG['twitterfollowuswhy'] = "pentru a fi la curent cu ultimele știri și oferte";
 
 $_LANG['chatlivehelp'] = "Asistență online";
 
 $_LANG['domainrelease'] = "Eliberare domeniu";
-$_LANG['domainreleasedescription'] = "Introduceți aici un nou TAG pentru a muta domeniul către alt registrar";
+$_LANG['domainreleasedescription'] = "Introdu aici un nou TAG pentru a muta domeniul către alt registrar";
 $_LANG['domainreleasetag'] = "Tag-ul noului registrar";
 
 # Ajax Order Form
@@ -992,13 +992,11 @@ $_LANG['orderformtitle'] = "Formular de comandă";
 $_LANG['signup'] = "Înregistrare";
 $_LANG['loading'] = "se încarcă...";
 
-$_LANG['ordersummarybegin'] = "Coșul de cumpărături este gol<br/>Alegeți un serviciu pentru a începe...";
-
-$_LANG['cartchooseproduct'] = "Alegeți serviciul";
+$_LANG['cartchooseproduct'] = "Alege serviciul";
 $_LANG['cartconfigurationoptions'] = "Opțiuni de configurare";
 
 $_LANG['ordererrorsoccurred'] = "Următoarele erori trebuie corectate înainte de a trimite comanda:";
-$_LANG['ordererrortermsofservice'] = "Trebuie să acceptați Termenii și Condițiile Legale de livrare a Serviciilor";
+$_LANG['ordererrortermsofservice'] = "Trebuie să accepți Termenii și Condițiile Legale de livrare a Serviciilor";
 $_LANG['ordertostickconfirm'] = "confirm faptul că am citit și sunt de acord cu";
 
 $_LANG['cartnewcustomer'] = "Sunt un client nou";
@@ -1010,21 +1008,21 @@ $_LANG['cartremovepromo'] = "Șterge cuponul promoțional";
 
 $_LANG['cartrecurringcharges'] = "Abonament";
 
-$_LANG['cartenterdomain'] = "Introduceți mai jos domeniul dorit.";
+$_LANG['cartenterdomain'] = "Introdu mai jos domeniul dorit.";
 
 $_LANG['cartdomainavailableoptions'] = "Felicitări, acest domeniu este disponibil!";
-$_LANG['cartdomainavailableregister'] = "Înregistrați acest domeniu pentru";
+$_LANG['cartdomainavailableregister'] = "Înregistrează acest domeniu pentru";
 $_LANG['cartdomainavailablemanual'] = "Îmi voi înregistra domeniul separat";
 
-$_LANG['cartdomainunavailableoptions'] = "Ne pare rău, acest domeniu este deja rezervat. Dacă dețineți domeniul, alegeți una din opțiunile următoare...";
-$_LANG['cartdomainunavailabletransfer'] = "Transferați domeniul meu pentru ";
+$_LANG['cartdomainunavailableoptions'] = "Ne pare rău, acest domeniu este deja rezervat. Dacă deții domeniul, alege una din opțiunile următoare:";
+$_LANG['cartdomainunavailabletransfer'] = "Transferă domeniul meu pentru ";
 $_LANG['cartdomainunavailablemanual'] = "Controlez deja acest domeniu și voi actualiza nameserverele";
 
-$_LANG['cartdomaininvalid'] = "Domeniul introdus nu este valid. Introduceți doar partea de după www. și nu uitați să adăugați terminația TLD";
+$_LANG['cartdomaininvalid'] = "Domeniul introdus nu este valid. Introdu doar partea de după www. și nu uita să adăugați terminația TLD";
 
 # Version 4.4
 
-$_LANG['dlinvalidlink'] = "Ați accesat un link invalid. Vă rugăm să contactați departamentul de suport";
+$_LANG['dlinvalidlink'] = "Ai accesat un link invalid. Te rugăm să contactezi departamentul de suport";
 
 $_LANG['domaindnsmanagementlaunch'] = "Pornește managerul DNS";
 $_LANG['domainemailforwardinglaunch'] = "Lansează managerul de forwarding email";
