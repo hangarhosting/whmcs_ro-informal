@@ -863,16 +863,16 @@ $_LANG['clientareafilesdate'] = "Data adăugării";
 $_LANG['clientareafilesfilename'] = "Nume fișier";
 
 $_LANG['pwreset'] = "Regenerare parolă";
-$_LANG['pwresetdesc'] = "Dacă ați uitat parola de acces la portalul clienților, o puteți regenera aici. După ce veți introduce adresa de email cu care v-ați înregistrat (și eventual răspunsul la întrebarea personală), veți primi prin email instrucțiuni pentru regenerarea parolei.";
-$_LANG['pwresetemailrequired'] = "Introduceți adresa e-mail";
-$_LANG['pwresetemailnotfound'] = "Nu am găsit niciun client cu adresa de email introdusă";
-$_LANG['pwresetsecurityquestionrequired'] = "Devreme ce ați salvat și o întrebare personală de securitate la contul de client, vă rugăm să răspundeți mai jos.";
+$_LANG['pwresetdesc'] = "Dacă ai uitat parola de acces la portalul clienților, o poți regenera aici. După ce vei introduce adresa de email cu care te-ai înregistrat (și eventual răspunsul la întrebarea personală), vei primi prin e-mail instrucțiuni pentru regenerare.";
+$_LANG['pwresetemailrequired'] = "Introdu adresa e-mail";
+$_LANG['pwresetemailnotfound'] = "Nu am găsit niciun client cu această adresă e-mail";
+$_LANG['pwresetsecurityquestionrequired'] = "Devreme ce ai salvat și o întrebare personală de securitate la contul de client, te rugăm să răspunzi mai jos.";
 $_LANG['pwresetsecurityquestionincorrect'] = "Răspunsul dat la întrebarea personală de securitate nu se potrivește cu cel salvat inițial în cont.";
 $_LANG['pwresetsubmit'] = "Trimite";
 $_LANG['pwresetrequested'] = "Recuperarea parolei a fost inițiată";
-$_LANG['pwresetcheckemail'] = "Dacă adresa de email pe care ați introdus-o se potrivește cu o adresă aparținând contului, vă rugăm să verificați contul de email pentru instrucțiunile de resetare";
-$_LANG['pwresetkeyinvalid'] = "Link-ul de regenerare este invalid. Vă rugăm să încercați din nou.";
-$_LANG['pwresetkeyexpired'] = "Link-ul de regenerare a expirat. Vă rugăm să încercați din nou.";
+$_LANG['pwresetcheckemail'] = "Dacă adresa e-mail pe care ai introdus-o se potrivește cu o adresă aparținând contului, vei primi instrucțiunile de resetare.";
+$_LANG['pwresetkeyinvalid'] = "Link-ul de regenerare este invalid. Te rugăm să încerci din nou.";
+$_LANG['pwresetkeyexpired'] = "Link-ul de regenerare a expirat. Te rugăm să încerci din nou.";
 $_LANG['pwresetvalidationsuccess'] = "Parola a fost schimbată cu succes";
 
 $_LANG['overagescharges'] = "Taxă de depășire a resurselor";
@@ -881,28 +881,26 @@ $_LANG['overagestotalbwusage'] = "Trafic total utilizat";
 
 $_LANG['affiliatescommissionspending'] = "Comisioane în așteptarea maturizării";
 $_LANG['affiliatescommissionsavailable'] = "Balanța comisioanelor disponibile";
-$_LANG['affiliatessignups'] = "Înregistrări";
-$_LANG['affiliatesconversionrate'] = "Conversii";
 
 $_LANG['configoptionqtyminmax'] = "%s #<br /># valorile admise sunt între %s și %s";
 
-$_LANG['creditcardnostore'] = "Bifați acest câmp dacă NU doriți stocarea datelor de card pentru plățile recurente";
+$_LANG['creditcardnostore'] = "Bifează acest câmp dacă NU dorești stocarea datelor de card pentru plățile recurente";
 $_LANG['creditcarddelete'] = "Ștergere informații de card";
-$_LANG['creditcarddeleteconfirmation'] = "Toate informațiile cardului au fost șterse din contul dumneavoastră";
-$_LANG['creditcardupdatenotpossible'] = "Detaliile cardului de credit nu pot fi actualizate în acest moment. Vă rugăm să reveniți mai târziu.";
+$_LANG['creditcarddeleteconfirmation'] = "Toate informațiile cardului au fost șterse din contul tău.";
+$_LANG['creditcardupdatenotpossible'] = "Detaliile cardului de credit nu pot fi actualizate în acest moment. Te rugăm să revii mai târziu.";
 
-$_LANG['invoicepaymentsuccessconfirmation'] = "Vă mulțumim! Plata dumneavoastră a fost înregistrată.";
-$_LANG['invoicepaymentfailedconfirmation'] = "Din păcate, plata dumneavoastră nu a fost efectuată.<br />Vă rugăm să încercați din nou sau să contactați echipa de suport.";
+$_LANG['invoicepaymentsuccessconfirmation'] = "Îți mulțumim! Plata a fost înregistrată.";
+$_LANG['invoicepaymentfailedconfirmation'] = "Din păcate, plata nu a fost efectuată.<br />Te rugăm să încerci din nou sau să contactezi echipa de suport.";
 
 # Version 4.2
 
-$_LANG['promoappliedbutnodiscount'] = "Cuponul promoțional a fost aplicat, dar niciunul din produsele sau serviciile comandate nu se califică pentru reducere; verificați termenii și condițiile promoției";
+$_LANG['promoappliedbutnodiscount'] = "Cuponul promoțional a fost aplicat, dar niciunul din produsele sau serviciile comandate nu se califică pentru reducere; verifică termenii și condițiile promoției";
 
-$_LANG['upgradeerroroverdueinvoice'] = "Nu puteți modifica acest serviciu deoarece a fost emisă deja o factură pentru următoarea perioadă a abonamentului.<br /><br />Trebuie să achitați mai întâi factura restantă, iar apoi veți putea modifica abonamentul, plătind diferența de preț sau după caz, fiind creditat cu suma plătită suplimentar.";
-$_LANG['upgradeexistingupgradeinvoice'] = "Nu puteți modifica acest serviciu deoarece există deja o cerere de modificare în curs.<br /><br />Pentru a continua, trebuie să achitați mai întâi factura existentă iar apoi veți putea modifica abonamentul, plătind diferența de preț sau după caz, fiind creditat cu suma plătită suplimentar.<br/><br/>Dacă credeți că ați primit acest mesaj dintr-o eroare, vă rugăm sa contactați echipa de suport.";
+$_LANG['upgradeerroroverdueinvoice'] = "Nu poți modifica acest serviciu deoarece a fost emisă deja o factură pentru următoarea perioadă a abonamentului.<br /><br />Trebuie să achiți mai întâi factura restantă, iar apoi vei putea modifica abonamentul, plătind diferența de preț sau după caz, fiind creditat(ă) cu suma plătită suplimentar.";
+$_LANG['upgradeexistingupgradeinvoice'] = "Nu poți modifica acest serviciu deoarece există deja o cerere de modificare în curs.<br /><br />Pentru a continua, trebuie să achiți mai întâi factura existentă iar apoi vei putea modifica abonamentul, plătind diferența de preț sau după caz, fiind creditat(ă) cu suma plătită suplimentar.<br/><br/>Dacă crezi că ai primit acest mesaj dintr-o eroare, te rugăm sa contactezi echipa de suport.";
 
 $_LANG['subaccountactivate'] = "Activare cont secundar";
-$_LANG['subaccountactivatedesc'] = "Bifați pentru activarea facilităților de cont secundar, cu drept de acces în zona de clienți";
+$_LANG['subaccountactivatedesc'] = "Bifează pentru activarea facilităților de cont secundar, cu drept de acces în zona de clienți";
 $_LANG['subaccountpermissions'] = "Permisiuni pentru contul secundar";
 $_LANG['subaccountpermsprofile'] = "Poate modifica profilul contului principal";
 $_LANG['subaccountpermscontacts'] = "Poate afișa și modifica persoanele de contact";
@@ -915,19 +913,19 @@ $_LANG['subaccountpermstickets'] = "Poate afișa și deschide tichete de suport"
 $_LANG['subaccountpermsaffiliates'] = "Poate afișa și gestiona contul de afiliat";
 $_LANG['subaccountpermsemails'] = "Poate afișa mesajele e-mail";
 $_LANG['subaccountpermsorders'] = "Poate plasa comenzi noi, modifica sau anula servicii";
-$_LANG['subaccountpermissiondenied'] = "Nu aveți autorizarea necesară pentru a accesa această pagină";
-$_LANG['subaccountallowedperms'] = "Permisiunile dumneavoastră sunt:";
-$_LANG['subaccountcontactmaster'] = "Contactați persoana principală de contact dacă credeți că aceasta este o eroare.";
-$_LANG['subaccountSsoDenied'] = "Nu aveți permisiuni de acces prin Single Sign-On.";
+$_LANG['subaccountpermissiondenied'] = "Nu ai autorizarea necesară pentru a accesa această pagină";
+$_LANG['subaccountallowedperms'] = "Permisiunile tale sunt:";
+$_LANG['subaccountcontactmaster'] = "Contactează persoana principală de contact dacă crezi că aceasta este o eroare.";
+$_LANG['subaccountSsoDenied'] = "Nu ai permisiuni de acces prin Single Sign-On.";
 
-$_LANG['knowledgebasealsoread'] = "V-ar mai putea interesa și";
+$_LANG['knowledgebasealsoread'] = "Te-ar mai putea interesa și";
 
 $_LANG['orderpaymenttermtriennially'] = "La trei ani";
 $_LANG['orderpaymentterm36month'] = "Prețul la 36 de luni";
 
 $_LANG['domainrenewals'] = "Reînnoiri de domenii";
 $_LANG['domaindaysuntilexpiry'] = "Zile până la expirare";
-$_LANG['domainrenewalsnoneavailable'] = "Nu aveți domenii ce necesită reînnoire";
+$_LANG['domainrenewalsnoneavailable'] = "Nu ai domenii ce necesită reînnoire";
 $_LANG['domainrenewalspastgraceperiod'] = "După perioada de reînnoire";
 $_LANG['domainrenewalsingraceperiod'] = "Ultima șansă de reînnoire!";
 $_LANG['domainrenewalsdays'] = "Zile";
@@ -937,7 +935,7 @@ $_LANG['invoicespartialpayments'] = "Plăți parțiale";
 $_LANG['invoicestotaldue'] = "Total datorat";
 
 $_LANG['masspaytitle'] = "Plată în masă";
-$_LANG['masspaydescription'] = "Mai jos aveți sumarul facturilor selectate, precum și totalul general de plată.<br />Alegeți modalitatea de plată și apăsați butonul.";
+$_LANG['masspaydescription'] = "Mai jos ai sumarul facturilor selectate, precum și totalul general de plată.<br />Alege modalitatea de plată și apasă butonul.";
 $_LANG['masspayselected'] = "Plătește facturile selectate";
 $_LANG['masspayall'] = "Achită tot";
 $_LANG['masspaymakepayment'] = "Achită";
