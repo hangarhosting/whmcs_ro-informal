@@ -1032,7 +1032,7 @@ $_LANG['domainemailforwardinglaunch'] = "Lansează managerul de forwarding email
 $_LANG['domaindnspriority'] = "Prioritate";
 $_LANG['domaindnsmxonly'] = "Prioritate înregistrare MX";
 
-$_LANG['orderpromoprestart'] = "Această promoție nu a început încă. Încercați mai târziu.";
+$_LANG['orderpromoprestart'] = "Această promoție nu a început încă. Încearcă mai târziu.";
 
 $_LANG['ticketmerge'] = "COMASATE";
 
@@ -1043,7 +1043,7 @@ $_LANG['quotedownload'] = "Descarcă";
 $_LANG['quoteacceptbtn'] = "Accept oferta";
 $_LANG['quotedlpdfbtn'] = "Descarcă PDF";
 $_LANG['quotediscountheading'] = "Discount (%)";
-$_LANG['noquotes'] = "Nu există oferte salvate în contul dumneavoastră.<br />Pentru a cere o ofertă, deschideți un tichet de suport.";
+$_LANG['noquotes'] = "Nu există oferte salvate în contul tău.<br />Pentru a cere o ofertă, deschide un tichet de suport.";
 $_LANG['quotenumber'] = "Oferta #";
 $_LANG['quotesubject'] = "Subiect";
 $_LANG['quotedatecreated'] = "Data";
@@ -1068,42 +1068,43 @@ $_LANG['quotefinalpayment'] = "Balanța după depozit";
 $_LANG['invoiceoneoffpayment'] = "Efectuează o plată unică";
 $_LANG['invoicesubscriptionpayment'] = "Definește o plată recurentă automată";
 
-$_LANG['invoicepaymentpendingreview'] = "Vă mulțumim! Plata a fost efectuată cu succes și va fi înregistrată de îndată ce procesul de verificare se va încheia.<br /><br />Acest proces poate dura până la câteva ore, apreciem răbdarea dumneavoastră.";
+$_LANG['invoicepaymentpendingreview'] = "Mulțumim! Plata a fost efectuată cu succes și va fi înregistrată de îndată ce procesul de verificare se va încheia.<br /><br />Acest proces poate dura până la câteva ore, apreciem răbdarea ta.";
 
 $_LANG['step'] = "Pasul %s";
 $_LANG['cartdomainexists'] = "Acest domeniu există deja în baza noastră de date și nu poate fi comandat din nou";
 $_LANG['cartcongratsdomainavailable'] = "Felicitări, %s este disponibil!";
-$_LANG['cartregisterhowlong'] = "Pentru ce perioadă doriți să-l înregistrați?";
+$_LANG['cartregisterhowlong'] = "Pentru ce perioadă vrei să-l înregistrezi?";
 $_LANG['cartdomaintaken'] = "Ne pare rău, %s este deja rezervat";
 $_LANG['carttransfernotregistered'] = "%s nu apare ca fiind înregistrat încă";
 $_LANG['carttransferpossible'] = "Felicitări, putem transfera %s la noi pentru doar %s";
-$_LANG['cartotherdomainsuggestions'] = "Alte domenii ce v-ar putea interesa...";
+$_LANG['cartotherdomainsuggestions'] = "Alte domenii ce te-ar putea interesa...";
 $_LANG['cartdomainsconfiginfo'] = "Următoarele opțiuni sunt disponibile pentru domeniile alese. Câmpurile obligatorii sunt marcate cu o steluță (*).";
 $_LANG['cartnameserverchoice'] = "Opțiuni de nameserver";
-$_LANG['cartnameserverchoicedefault'] = "Folosiți nameserverele implicite pentru găzduirea la noi";
-$_LANG['cartnameserverchoicecustom'] = "Folosiți nameservere proprii";
-$_LANG['cartfollowingaddonsavailable'] = "Următoarele opțiuni suplimentare sunt disponibile pentru produsele și serviciile dumneavoastră active.";
-$_LANG['cartregisterdomainchoice'] = "Înregistrați un domeniu nou";
-$_LANG['carttransferdomainchoice'] = "Transferați domeniul de la un alt registrar";
+$_LANG['cartnameserverchoicedefault'] = "Folosește nameserverele implicite pentru găzduirea la noi";
+$_LANG['cartnameserverchoicecustom'] = "Folosește nameservere proprii";
+$_LANG['cartfollowingaddonsavailable'] = "Următoarele opțiuni suplimentare sunt disponibile pentru produsele și serviciile taleactive.";
+$_LANG['cartregisterdomainchoice'] = "Înregistrează un domeniu nou";
+$_LANG['carttransferdomainchoice'] = "Transferă domeniul de la un alt registrar";
 $_LANG['cartexistingdomainchoice'] = "Am domeniul meu (voi actualiza nameserverele)";
-$_LANG['cartsubdomainchoice'] = "Folosiți un subdomeniu de la %s";
-$_LANG['carterrordomainconfigskipped'] = "Trebuie să completați câmpurile obligatorii";
-$_LANG['cartproductchooseoptions'] = "Alegeți opțiunile";
+$_LANG['cartsubdomainchoice'] = "Folosește un subdomeniu de la %s";
+$_LANG['carterrordomainconfigskipped'] = "Trebuie să completezi câmpurile obligatorii";
+$_LANG['cartproductchooseoptions'] = "Alege opțiunile";
 $_LANG['cartproductselection'] = "Selectare servicii";
 $_LANG['cartreviewcheckout'] = "Finalizare comandă";
 $_LANG['cartchoosecycle'] = "Tipul abonamentului";
 $_LANG['cartavailableaddons'] = "Extra-opțiuni";
 $_LANG['cartsetupfees'] = "Taxe de instalare";
-$_LANG['cartchooseanotherproduct'] = "Alegeți alt produs";
-$_LANG['cartaddandcheckout'] = "Adăugați în coș și trimiteți comanda";
-$_LANG['cartchooseanothercategory'] = "Alegeți altă categorie";
-$_LANG['carttryanotherdomain'] = "Încercați alt domeniu";
-$_LANG['cartmakedomainselection'] = "Alegeți domeniul dorit pentru serviciul de hosting.";
+$_LANG['cartchooseanotherproduct'] = "Alege alt produs";
+$_LANG['cartaddandcheckout'] = "Adaugă în coș și trimite comanda";
+$_LANG['cartchooseanothercategory'] = "Alege altă categorie";
+$_LANG['carttryanotherdomain'] = "Încearcă alt domeniu";
+$_LANG['cartmakedomainselection'] = "Alege domeniul dorit pentru serviciul de hosting.";
 $_LANG['cartfraudcheck'] = "Verificare antifraudă";
+$_LANG['cartapifailedtoloadcart'] = "Sistemul nu a putut procesa coșul de cumpărături. <strong><a href=\"cart.php\">Click aici</a></strong> pentru a începe o nouă comandă.";
 
 $_LANG['newcustomer'] = "Client nou";
 $_LANG['existingcustomer'] = "Sunt deja client";
-$_LANG['newcustomersignup'] = "<strong>Nu v-ați înregistrat încă?</strong> %sClick aici...%s";
+$_LANG['newcustomersignup'] = "<strong>Nu te-ai înregistrat încă?</strong> %sClick aici...%s";
 
 $_LANG['upgradeonselectedoptions'] = "(La opțiunile selectate)";
 $_LANG['recurringpromodesc'] = "Acest cod promoțional include de asemenea și un %s discount recurent<br />(Acest discount se va aplica plăților viitoare pentru costul total al produsului sau serviciului)";
@@ -1111,13 +1112,12 @@ $_LANG['recurringpromodesc'] = "Acest cod promoțional include de asemenea și u
 # Version 4.5.2
 
 $_LANG['ajaxcartcheckout'] = "Comandă directă »";
-$_LANG['ordersummarybegin'] = "Coșul de cumpărături este gol<br/>Alege un serviciu pentru a începe...";
-$_LANG['ajaxcartconfigreqnotice'] = "Pentru a putea achiziționa un serviciu de la noi, mai întâi trebuie să alegeți un domeniu ...";
+$_LANG['ajaxcartconfigreqnotice'] = "Pentru a putea achiziționa un serviciu de la noi, mai întâi trebuie să alegi un domeniu ...";
 
 # Version 5.0.0
 
-$_LANG['cancelrequestdomain'] = "Anulați reînnoirea domeniului?";
-$_LANG['cancelrequestdomaindesc'] = "De asemenea trebuie să luați în considerare și rezervarea domeniului asociat acestui serviciu.<br />Acest domeniu trebuie reînnoit la %s cu un cost de %s pentru %s an(i)<br /><br />Dacă  doriți să renunțați și la domeniu, bifați căsuța de mai jos.";
+$_LANG['cancelrequestdomain'] = "Anulezi reînnoirea domeniului?";
+$_LANG['cancelrequestdomaindesc'] = "De asemenea trebuie să iei în considerare și rezervarea domeniului asociat acestui serviciu.<br />Acest domeniu trebuie reînnoit la %s cu un cost de %s pentru %s an(i)<br /><br />Dacă vrei să renunți și la domeniu, bifează căsuța de mai jos.";
 $_LANG['cancelrequestdomainconfirm'] = "Confirm faptul că nu doresc reînoirea acestui domeniu";
 
 $_LANG['startingfrom'] = "Începănd de la";
@@ -1126,22 +1126,22 @@ $_LANG['orderpromopriceoverride'] = "Preț special";
 $_LANG['orderpromofreesetup'] = "Configurare gratuită";
 
 $_LANG['thereisaproblem'] = "Oops, a apărut o problemă...";
-$_LANG['problemgoback'] = "Navigați înapoi și încercați din nou";
+$_LANG['problemgoback'] = "Du-te înapoi și încearcă din nou";
 
 $_LANG['quantity'] = "Cantitatea";
-$_LANG['cartqtyenterquantity'] = "Doriți mai multe? Introduceți cantitatea aici:";
+$_LANG['cartqtyenterquantity'] = "Vrei mai multe? Introdu cantitatea aici:";
 $_LANG['cartqtyupdate'] = "Modifică";
 $_LANG['invoiceqtyeach'] = "/fiecare";
 
 $_LANG['nschoicedefault'] = "Nameserverele implicite";
-$_LANG['nschoicecustom'] = "Nameservere proprii (introduceți mai jos)";
+$_LANG['nschoicecustom'] = "Nameservere proprii (introdu-le mai jos)";
 
 $_LANG['jumpto'] = "Du-te la";
 $_LANG['top'] = "Sus";
 
-$_LANG['domaincontactusexisting'] = "Folosiți datele de contact existente";
-$_LANG['domaincontactusecustom'] = "Folosiți informațiile completate mai jos";
-$_LANG['domaincontactchoose'] = "Alegeți persoana de contact";
+$_LANG['domaincontactusexisting'] = "Folosește datele existente de contact";
+$_LANG['domaincontactusecustom'] = "Folosește informațiile completate mai jos";
+$_LANG['domaincontactchoose'] = "Alege persoana de contact";
 $_LANG['domaincontactprimary'] = "Informații de profil";
 
 $_LANG['invoicepdfgenerated'] = "Document PDF generat la";
@@ -1152,21 +1152,21 @@ $_LANG['promonewsignupsonly'] = "Această promoție este destinată doar clienț
 
 # Bulk Domain Management
 
-$_LANG['domainbulkmanagement'] = "Administrare multiplă domenii";
+$_LANG['domainbulkmanagement'] = "Administrare domenii multiple";
 $_LANG['domainbulkmanagementchangesaffect'] = "Modificările de mai jos vor afecta următoarele domenii:";
 $_LANG['domainbulkmanagementchangeaffect'] = "Această modificare se va aplica următoarelor domenii:";
-$_LANG['domaincannotbemanaged'] = "nu poate fi gestionat automat - contactați echipa de asistență tehnică în legătură cu modificările dorite.";
-$_LANG['domainbulkmanagementnotpossible'] = "Din păcate aceste setări nu pot fi modificate în contul dumneavoastră de client. Contactați echipa de asistență tehnică în legătură cu modificările dorite.";
+$_LANG['domaincannotbemanaged'] = "nu poate fi gestionat automat - contactează echipa de asistență tehnică în legătură cu modificările dorite.";
+$_LANG['domainbulkmanagementnotpossible'] = "Din păcate aceste setări nu pot fi modificate în contul tău. Contactează echipa de asistență tehnică în legătură cu modificările dorite.";
 
 $_LANG['domainmanagens'] = "Administrare nameservere";
 
 $_LANG['domainautorenewstatus'] = "Reînnoire automată";
-$_LANG['domainautorenewinfo'] = "Reînnoirea automată vă ajută să vă protejați domeniul. Odată activată, veți primi automat o factură proformă cu câteva săptămâni înainte de expirare, iar domeniul va fi reînnoit imediat după plată.";
-$_LANG['domainautorenewrecommend'] = "Vă recomandăm păstrarea opțiunii de reînnoire automată pentru a evita pierderea accidentală a domeniilor.";
+$_LANG['domainautorenewinfo'] = "Reînnoirea automată te ajută să-ți protejați domeniul. Odată activată, vei primi automat o factură proformă cu câteva săptămâni înainte de expirare, iar domeniul va fi reînnoit imediat după plată.";
+$_LANG['domainautorenewrecommend'] = "Îți recomandăm păstrarea opțiunii de reînnoire automată pentru a evita pierderea accidentală a domeniilor.";
 
 $_LANG['domainreglockstatus'] = "Blocare la registrar";
-$_LANG['domainreglockinfo'] = "Blocarea la registrar (denumită și Theft Protection) securizează domeniul dumneavoastră împotriva transferurilor nedorite.";
-$_LANG['domainreglockrecommend'] = "Vă recomandăm păstrarea acestei opțiuni activate, exceptând momentele când transferați domeniile în altă parte.";
+$_LANG['domainreglockinfo'] = "Blocarea la registrar (denumită și Theft Protection) securizează domeniul tău împotriva transferurilor nedorite.";
+$_LANG['domainreglockrecommend'] = "Îți recomandăm păstrarea acestei opțiuni activate, exceptând momentele când transferi domeniile în altă parte.";
 $_LANG['domainreglockenable'] = "Blocare domeniu";
 $_LANG['domainreglockdisable'] = "Deblocare domeniu";
 
@@ -1177,12 +1177,12 @@ $_LANG['domainmassrenew'] = "Reînnoire domenii";
 # reCAPTCHA
 
 $_LANG['captchatitle'] = "Verificare anti-spam";
-$_LANG['captchaverify'] = "Vă rugăm să introduceți caracterele din imaginea de mai jos. Această măsură este necesară pentru a preveni trimiterea automatizată de spam.";
-$_LANG['captchaverifyincorrect'] = "Caracterele introduse nu se potrivesc cu cele afișate. Mai încercați o dată.";
-$_LANG['googleRecaptchaIncorrect'] = "Completați codul captcha și încercați din nou.";
-$_LANG['recaptcha-invalid-site-private-key'] = "A apărut o eroare, contactați echipa de asistență tehnică (cod de eroare: cap1)";
-$_LANG['recaptcha-invalid-request-cookie'] = "A apărut o eroare, încercați din nou (cod de eroare: cap2)";
-$_LANG['recaptcha-incorrect-captcha-sol'] = "Caracterele introduse nu se potrivesc cu verificarea de sintaxă. Încercați din nou.";
+$_LANG['captchaverify'] = "Te rugăm să introduci caracterele din imaginea de mai jos. Această măsură este necesară pentru a preveni trimiterea automatizată de spam.";
+$_LANG['captchaverifyincorrect'] = "Caracterele introduse nu se potrivesc cu cele afișate. Mai încearcă o dată.";
+$_LANG['googleRecaptchaIncorrect'] = "Completează codul captcha și încearcă din nou.";
+$_LANG['recaptcha-invalid-site-private-key'] = "A apărut o eroare, contactează echipa de asistență tehnică (cod de eroare: cap1)";
+$_LANG['recaptcha-invalid-request-cookie'] = "A apărut o eroare, încearcă din nou (cod de eroare: cap2)";
+$_LANG['recaptcha-incorrect-captcha-sol'] = "Caracterele introduse nu se potrivesc cu verificarea de sintaxă. Încearcă din nou.";
 
 # Product Bundles
 
