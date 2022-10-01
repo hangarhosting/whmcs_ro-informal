@@ -1115,7 +1115,7 @@ $_LANG['recurringpromodesc'] = "Acest cod promoțional include de asemenea și u
 # Version 4.5.2
 
 $_LANG['ajaxcartcheckout'] = "Comandă directă »";
-$_LANG['ordersummarybegin'] = "Coșul de cumpărături este gol<br/>Alegeți un serviciu pentru a începe...";
+$_LANG['ordersummarybegin'] = "Coșul de cumpărături este gol<br/>Alege un serviciu pentru a începe...";
 $_LANG['ajaxcartconfigreqnotice'] = "Pentru a putea achiziționa un serviciu de la noi, mai întâi trebuie să alegeți un domeniu ...";
 
 # Version 5.0.0
