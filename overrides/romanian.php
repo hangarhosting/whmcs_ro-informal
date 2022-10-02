@@ -2840,8 +2840,8 @@ $_LANG['disabled'] = "Inactivă";
 
 $_LANG['copyrightFooterNotice'] = "Copyright © :year :company. Toate drepturile rezervate.";
 
-$_LANG['paymentMethods']['title'] = "Modalități de Plată";
-$_LANG['paymentMethods']['intro'] = "Sumarul modalitaților dvs de Plată și setările aferente";
+$_LANG['paymentMethods']['title'] = "Modalități de plată";
+$_LANG['paymentMethods']['intro'] = "Sumarul modalitaților tale de plată și setările aferente";
 $_LANG['paymentMethods']['description'] = "Descriere";
 $_LANG['paymentMethods']['cardDescription'] = "Descriere Card";
 $_LANG['paymentMethods']['descriptionInput'] = "Introduceți un nume pentru acest card";
@@ -3154,8 +3154,8 @@ $_LANG['errors']['badRequestTryAgain'] = "A apărut o eroare. Vă rugăm să în
 $_LANG['paymentMethods']['iban'] = "IBAN";
 $_LANG['paymentMethods']['mandateAcceptance'] = "Prin furnizarea IBAN și confirmarea acestei plăți, autorizați: :companyName și Stripe, furnizorul nostru de servicii de plată, să trimită instrucțiuni băncii dvs. pentru a vă debita contul și banca pentru a vă debita contul în conformitate cu instrucțiunile respective. Aveți dreptul la o rambursare de la banca dvs. în termenii și condițiile acordului dvs. cu banca dvs. O rambursare trebuie să fie solicitată în termen de 8 săptămâni de la data debitării contului.";
 
-$_LANG['metrics']['title'] = "Măsurători";
-$_LANG['metrics']['explanation'] = "Pe lângă prețul de bază, acest produs este facturat și pe baza resurselor utilizate. Resursele măsurate și prețurile de facturare sunt afișate mai jos.";
+$_LANG['metrics']['title'] = "Resurse";
+$_LANG['metrics']['explanation'] = "Pe lângă prețul de bază, acest serviciu este facturat și pe baza resurselor utilizate.<br />Resursele urmărite și prețurile de facturare sunt afișate mai jos.";
 $_LANG['metrics']['from'] = "De la";
 $_LANG['metrics']['to'] = "La";
 $_LANG['metrics']['startingQuantity'] = "Cantitate minimă";
@@ -3174,9 +3174,9 @@ $_LANG['metrics']['pricingschema']['flat']['detail'] = "Prețul unitar este dete
 $_LANG['metrics']['previousUsage'] = "Utilizare anterioară";
 $_LANG['metrics']['currentUsage'] = "Utilizare curentă";
 $_LANG['metrics']['lastUpdated'] = "Ultima actualizare";
-$_LANG['metrics']['metric'] = "Măsurătoare";
+$_LANG['metrics']['metric'] = "Resursa";
 $_LANG['metrics']['billing'] = "facturare";
-$_LANG['metrics']['includedNotCounted'] = "resurse incluse";
+$_LANG['metrics']['includedNotCounted'] = "am inclus deja";
 $_LANG['metrics']['includedInBase'] = "Inclus în prețul de bază";
 
 $_LANG['metrics']['invoiceitem']['perunit'] = ":Consumat :metricname @ :price pe :perUnitName";
