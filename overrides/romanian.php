@@ -1562,7 +1562,7 @@ $_LANG['customActionException'] = "An exception has occurred. Te rugăm să cont
 
 # Version 6.0
 
-$_LANG['announcementschoosemonth'] = "Alegeți luna";
+$_LANG['announcementschoosemonth'] = "Alege luna";
 $_LANG['announcementsbymonth'] = "După lună";
 $_LANG['announcementsolder'] = "Anunțuri vechi";
 $_LANG['createnewcontact'] = "Contact nou";
@@ -1574,31 +1574,31 @@ $_LANG['contacts'] = "Contacte";
 $_LANG['backtoservicedetails'] = "Înapoi la detaliile serviciului";
 $_LANG['invoicesintro'] = "Istoricul facturilor emise";
 
-$_LANG['sidebars']['viewAccount']['yourAccount'] = "Contul dumneavoastră";
+$_LANG['sidebars']['viewAccount']['yourAccount'] = "Contul meu";
 $_LANG['sidebars']['viewAccount']['myDetails'] = "Detaliile mele";
-$_LANG['sidebars']['viewAccount']['billingInformation'] = "Informații de facturare";
-$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Contacte/Conturi secundare";
+$_LANG['sidebars']['viewAccount']['billingInformation'] = "Facturi";
+$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Contacte și sub-conturi";
 $_LANG['sidebars']['viewAccount']['changePassword'] = "Modificare parolă";
 $_LANG['sidebars']['viewAccount']['securitySettings'] = "Securitate";
 $_LANG['sidebars']['viewAccount']['emailHistory'] = "Istoric e-mailuri";
 
 $_LANG['aboutsecurityquestions'] = "De ce întrebări de securitate?";
-$_LANG['registersecurityquestionblurb'] = "Configurarea unei întrebări de securitate va asigura un nivel suplimentar de protecție, devreme ce orice modificări în contul dumneavoastră vor trebui confirmate cu detaliile acestei întrebări.";
+$_LANG['registersecurityquestionblurb'] = "Configurarea unei întrebări de securitate îți asigură un nivel suplimentar de protecție, devreme ce orice modificări în contul tău vor trebui confirmate cu detaliile acestei întrebări.";
 
 $_LANG['update'] = "Actualizare";
-$_LANG['yourinfo'] = "Datele dumneavoastră";
+$_LANG['yourinfo'] = "Datele tale";
 $_LANG['shortcuts'] = "Link-uri directe";
 
-$_LANG['yourservices'] = "Serviciile dumneavoastră";
-$_LANG['yourdomains'] = "Domeniile dumneavoastră";
-$_LANG['yourtickets'] = "Tichetele dumneavoastră";
+$_LANG['yourservices'] = "Serviciile tale";
+$_LANG['yourdomains'] = "Domeniile tale";
+$_LANG['yourtickets'] = "Tichetele tale";
 $_LANG['managecontacts'] = "Contacte";
 $_LANG['billingdetails'] = "Detalii de facturare";
-$_LANG['homechooseproductservice'] = "Alegeți un produs sau serviciu pentru configurare:";
+$_LANG['homechooseproductservice'] = "Alege un produs sau serviciu pentru configurare:";
 
 $_LANG['invoicesdue'] = "facturi scadente";
-$_LANG['invoicesduemsg'] = "În prezent aveți %s facturi neachitate, cu o balanță totală de %s";
-$_LANG['noinvoicesduemsg'] = "Felicitări! Nu aveți restanțe de plată în acest moment.";
+$_LANG['invoicesduemsg'] = "În prezent ai %s facturi neachitate, cu o balanță totală de %s";
+$_LANG['noinvoicesduemsg'] = "Felicitări! Nu ai restanțe de plată în acest moment.";
 
 $_LANG['expiringsoon'] = "Expiră în curând";
 
@@ -1613,8 +1613,8 @@ $_LANG['servername'] = "Server";
 $_LANG['visitwebsite'] = "Vizitează site-ul";
 $_LANG['whoisinfo'] = "Informații WHOIS";
 
-$_LANG['tableshowing'] = "Se afișează articolele de la _START_ la _END_ din _TOTAL_";
-$_LANG['tableempty'] = "Se afișează articolele de la 0 la 0 din 0";
+$_LANG['tableshowing'] = "Afișăm articolele de la _START_ la _END_ din _TOTAL_";
+$_LANG['tableempty'] = "Nu sunt articole";
 $_LANG['tablefiltered'] = "(filtrate din cele _MAX_ (de) articole)";
 $_LANG['tablelength'] = "Articole pe pagină: _MENU_";
 $_LANG['tableloading'] = "Se încarcă...";
@@ -1630,14 +1630,14 @@ $_LANG['actions'] = "Acțiuni";
 
 $_LANG['upgradedowngradeshort'] = "Modificare pachet";
 
-$_LANG['masspayintro'] = "Achitați toate aceste facturi într-un singur pas";
-$_LANG['masspaymentselectgateway'] = "Alegeți modalitatea de plată în masă";
+$_LANG['masspayintro'] = "Achită toate aceste facturi într-un singur pas";
+$_LANG['masspaymentselectgateway'] = "Alege modalitatea de plată în masă";
 
 $_LANG['ticketfeedbackrequest'] = "Solicitare de feedback";
 $_LANG['ticketfeedbackforticket'] = "pentru tichetul #";
 
 $_LANG['notifications'] = "Alerte";
-$_LANG['notificationsnone'] = "Nu aveți mesaje în acest moment.";
+$_LANG['notificationsnone'] = "Nu ai mesaje în acest moment.";
 
 $_LANG['creditcardnonestored'] = "Nu avem detalii de card";
 
@@ -1649,8 +1649,8 @@ $_LANG['transferinadomain'] = "Transfer domeniu";
 
 $_LANG['nodomainextensions'] = "Nu există în acest moment extensii disponibile de domenii";
 
-$_LANG['homebegin'] = "Începeți căutarea domeniului perfect ...";
-$_LANG['howcanwehelp'] = "Cum vă putem ajuta azi?";
+$_LANG['homebegin'] = "Începe căutarea domeniului perfect ...";
+$_LANG['howcanwehelp'] = "Cum te putem ajuta azi?";
 $_LANG['exampledomain'] = "ex. example.com";
 $_LANG['buyadomain'] = "Domenii";
 $_LANG['orderhosting'] = "Hosting";
@@ -1662,27 +1662,28 @@ $_LANG['allthelatest'] = "Ultimele anunțuri de la";
 $_LANG['readmore'] = "Continuare";
 $_LANG['noannouncements'] = "Nu sunt anunțuri disponibile";
 
-$_LANG['kbsearchexplain'] = "Aveți o întrebare? Căutați aici.";
-$_LANG['readyforquestions'] = "Așteptăm întrebările dumneavoastră";
+$_LANG['kbsearchexplain'] = "Ai o întrebare? Caută aici.";
+$_LANG['readyforquestions'] = "Așteptăm întrebările tale";
 
 $_LANG['restrictedpage'] = "Accesul la această pagină este restricționat";
-$_LANG['enteremail'] = "Introduceți adresa e-mail";
+$_LANG['enteremail'] = "Introdu adresa e-mail";
+$_LANG['restricted'] = "Restricționat";
 
-$_LANG['passwordtips'] = "<strong>Sfaturi pentru o parolă complexă</strong><br />Folosiți caractere mici și MARI<br />Includeți măcar două simboluri (# $ ! % & etc.)<br />Nu folosiți cuvinte din dicționar";
+$_LANG['passwordtips'] = "<strong>Sfaturi pentru o parolă complexă</strong><br />Folosește caractere mici și MARI<br />Include măcar două simboluri (# $ ! % & etc.)<br />Nu folosi cuvinte din dicționar";
 
 $_LANG['regdate'] = "Data înregistrării";
 $_LANG['nextdue'] = "Următoarea scadență";
 
-$_LANG['findyourdomain'] = "Căutați un nou domeniu";
-$_LANG['searchtermrequired'] = "Trebuie să introduceți un nume de domeniu pentru căutare";
+$_LANG['findyourdomain'] = "Caută un nou domeniu";
+$_LANG['searchtermrequired'] = "Trebuie să introduci un nume de domeniu pentru căutare";
 $_LANG['unabletolookup'] = "Ne pare rău, nu putem căuta termenul introdus";
-$_LANG['invalidchars'] = "Vă rugăm să ștergeți spațiile sau caracterele speciale de punctuație.";
+$_LANG['invalidchars'] = "Te rugăm să ștergi spațiile sau caracterele speciale de punctuație.";
 $_LANG['bulkoptions'] = "Opțiuni bulk";
 $_LANG['checkingdomain'] = "Verificăm dacă domeniul solicitat este disponibil ...";
 $_LANG['domainsgotocheckout'] = "Vezi coșul";
 $_LANG['domainssearchresults'] = "Rezultatele căutării";
 $_LANG['domainssuggestions'] = "Alte sugestii";
-$_LANG['domainsothersuggestions'] = "Puteți alege unul din următoarele domenii alternative";
+$_LANG['domainsothersuggestions'] = "Poți alege unul din următoarele domenii alternative";
 $_LANG['domainsmoresuggestions'] = "Alte sugestii!";
 $_LANG['domainssuggestionswarnings'] = "Este posibil ca unele din domeniile sugerate să nu fie disponibile. Disponibilitatea este verificată la momentul adăugării în coș.";
 $_LANG['disclaimers'] = "Declinarea responsabilității";
@@ -1697,19 +1698,19 @@ $_LANG['ticketsyourhistory'] = "Istoricul tichetelor de suport";
 $_LANG['clientareaemaildesc'] = "Istoricul mesajelor";
 
 $_LANG['sslconfssl'] = "Configurare SSL";
-$_LANG['sslnoconfigurationpossible'] = "Configurarea a fost deja finalizată!  Vă rugăm să contactați echipa de suport dacă întâmpinați probleme.";
+$_LANG['sslnoconfigurationpossible'] = "Configurarea a fost deja finalizată!  Te rugăm să contactezi echipa de suport dacă ai probleme.";
 
-$_LANG['adminloggedin'] = "Sunteți autentificat(ă) ca și admin.";
-$_LANG['returntoadminarea'] = "Înapoi la zona admin";
-$_LANG['adminmasqueradingasclient'] = "Acum sunteți logat ca și client";
-$_LANG['logoutandreturntoadminarea'] = "Înapoi la zona admin";
+$_LANG['adminloggedin'] = "Ești autentificat(ă) ca și administrator.";
+$_LANG['returntoadminarea'] = "Înapoi la panoul de administrare";
+$_LANG['adminmasqueradingasclient'] = "Acum ești autentificat ca și client";
+$_LANG['logoutandreturntoadminarea'] = "Înapoi la panoul de administrare";
 
 $_LANG['supportAndUpdatesExpired'] = "Actualizările și suportul au expirat.";
-$_LANG['supportAndUpdatesExpiredLicense'] = "Perioada dumneavoastră de suport și actualizări pentru această licență a expirat";
+$_LANG['supportAndUpdatesExpiredLicense'] = "Perioada de suport și actualizări pentru această licență a expirat";
 $_LANG['supportAndUpdatesRenewalRequired'] = "Licența de suport și actualizări trebuie reînnoită înainte de a putea accesa acest fișier.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Click aici pentru reînnoire";
 
-$_LANG['pwresetemailneeded'] = "Ați uitat parola? Introduceți mai jos adresa dumneavoastră de e-mail pentru a începe procesul de regenerare.";
+$_LANG['pwresetemailneeded'] = "Ai uitat parola? Introdu mai jos adresa ta e-mail pentru a începe procesul de regenerare.";
 
 $_LANG['quotestageexpired'] = "Oferte expirate";
 
@@ -1725,25 +1726,25 @@ $_LANG['domainsPendingRegistration'] = "Înregistrarea în așteptare";
 $_LANG['domainsPendingTransfer'] = "Domenii în curs de transferare";
 $_LANG['domainsTransferredAway'] = "Transferat";
 
-$_LANG['kbtagcloud'] = "Etichete cloud";
+$_LANG['kbtagcloud'] = "Etichete";
 
 $_LANG['cancellationrequestedexplanation'] = "Există o solicitare de renunțare la acest produs sau serviciu";
 $_LANG['cancellationrequested'] = "Anulare solicitată";
 
-$_LANG['yourrecenttickets'] = "Tichetele dumneavoastră recente";
+$_LANG['yourrecenttickets'] = "Tichete recente";
 
-$_LANG['domains']['deTermsDescription1'] = "Pentru a înregistra un nou domeniu, a transfera sau modifica datele existente, trebuie să acceptați explicit termenii și condițiile .DE.";
-$_LANG['domains']['deTermsDescription2'] = "(Urmăriți întregul text al termenilor și condițiilor .de la adresa următoare: http://www.denic.de/en/bedingungen.html.)";
+$_LANG['domains']['deTermsDescription1'] = "Pentru a înregistra un nou domeniu, a transfera sau modifica datele existente, trebuie să accepți explicit termenii și condițiile .DE.";
+$_LANG['domains']['deTermsDescription2'] = "(Verifică întregul text al termenilor și condițiilor .de la adresa următoare: https://www.denic.de/en/bedingungen.html)";
 $_LANG['directDebitPageTitle'] = "Debit direct";
 $_LANG['directDebitHeader'] = "Plată prin debit direct";
-$_LANG['directDebitErrorNoBankName'] = "Trebuie să introduceți numele băncii dumneavoastră";
-$_LANG['directDebitErrorAccountType'] = "Trebuie să alegeți tipul contului";
-$_LANG['directDebitErrorNoABA'] = "Trebuie să introduceți codul ABA al băncii dumneavoastră";
-$_LANG['directDebitErrorAccNumber'] = "Trebuie să introduceți numărul contului dumneavoastră bancar";
-$_LANG['directDebitErrorConfirmAccNumber'] = "Trebuie să confirmați numărul contului bancar";
+$_LANG['directDebitErrorNoBankName'] = "Trebuie să introduci numele băncii tale";
+$_LANG['directDebitErrorAccountType'] = "Trebuie să alegi tipul contului";
+$_LANG['directDebitErrorNoABA'] = "Trebuie să introduci codul ABA al băncii tale";
+$_LANG['directDebitErrorAccNumber'] = "Trebuie să introduci numărul contului tău bancar";
+$_LANG['directDebitErrorConfirmAccNumber'] = "Trebuie să confirmi numărul contului bancar";
 $_LANG['directDebitErrorAccNumberMismatch'] = "Numărul contului bancar și confirmarea acestuia nu se potrivesc";
-$_LANG['directDebitThanks'] = "Vă mulțumim pentru detalii. Vom încerca să procesăm plata în zilele următoare folosind datele furnizate și vă vom contacta dacă apar probleme.";
-$_LANG['directDebitPleaseSubmit'] = "Vă rugăm introduceți datele băncii dumneavoastră pentru plata prin debit direct.";
+$_LANG['directDebitThanks'] = "Îți mulțumim pentru detalii. Vom încerca să procesăm plata în zilele următoare folosind datele furnizate și te vom contacta dacă apar probleme.";
+$_LANG['directDebitPleaseSubmit'] = "Te rugăm să introduci datele băncii tale pentru plata prin debit direct.";
 $_LANG['directDebitBankName'] = "Numele băncii";
 $_LANG['directDebitAccountType'] = "Tipul băncii";
 $_LANG['directDebitABA'] = "Codul ABA al băncii";
@@ -1767,53 +1768,53 @@ $_LANG['invoicelineitems'] = "Articole facturate";
 $_LANG['quotelineitems'] = "Articole ofertate";
 
 $_LANG['quoteproposal'] = "Propunere";
-$_LANG['quoteacceptagreetos'] = "Pentru a accepta oferta, vă rugăm să confirmați acceptarea Termenilor și Condițiilor de livrare a Serviciilor.";
-$_LANG['quoteacceptcontractwarning'] = "Vă rugăm să înțelegeți că acceptarea ofertei se consideră ca fiind încheierea unui contract și nu o veți putea anula odata ce ați acceptat-o.";
+$_LANG['quoteacceptagreetos'] = "Pentru a valida oferta, te rugăm să confirmi acceptarea Termenilor și Condițiilor de livrare a Serviciilor.";
+$_LANG['quoteacceptcontractwarning'] = "Te rugăm să înțelegi că acceptarea ofertei este considerată ca fiind încheierea unui contract și nu o vei putea anula odată ce ai acceptat-o.";
 
 // Client alerts
-$_LANG['clientAlerts']['creditCardExpiring'] = "Cardul dumneavoastră :creditCardType-:creditCardLastFourDigits expiră în  :days zile. Vă rugăm să actualizați datele de card când aveți timp.";
-$_LANG['clientAlerts']['domainsExpiringSoon'] = "Aveți :numberOfDomains domenii ce expiră în următoarele :days zile.";
-$_LANG['clientAlerts']['invoicesUnpaid'] = "Aveți :numberOfInvoices facturi neachitate. Pentru liniștea dvs, achitați-le la timp.";
-$_LANG['clientAlerts']['invoicesOverdue'] = "Aveți :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Achitați-le acum, pentru a evita întreruperea livrării serviciilor.";
-$_LANG['clientAlerts']['creditBalance'] = "Aveți un credit de :creditBalance.";
+$_LANG['clientAlerts']['creditCardExpiring'] = "Cardul tău :creditCardType-:creditCardLastFourDigits expiră în  :days zile. Te rugăm să actualizezi datele de card căt mai curând.";
+$_LANG['clientAlerts']['domainsExpiringSoon'] = "Ai :numberOfDomains domenii ce expiră în următoarele :days zile.";
+$_LANG['clientAlerts']['invoicesUnpaid'] = "Ai :numberOfInvoices facturi neachitate. Pentru liniștea ta, achită-le la timp.";
+$_LANG['clientAlerts']['invoicesOverdue'] = "Ai :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Achită-le acum, pentru a evita întreruperea livrării serviciilor.";
+$_LANG['clientAlerts']['creditBalance'] = "Ai un credit de :creditBalance.";
 
 // Client homepage panels
 $_LANG['clientHomePanels']['unpaidInvoices'] = "Facturi neachitate";
-$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Aveți :numberOfInvoices facturi neachitate, însumând o balanță totală de :balanceDue. Vă rugăm să le achitați la timp.";
+$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Ai :numberOfInvoices facturi neachitate, însumând o balanță totală de :balanceDue. Te rugăm să le achiți la timp.";
 $_LANG['clientHomePanels']['overdueInvoices'] = "Facturi depășite";
-$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Aveți :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Vă rugăm sa le achitați de urgență, pentru a evita întreruperea livrării serviciilor.";
+$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Ai :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Te rugăm sa le achiți de urgență, pentru a evita întreruperea livrării serviciilor.";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "Domenii ce expiră în curând";
-$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Aveți :numberOfDomains domenii ce expiră în următoarele :days zile. Pentru liniștea dumneavoastră, reînnoiți-le acum.";
+$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Ai :numberOfDomains domenii ce expiră în următoarele :days zile. Pentru liniștea ta, reînnoiește-le acum.";
 $_LANG['clientHomePanels']['activeProductsServices'] = "Servicii active";
-$_LANG['clientHomePanels']['activeProductsServicesNone'] = "Nu aveți produse sau servicii la noi. <a href=\"cart.php\">Plasați o comandă nouă pentru a începe</a>.";
+$_LANG['clientHomePanels']['activeProductsServicesNone'] = "Nu ai produse sau servicii la noi. <a href=\"cart.php\">Plasați o comandă nouă pentru a începe</a>.";
 $_LANG['clientHomePanels']['recentNews'] = "Anunțuri recente";
 $_LANG['clientHomePanels']['affiliateProgram'] = "Programul de afiliere";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "Tichete recente";
-$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nu am găsit tichete recente. Dacă doriți ajutor, vă rugăm <a href=\"submitticket.php\">deschideți o sesizare</a>.";
-$_LANG['clientHomePanels']['affiliateSummary'] = "Balanța dumneavoastră de comisioane este de :commissionBalance. Mai aveți nevoie de :amountUntilWithdrawalLevel pentru a putea retrage câștigurile.";
-$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Balanța dumneavoastră de comisioane este de :commissionBalance. Puteți retrage comisioanele acum.";
-$_LANG['clientHomePanels']['productsAndServices'] = "Browse our Products/Services";
+$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nu am găsit tichete recente. Dacă vrei ajutor, te rugăm <a href=\"submitticket.php\">deschide o sesizare</a>.";
+$_LANG['clientHomePanels']['affiliateSummary'] = "Balanța ta de comisioane este de :commissionBalance. Mai ai nevoie de :amountUntilWithdrawalLevel pentru a putea retrage câștigurile.";
+$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Balanța ta de comisioane este de :commissionBalance. Poți retrage comisioanele acum.";
+$_LANG['clientHomePanels']['productsAndServices'] = "Afișează produsele și serviciile noastre";
 
-$_LANG['upgradeNotPossible'] = "Transformarea acestui produs nu este posibilă.  Dacă considerați că ați ajuns aici dintr-o eroare, vă rugăm să notificați departamentul de suport.  Altfel, vă rugăm verificați din nou alegerea făcută.";
-$_LANG['upgradeSameProductMustExtendCycle'] = "Pentru a modifica perioada de facturare, vă rugăm sa alegeți o perioadă mai mare decât cea curentă";
+$_LANG['upgradeNotPossible'] = "Transformarea acestui produs nu este posibilă. Dacă consideri că ai ajuns aici dintr-o eroare, te rugăm să notifici departamentul de suport.  Altfel, te rugăm să verifici din nou alegerea făcută.";
+$_LANG['upgradeSameProductMustExtendCycle'] = "Pentru a modifica abonamentul, te rugăm sa alegi o perioadă mai mare decât cea curentă";
 
 $_LANG['hostingInfo'] = "Informații despre găzduire";
 $_LANG['additionalInfo'] = "Informații suplimentare";
-$_LANG['resourceUsage'] = "Utilizare resurse";
+$_LANG['resourceUsage'] = "Resurse utilizate";
 $_LANG['primaryIP'] = "Adresă IP primară";
 $_LANG['assignedIPs'] = "Adrese IP alocate";
-$_LANG['diskSpace'] = "Spațiu pe disc";
+$_LANG['diskSpace'] = "Spațiu de stocare";
 $_LANG['bandwidth'] = "Trafic lunar";
 $_LANG['registered'] = "Înregistrat";
-$_LANG['upgrade'] = "Upgrade";
+$_LANG['upgrade'] = "Modificare";
 
-$_LANG['downdoadsdesc'] = "Manuale, programe utile și alte fișiere ce v-ar putea interesa";
+$_LANG['downdoadsdesc'] = "Manuale, programe utile și alte fișiere ce te-ar putea interesa";
 
-$_LANG['doToday'] = "Ce doriți să faceți acum?";
-$_LANG['changeDomainNS'] = "Modificați nameserverele către care punctează domeniul dumneavoastră";
-$_LANG['updateWhoisContact'] = "Actualizați informațiile de contact WHOIS pentru domeniu";
-$_LANG['changeRegLock'] = "Modificați blocarea domeniului la registrar";
-$_LANG['renewYourDomain'] = "Reînnoiți domeniul";
+$_LANG['doToday'] = "Ce vrei să faci ?";
+$_LANG['changeDomainNS'] = "Modifică nameserverele către care punctează domeniul tău";
+$_LANG['updateWhoisContact'] = "Actualizează informațiile de contact WHOIS pentru domeniu";
+$_LANG['changeRegLock'] = "Modifică blocarea domeniului la registrar";
+$_LANG['renewYourDomain'] = "Reînnoiește domeniul";
 
 $_LANG['oops'] = "Oops";
 $_LANG['goback'] = "Înapoi";
@@ -1823,9 +1824,9 @@ $_LANG['blankCustomField'] = "(câmp gol)";
 $_LANG['viewAll'] = "Afișează-le pe toate";
 $_LANG['moreDetails'] = "Mai multe detalii";
 
-$_LANG['clientHomeSearchKb'] = "Căutați în biblioteca noastră de informații...";
+$_LANG['clientHomeSearchKb'] = "Caută în biblioteca noastră de informații...";
 
-$_LANG['whoisContactWarning'] = "Este important să mențineți actualizate informațiile de contact WHOIS ale domeniului, pentru a evita pierderea controlului asupra domeniului.";
+$_LANG['whoisContactWarning'] = "Este important să menții actualizate informațiile de contact WHOIS ale domeniului, pentru a evita pierderea controlului asupra acestuia.";
 
 $_LANG['paymentstodate'] = "Plăți la zi";
 $_LANG['balancedue'] = "Balanța de credit";
@@ -1836,20 +1837,20 @@ $_LANG['domaincheckertransferable'] = "Disponibil pentru transferare";
 $_LANG['domaincheckertaken'] = "Rezervat";
 $_LANG['domaincheckeradding'] = "se adaugă";
 $_LANG['domaincheckeradded'] = "Adăugat";
-$_LANG['domaincheckernomoresuggestions'] = "Acestea sunt toate rezultatele ce le-am găsit pentru dumneavoastră! Dacă încă nu ați găsit ceea ce căutați, vă rugăm încercați cu alte cuvinte cheie.";
+$_LANG['domaincheckernomoresuggestions'] = "Acestea sunt toate rezultatele ce le-am găsit pentru tine! Dacă încă nu ai găsit ceea ce cauți, te rugăm să încerci cu alte cuvinte cheie.";
 $_LANG['domaincheckerunabletooffertld'] = "Din păcate, nu putem înregistra acest TLD acum";
-$_LANG['domaincheckerbulkplaceholder'] = "Introduceți până la 20 de nume de domenii.\nFiecare domeniu trebuie să fie pe un rând nou.\n\nExemple:\nexample.com\nexample.net";
+$_LANG['domaincheckerbulkplaceholder'] = "Adaugă până la 20 de nume de domenii.\nFiecare domeniu trebuie să fie pe un rând nou.\n\nExemple:\nexample.com\nexample.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "Domeniu indisponibil";
-$_LANG['domainchecker']['suggestiontakenmsg'] = "Din păcate, domeniul ales nu este disponibil. Acest lucru se poate întâmpla când altcineva a înregistrat recent domeniul ales. Vă rugăm să vă întoarceți și să alegeți alt domeniu.";
-$_LANG['domainchecker']['suggestiontakenchooseanother'] = "Alegeți alt domeniu";
+$_LANG['domainchecker']['suggestiontakenmsg'] = "Din păcate, domeniul ales nu este disponibil. Acest lucru se poate întâmpla când altcineva a înregistrat recent domeniul ales. Alege alt domeniu.";
+$_LANG['domainchecker']['suggestiontakenchooseanother'] = "Alege alt domeniu";
 
 $_LANG['domainchecker']['alreadyincarttitle'] = "Este deja în coș";
-$_LANG['domainchecker']['alreadyincartmsg'] = "Acest domeniu este deja în coșul dumneavoastră de cumpărături. Continuați cu comanda pentru a finaliza achiziția.";
+$_LANG['domainchecker']['alreadyincartmsg'] = "Acest domeniu este deja în coșul tău. Continuă cu comanda pentru a finaliza achiziția.";
 $_LANG['domainchecker']['alreadyincartcheckoutnow'] = "Trimite comanda";
 
 $_LANG['genericerror']['title'] = "Oops, ceva nu a funcționat corect!";
-$_LANG['genericerror']['msg'] = "Vă rugăm să încercați din nou și dacă problema persistă, contactați echipa de asistență.";
+$_LANG['genericerror']['msg'] = "Te rugăm să încerci din nou și dacă problema persistă, contactează echipa de suport.";
 
 # Licensing Addon
 
@@ -1859,15 +1860,15 @@ $_LANG['licensingaddon']['downloadnow'] = "Descarcă acum";
 $_LANG['licensingaddon']['licensekey'] = "Cheie de licențiere";
 $_LANG['licensingaddon']['validdomains'] = "Domenii valide";
 $_LANG['licensingaddon']['validips'] = "Adrese IP valide";
-$_LANG['licensingaddon']['validdirectory'] = "Folder valid";
-$_LANG['licensingaddon']['status'] = "Stare licență";
+$_LANG['licensingaddon']['validdirectory'] = "Director valid";
+$_LANG['licensingaddon']['status'] = "Starea licenței";
 $_LANG['licensingaddon']['reissue'] = "Re-emite";
-$_LANG['licensingaddon']['reissuestatusmsg'] = "Domeniul valid, adresa IP și folderul de instalare vor fi detectate și salvate la următoarea verificare a licenței.";
+$_LANG['licensingaddon']['reissuestatusmsg'] = "Domeniul valid, adresa IP și directorul de instalare vor fi detectate și salvate la următoarea verificare a licenței.";
 $_LANG['licensingaddon']['manageLicense'] = "Configurare licență";
 
-$_LANG['affiliateWithdrawalSummary'] = "Veți putea solicita o retragere de îndată ce balanța dumneavoastră atinge plafonul minim de :amountForWithdrawal.";
+$_LANG['affiliateWithdrawalSummary'] = "Vei putea solicita o retragere de îndată ce balanța ta atinge plafonul minim de :amountForWithdrawal.";
 
-$_LANG['projectManagement']['activeProjects'] = "Proiectele dumneavoastră active";
+$_LANG['projectManagement']['activeProjects'] = "Proiectele tale active";
 
 # cPanel Module
 
@@ -1878,34 +1879,36 @@ $_LANG['cPanel']['purchaseActivate'] = "Comandă și activează";
 $_LANG['cPanel']['usageStats'] = "Statistici de utilizare";
 $_LANG['cPanel']['diskUsage'] = "Spațiu";
 $_LANG['cPanel']['bandwidthUsage'] = "Trafic";
-$_LANG['cPanel']['usageStatsBwLimitNear'] = "Vă apropiați de limita alocată de trafic.";
-$_LANG['cPanel']['usageStatsDiskLimitNear'] = "Vă apropiați de limita alocată de spațiu.";
+$_LANG['cPanel']['usageStatsBwLimitNear'] = "Te apropii de limita alocată de trafic.";
+$_LANG['cPanel']['usageStatsDiskLimitNear'] = "Te apropii de limita alocată de spațiu.";
 $_LANG['cPanel']['usageUpgradeNow'] = "Modificare abonament";
 $_LANG['cPanel']['usageLastUpdated'] = "Ultima actualizare";
 
 $_LANG['cPanel']['quickShortcuts'] = "Scurtături cPanel";
 $_LANG['cPanel']['emailAccounts'] = "Conturi email";
-$_LANG['cPanel']['forwarders'] = "Redirectări";
+$_LANG['cPanel']['forwarders'] = "Redirecționări";
 $_LANG['cPanel']['autoresponders'] = "Autorespondere";
 $_LANG['cPanel']['fileManager'] = "Editor de fișiere";
 $_LANG['cPanel']['backup'] = "Backup";
 $_LANG['cPanel']['subdomains'] = "Subdomenii";
 $_LANG['cPanel']['addonDomains'] = "Domenii suplimentare";
-$_LANG['cPanel']['cronJobs'] = "Activități programate";
+$_LANG['cPanel']['cronJobs'] = "Activități cron";
 $_LANG['cPanel']['mysqlDatabases'] = "Baze de date";
 $_LANG['cPanel']['phpMyAdmin'] = "phpMyAdmin";
-$_LANG['cPanel']['awstats'] = "Awstats";
+$_LANG['cPanel']['awstats'] = "Statistici AWstats";
 
-$_LANG['cPanel']['createEmailAccount'] = "Creează rapid un cont email";
+$_LANG['cPanel']['createEmailAccount'] = "Adaugă un cont e-mail";
 $_LANG['cPanel']['usernamePlaceholder'] = "Utilizatorul";
 $_LANG['cPanel']['passwordPlaceholder'] = "Parola dorită";
-$_LANG['cPanel']['create'] = "Creează";
-$_LANG['cPanel']['emailAccountCreateSuccess'] = "Contul email a fost definit cu succes!";
-$_LANG['cPanel']['emailAccountCreateFailed'] = "Definirea contului email a eșuat: ";
+$_LANG['cPanel']['create'] = "Adaugă";
+$_LANG['cPanel']['emailAccountCreateSuccess'] = "Contul e-mail a fost adăugau cu succes!";
+$_LANG['cPanel']['emailAccountCreateFailed'] = "Adăugarea contului e-mail a eșuat: ";
 
 $_LANG['cPanel']['packageNotActive'] = "În prezent, acest pachet de găzduire este";
-$_LANG['cPanel']['statusPendingNotice'] = "Nu puteți utiliza acest cont de găzduire atâta timp cât nu este activat.";
-$_LANG['cPanel']['statusSuspendedNotice'] = "Nu puteți utiliza sau configura acest cont până când nu va fi reactivat.";
+$_LANG['cPanel']['statusPendingNotice'] = "Nu poți utiliza acest cont de găzduire atâta timp cât nu este activat.";
+$_LANG['cPanel']['statusSuspendedNotice'] = "Nu poți utiliza sau configura acest cont până când nu va fi reactivat.";
+
+$_LANG['wordpress']['invalidPath'] = "Calea furnizată este invalidă.";
 
 $_LANG['cPanel']['billingOverview'] = "Facturi și plăți";
 
@@ -1913,22 +1916,22 @@ $_LANG['liveHelp']['chatNow'] = "Asistență live";
 
 $_LANG['quotes'] = "Oferte";
 
-$_LANG['productMustBeActiveForModuleCmds'] = "Produsul sau serviciul trebuie să fie activ pentru a efectua aceasta acțiune";
+$_LANG['productMustBeActiveForModuleCmds'] = "Produsul sau serviciul trebuie să fie activ pentru a efectua această acțiune";
 $_LANG['domainCannotBeManagedUnlessActive'] = "Acest domeniu nu este activ. Domeniile inactive nu pot fi configurate.";
 
-$_LANG['actionRequiresAtLeastOneDomainSelected'] = "Alegeți cel puțin un domeniu pentru a efectua acțiunea dorită.";
+$_LANG['actionRequiresAtLeastOneDomainSelected'] = "Alege cel puțin un domeniu pentru a efectua acțiunea dorită.";
 
-$_LANG['clientAreaProductDownloadsAvailable'] = "Următoarele fișiere sunt disponibile pentru produsul/serviciul dumneavoastră";
-$_LANG['clientAreaProductAddonsAvailable'] = "Produsul/serviciul dumneavoastră beneficiază de următoarele opțiuni suplimentare. <a href=\"cart.php?gid=addons\">Click aici pentru afișare și comandă »</a>";
-$_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "Pentru securitatea contului dumneavoastră, vă sugerăm să activați autentificarea cu doi factori.";
-$_LANG['clientAreaSecurityNoSecurityQuestions'] = "Configurarea unei întrebări de securitate vă protejează împotriva modificărilor abuzive ale datelor de acces și ne permite să vă verificăm identitatea atunci când solicitați modificarea datelor de contact.";
-$_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "Întrebarea de securitate vă protejează împotriva modificărilor abuzive ale datelor de acces și ne permite să vă verificăm identitatea atunci când solicitați modificarea datelor de contact.";
+$_LANG['clientAreaProductDownloadsAvailable'] = "Următoarele fișiere sunt disponibile pentru produsul/serviciul tău";
+$_LANG['clientAreaProductAddonsAvailable'] = "Produsul/serviciul tău are următoarele opțiuni suplimentare. <a href=\"cart.php?gid=addons\">Click aici pentru afișare și comandă »</a>";
+$_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "Pentru securitatea contului tău, îți recomandăm să activezi autentificarea cu doi factori.";
+$_LANG['clientAreaSecurityNoSecurityQuestions'] = "Configurarea unei întrebări de securitate te protejează împotriva modificărilor abuzive ale datelor de acces și ne permite să îți verificăm identitatea atunci când soliciți modificarea datelor de contact.";
+$_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "Întrebarea de securitate te protejează împotriva modificărilor abuzive ale datelor de acces și ne permite să îți verificăm identitatea atunci când soliciți modificarea datelor de contact.";
 
 $_LANG['billingAddress'] = "Adresa de facturare";
 
-$_LANG['noPasswordResetWhenLoggedIn'] = "Nu puteți cere resetarea parolei atunci când sunteți autentificat(ă). Vă rugăm sa ieșiți din portal.";
+$_LANG['noPasswordResetWhenLoggedIn'] = "Nu poți cere resetarea parolei atunci când ești autentificat(ă). Te rugăm sa ieși din portal.";
 
-$_LANG['unableToLoadShoppingCart'] = "Nu am putut accesa coșul de cumpărături. Vă rugăm să contactați echipa de suport.";
+$_LANG['unableToLoadShoppingCart'] = "Nu am putut accesa coșul de cumpărături. Te rugăm să contactezi echipa de suport.";
 
 $_LANG['showMenu'] = "[+] meniu";
 $_LANG['hideMenu'] = "[-] meniu";
@@ -1938,24 +1941,23 @@ $_LANG['featuredProduct'] = "cel mai popular";
 $_LANG['shoppingCartProductPerMonth'] = "<span>:price</span>/:countlună";
 $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countan";
 
-$_LANG['orderForm']['findNewDomain'] = "Introduceți domeniul dorit și verificați-i disponibilitatea; dacă este liber pentru înregistrare puteți continua cu comanda sau puteți verifica un alt domeniu.";
-$_LANG['orderForm']['transferExistingDomain'] = "Transferați-vă domeniul la noi.";
+$_LANG['orderForm']['findNewDomain'] = "Introdu domeniul dorit și verifică-i disponibilitatea; dacă este liber pentru înregistrare poți continua cu comanda sau poți verifica un alt domeniu.";
+$_LANG['orderForm']['transferExistingDomain'] = "Transferă-ți domeniul la noi.";
 $_LANG['orderForm']['www'] = "www.";
-$_LANG['orderForm']['check'] = "Verificați";
 $_LANG['orderForm']['returnToClientArea'] = "Înapoi la portalul clienților";
 $_LANG['orderForm']['checkout'] = "Finalizare comandă";
 $_LANG['orderForm']['alreadyRegistered'] = "Deja înregistrat?";
 $_LANG['orderForm']['createAccount'] = "Cont nou";
-$_LANG['orderForm']['enterPersonalDetails'] = "Vă rugăm să introduceți datele dumneavoastră personale și informațiile de facturare la finalizarea comenzii.";
-$_LANG['orderForm']['correctErrors'] = "Vă rugăm să corectați următoarele erori înainte de a continua";
+$_LANG['orderForm']['enterPersonalDetails'] = "Te rugăm să introduci datele personale și informațiile de facturare la finalizarea comenzii.";
+$_LANG['orderForm']['correctErrors'] = "Te rugăm să corectezi următoarele erori înainte de a continua";
 $_LANG['orderForm']['existingCustomerLogin'] = "Client existent";
-$_LANG['orderForm']['emailAddress'] = "Email";
+$_LANG['orderForm']['emailAddress'] = "E-mail";
 $_LANG['orderForm']['personalInformation'] = "Informații personale";
 $_LANG['orderForm']['firstName'] = "Prenume";
 $_LANG['orderForm']['lastName'] = "Nume";
 $_LANG['orderForm']['phoneNumber'] = "Telefon";
-$_LANG['orderForm']['billingAddress'] = "Adresă facturare";
-$_LANG['orderForm']['companyName'] = "Nume companie";
+$_LANG['orderForm']['billingAddress'] = "Adresă de facturare";
+$_LANG['orderForm']['companyName'] = "Numele firmei";
 $_LANG['orderForm']['optional'] = "Opțional";
 $_LANG['orderForm']['streetAddress'] = "Adresa";
 $_LANG['orderForm']['streetAddress2'] = "Adresa 2";
@@ -1963,31 +1965,31 @@ $_LANG['orderForm']['city'] = "Oraș";
 $_LANG['orderForm']['state'] = "Județ";
 $_LANG['orderForm']['country'] = "Țara";
 $_LANG['orderForm']['postcode'] = "Cod poștal";
-$_LANG['orderForm']['domainAlternativeContact'] = "Puteți specifica detalii de contact alternative, pentru a le folosi la înregistrarea de domenii, plasarea unei comenzi în numele unei alte persoane sau entități. Dacă nu aveți nevoie de acest lucru, puteți sări peste această secțiune.";
+$_LANG['orderForm']['domainAlternativeContact'] = "Poți specifica detalii de contact alternative, pentru a le folosi la înregistrarea de domenii, plasarea unei comenzi în numele unei alte persoane sau firme. Dacă nu ai nevoie de acest lucru, poți sări peste această secțiune.";
 $_LANG['orderForm']['accountSecurity'] = "Securitatea contului";
 $_LANG['orderForm']['mediumStrength'] = "Așa și așa";
 $_LANG['orderForm']['paymentDetails'] = "Detalii de plată";
-$_LANG['orderForm']['preferredPaymentMethod'] = "Alegeți metoda preferată de plată.";
+$_LANG['orderForm']['preferredPaymentMethod'] = "Alege metoda preferată de plată.";
 $_LANG['orderForm']['cardNumber'] = "Numărul cardului";
 $_LANG['orderForm']['cvv'] = "Cod de securitate CVV";
 $_LANG['orderForm']['additionalNotes'] = "comentarii suplimentare";
-$_LANG['orderForm']['continueToClientArea'] = "Continuați către portalul clienților";
-$_LANG['orderForm']['reviewDomainAndAddons'] = "Vă rugăm să revizuiți domenile alese și opțiunile suplimentare disponibile.";
+$_LANG['orderForm']['continueToClientArea'] = "Continuă către portalul clienților";
+$_LANG['orderForm']['reviewDomainAndAddons'] = "Te rugăm să verifici domenile alese și opțiunile suplimentare disponibile.";
 $_LANG['orderForm']['addToCart'] = "Adaugă în coș";
-$_LANG['orderForm']['addedToCartRemove'] = "În coș (eliminare)";
-$_LANG['orderForm']['configureDesiredOptions'] = "Configurați opțiunile dorite și continuați către finalizarea comenzii.";
-$_LANG['orderForm']['haveQuestionsContact'] = "Aveți nelămuriri? Contactați-ne";
+$_LANG['orderForm']['addedToCartRemove'] = "În coș (scoate)";
+$_LANG['orderForm']['configureDesiredOptions'] = "Configură opțiunile dorite și continuă către finalizarea comenzii.";
+$_LANG['orderForm']['haveQuestionsContact'] = "Ai nelămuriri? Contactați-ne";
 $_LANG['orderForm']['haveQuestionsClickHere'] = "aici";
-$_LANG['orderForm']['use'] = "Utilizați";
-$_LANG['orderForm']['check'] = "Verificați";
-$_LANG['orderForm']['transfer'] = "Transferați";
+$_LANG['orderForm']['use'] = "Folosește";
+$_LANG['orderForm']['check'] = "Verifică";
+$_LANG['orderForm']['transfer'] = "Transferă";
 $_LANG['orderForm']['domainAddedToCart'] = "Acest domeniu a fost adăugat în coș.";
-$_LANG['orderForm']['registerLongerAndSave'] = "Alegeți o perioadă mai mare și economisiți!";
-$_LANG['orderForm']['tryRegisteringInstead'] = "Încercați acest domeniu în schimb.";
-$_LANG['orderForm']['domainAvailabilityCached'] = "Disponibilitatea domeniilor este memorată în cache, fapt ce ar putea duce la situații în care domenii recent înregistrate să apara ca disponibile.";
+$_LANG['orderForm']['registerLongerAndSave'] = "Alege o perioadă mai mare și economisește!";
+$_LANG['orderForm']['tryRegisteringInstead'] = "Încearcă acest domeniu în schimb.";
+$_LANG['orderForm']['domainAvailabilityCached'] = "Disponibilitatea domeniilor este memorată în cache, fapt ce ar putea duce la situații în care domenii recent înregistrate să apară ca disponibile.";
 $_LANG['orderForm']['submitTicket'] = "Deschide un tichet";
-$_LANG['orderForm']['promotionAccepted'] = "Cuponul promoțional a fost acceptat! Comanda dumneavoastră a fost actualizată.";
-$_LANG['orderForm']['promoCycles'] = "Expires after :cycles billing period/s";
+$_LANG['orderForm']['promotionAccepted'] = "Cuponul promoțional a fost acceptat! Comanda ta a fost actualizată.";
+$_LANG['orderForm']['promoCycles'] = "Expiră după :cycles perioade de facturare";
 $_LANG['orderForm']['productOptions'] = "Serviciu/Opțiuni";
 $_LANG['orderForm']['qty'] = "Cant.";
 $_LANG['orderForm']['priceCycle'] = "Preț/Perioadă";
@@ -1998,7 +2000,7 @@ $_LANG['orderForm']['applyPromoCode'] = "Cupon de reduceri";
 $_LANG['orderForm']['estimateTaxes'] = "Estimare taxe";
 $_LANG['orderForm']['removePromotionCode'] = "Anulare cod promoțional";
 $_LANG['orderForm']['updateTotals'] = "Actualizare totaluri";
-$_LANG['orderForm']['continueShopping'] = "Continuați cumpărăturile";
+$_LANG['orderForm']['continueShopping'] = "Continuă cumpărăturile";
 $_LANG['orderForm']['removeItem'] = "Șterge articolul";
 $_LANG['orderForm']['yes'] = "Da";
 $_LANG['orderForm']['cancel'] = "Anulare";
@@ -2008,56 +2010,57 @@ $_LANG['orderForm']['includedWithPlans'] = "Inclus în fiecare abonament";
 $_LANG['orderForm']['whatIsIncluded'] = "Ce este inclus?";
 $_LANG['orderForm']['errorNoProductGroup'] = "Nu am putut încărca nici un grup de produse.";
 $_LANG['orderForm']['errorNoProducts'] = "Grupul de produse nu conține nici un produs.";
-$_LANG['orderForm']['errorNoGateways'] = "No payment gateways available so order cannot proceed";
-$_LANG['orderForm']['errorUnavailableGateway'] = "The selected gateway is not available. Please choose an option from the Payment Details section.";
+$_LANG['orderForm']['errorNoGateways'] = "Nu putem procesa comanda deoarece nu există procesatori de plăți.";
+$_LANG['orderForm']['errorUnavailableGateway'] = "Modalitatea de plată aleasă nu este disponibilă. Te rugăm să alegi o altă opțiune de plată.";
+$_LANG['orderForm']['requiredField'] = "(câmpurile obligatorii sunt marcate cu *)";
 
-$_LANG['cloudSlider']['feature01Title'] = "Uptime maxim Server";
-$_LANG['cloudSlider']['feature01Description'] = "Serverul este esențial pentru toate companiile - considerați-i bătăile inimii de a găzdui afacerea dvs. Serverele de fișiere și baze de date, serverele de e-mail și serverele web reprezintă o parte indispensabilă a majorității proceselor de afaceri, iar timpul de nefuncționare are efecte negative directe asupra productivității, vânzărilor, satisfacției angajaților și clienților. De aceea, asigurarea unui maxim de timp pentru server este atât de importantă pentru noi - dorim să ne asigurăm că procesele dvs. de afaceri funcționează sănătos, astfel încât clienții dvs. sunt mulțumiți.";
-$_LANG['cloudSlider']['feature01DescriptionTwo'] = "Prin încrederea în nevoile dvs. de afaceri, vă promit un serviciu uptime de 99,9% pentru orice servicii pe care le furnizăm, în afara oricărei activități de întreținere standard pe care o putem furniza.";
+$_LANG['cloudSlider']['feature01Title'] = "Uptime maxim server";
+$_LANG['cloudSlider']['feature01Description'] = "Serverul este esențial pentru toate companiile - consideră-i bătăile inimii de a găzdui afacerea ta. Serverele de fișiere și baze de date, serverele de e-mail și serverele web reprezintă o parte indispensabilă a majorității proceselor de afaceri, iar timpul de nefuncționare are efecte negative directe asupra productivității, vânzărilor, satisfacției angajaților și clienților. De aceea, asigurarea unui uptime maxim pentru server este atât de importantă pentru noi - dorim să ne asigurăm că procesele tale de afaceri funcționează sănătos, astfel încât clienții tăi sunt mulțumiți.";
+$_LANG['cloudSlider']['feature01DescriptionTwo'] = "Prin încrederea în nevoile tale de afaceri, îți garantăm un uptime de 99,9% pentru oricare din serviciile furnizate, exceptând activitățile programate de întreținere standard.";
 $_LANG['cloudSlider']['feature02Title'] = "Livrarea datelor la nivel mondial";
-$_LANG['cloudSlider']['feature02Description'] = "Serviciile noastre sunt alimentate de sute de servere și centre de date situate în întreaga lume, astfel încât să vă puteți odihni ușor, știind că clienții pot accesa site-ul dvs. de oriunde. În plus, oferim instrumente de monitorizare pentru a vă oferi analize de specialitate - traficul pe site este un pas important în îmbunătățirea eficienței și popularității site-ului dvs., precum și al urmăririi de unde provin vizitatorii dvs., ce ore din zi vă vizitează și cât durează să rămână. Dedicarea noastră pe o piață globală se extinde și la înregistrările de domeniu, deoarece oferim cele mai populare TLD-uri pentru înregistrare.";
-$_LANG['cloudSlider']['feature02DescriptionTwo'] = "Dedicarea noastră pentru sprijinul clienților ajunge și pe tot globul. Suntem aici pentru a vă ajuta în ceea ce privește găzduirea în orice mod posibil și puteți să ne contactați prin telefon, prin e-mail sau prin chat live.";
-$_LANG['cloudSlider']['feature03Title'] = "Maxima Securitate";
-$_LANG['cloudSlider']['feature03Description'] = "Relaxați-vă ușor, știind că oferim monitorizare de securitate 24/7 și protecție DDoS. Luați în serios protejarea datelor dvs. de client, la fel și noi. Echipa noastră de securitate și măsurile de protecție sunt la locul de muncă toată ziua, în fiecare zi pentru a oferi nivelul de securitate necesar în era digitală de astăzi.";
+$_LANG['cloudSlider']['feature02Description'] = "Serviciile noastre sunt furnizate de sute de servere și centre de date situate în întreaga lume, astfel încât poți fi liniștit(ă) știind că clienții pot accesa site-ul tău de oriunde. În plus, oferim instrumente de monitorizare pentru a-ți oferi analize de specialitate - traficul înregistrat este un pas important în îmbunătățirea eficienței și popularității site-ului tău, precum și al urmăririi de unde provin vizitatorii, la ce ore din zi te vizitează și cât durează accesarea. Dedicarea noastră pe o piață globală se extinde și la înregistrările de domeniu, deoarece oferim cele mai populare TLD-uri pentru înregistrare.";
+$_LANG['cloudSlider']['feature02DescriptionTwo'] = "Dedicarea noastră pentru sprijinul clienților ajunge și pe tot globul. Suntem aici pentru a te ajuta în ceea ce privește găzduirea în orice mod posibil și ne poți contacta telefonic, prin e-mail sau prin chat live.";
+$_LANG['cloudSlider']['feature03Title'] = "Securitate maximă";
+$_LANG['cloudSlider']['feature03Description'] = "Stai relaxat(ă) știind că oferim monitorizare de securitate 24/7 și protecție DDoS. Protejăm datele tale ca și cum ar fi ale noastre. Măsurile de protecție a datelor sunt confirmate zilnic, pentru a-ți oferi nivelul de securitate necesar în era digitală de astăzi.";
 $_LANG['cloudSlider']['feature03DescriptionTwo'] = "Există o gamă largă de instrumente de securitate, inclusiv certificate SSL, configurare de firewall, servicii de monitorizare a securității, acces VPN și multe altele.";
-$_LANG['cloudSlider']['selectProductLevel'] = "Alegeți varianta dorită!";
+$_LANG['cloudSlider']['selectProductLevel'] = "Alege varianta dorită!";
 
 $_LANG['domainChecker.additionalPricingOptions'] = "Opțiuni suplimentare pentru :domain";
 
 $_LANG['orderpaymenttermfree'] = "Gratuit";
 
-$_LANG['cPanel']['usageStatsBwOverLimit'] = "Ați depășit limita de trafic alocată.";
-$_LANG['cPanel']['usageStatsDiskOverLimit'] = "Ați depășit spațiul total alocat.";
-$_LANG['insufficientstockmessage'] = "Stocul nostru pentru anumite articole sau servicii este foarte scăzut, astfel încât coșul de cumpărături a fost ajustat corespunzător. Pentru detalii suplimentare, va rugăm sa ne contactați.";
+$_LANG['cPanel']['usageStatsBwOverLimit'] = "Ai depășit limita de trafic alocată.";
+$_LANG['cPanel']['usageStatsDiskOverLimit'] = "Ai depășit spațiul total alocat.";
+$_LANG['insufficientstockmessage'] = "Stocul nostru pentru anumite articole sau servicii este foarte scăzut, astfel încât coșul de cumpărături a fost ajustat corespunzător. Pentru detalii suplimentare, te rugăm sa ne contactezi.";
 
 $_LANG['only'] = "Doar";
 $_LANG['startingat'] = "Începând de la";
 
-$_LANG['yourdomainplaceholder'] = "Nume Domeniu";
-$_LANG['yourtldplaceholder'] = "ext";
+$_LANG['yourdomainplaceholder'] = "domeniu";
+$_LANG['yourtldplaceholder'] = "ro";
 
-$_LANG['subaccountpermsproductsso'] = "Autentificare Rapidă";
+$_LANG['subaccountpermsproductsso'] = "Autentificare single sign-on";
 
-$_LANG['sso']['title'] = "Autentificare Rapidă";
-$_LANG['sso']['summary'] = "Aplicațiile externe pot folosi facilitățile oferite deAutentificarea Rapidă pentru a furniza acces direct către contul dumneavoastră de client făra ca dumneavoastră să vă mai autentificați.";
-$_LANG['sso']['disablenotice'] = "Poate veți dori să dezactivați aceasta funcționalitate daca asigurați accesul terțelor aplicații către clienți ce nu vor să-și acceseze contul de client din exterior.";
-$_LANG['sso']['enabled'] = "Autentificarea Rapidă este activată pentru contul dumneavoastră.";
-$_LANG['sso']['disabled'] = "Autentificarea Rapidă este dezactivată pentru contul dumneavoastră.";
-$_LANG['sso']['redirectafterlogin'] = "Vă vom redirecționa după autentificare";
+$_LANG['sso']['title'] = "Single sign-on";
+$_LANG['sso']['summary'] = "Aplicațiile externe se pot baza pe facilitățile single sign-on pentru a furniza acces direct către contul tău de client fără să te mai autentifici.";
+$_LANG['sso']['disablenotice'] = "Poate vi dori să dezactivezi această funcționalitate daca asiguri accesul terțelor aplicații către clienți ce nu vor să-și acceseze contul din exterior.";
+$_LANG['sso']['enabled'] = "Autentificarea single sign-on este activată pentru contul tău.";
+$_LANG['sso']['disabled'] = "Autentificarea single sign-on este dezactivată pentru contul tău.";
+$_LANG['sso']['redirectafterlogin'] = "Te vom redirecționa după autentificare";
 
-$_LANG['oauth']['badTwoFactorAuthModule'] = "Modul eronat de autentificare cu doi factori. Contactați echipa de suport.";
-$_LANG['oauth']['permAccessNameAndEmail'] = "Accesați numele și adresa dumneavoastră email";
+$_LANG['oauth']['badTwoFactorAuthModule'] = "Modul eronat de autentificare cu doi factori. Contactează echipa de suport.";
+$_LANG['oauth']['permAccessNameAndEmail'] = "Accesează numele și adresa ta e-mail";
 
-$_LANG['errorButTryAgain'] = "A apărut o eroare.  Mai încercați o dată.";
+$_LANG['errorButTryAgain'] = "A apărut o eroare. Mai încearcă o dată.";
 $_LANG['emailSent'] = "Mesajul a fost trimis";
 $_LANG['resendEmail'] = "Retrimite mesajul de confirmare";
 
 // Markdown Editor Help
-$_LANG['markdown']['title'] = "Ghid de marcare";
-$_LANG['markdown']['emphasis'] = "Accentuare";
-$_LANG['markdown']['bold'] = "îngroșate";
-$_LANG['markdown']['italics'] = "italice";
-$_LANG['markdown']['strikeThrough'] = "tăiate";
+$_LANG['markdown']['title'] = "Ghid Markdown";
+$_LANG['markdown']['emphasis'] = "Accentuate";
+$_LANG['markdown']['bold'] = "Îngroșate";
+$_LANG['markdown']['italics'] = "Italice";
+$_LANG['markdown']['strikeThrough'] = "Tăiate";
 $_LANG['markdown']['headers'] = "Headere";
 $_LANG['markdown']['bigHeader'] = "Header mare";
 $_LANG['markdown']['mediumHeader'] = "Header mediu";
@@ -2065,10 +2068,10 @@ $_LANG['markdown']['smallHeader'] = "Header mic";
 $_LANG['markdown']['tinyHeader'] = "Header micuț";
 $_LANG['markdown']['lists'] = "Liste";
 $_LANG['markdown']['genericListItem'] = "Articol de listă generică";
-$_LANG['markdown']['numberedListItem'] = "articol de listă numerotată";
+$_LANG['markdown']['numberedListItem'] = "Articol de listă numerotată";
 $_LANG['markdown']['links'] = "Linkuri";
 $_LANG['markdown']['textToDisplay'] = "Text de afisat";
-$_LANG['markdown']['exampleLink'] = "http://www.example.com";
+$_LANG['markdown']['exampleLink'] = "https://www.example.com";
 $_LANG['markdown']['quotes'] = "Citate";
 $_LANG['markdown']['thisIsAQuote'] = "Acesta este un citat.";
 $_LANG['markdown']['quoteMultipleLines'] = "Se poate întinde pe mai multe linii!";
@@ -2077,7 +2080,7 @@ $_LANG['markdown']['columnOne'] = "Coloana 1";
 $_LANG['markdown']['columnTwo'] = "Coloana 2";
 $_LANG['markdown']['columnThree'] = "Coloana 3";
 $_LANG['markdown']['withoutAligning'] = "sau fară alinierea coloanelor...";
-$_LANG['markdown']['john'] = "Vasile";
+$_LANG['markdown']['john'] = "Andrei";
 $_LANG['markdown']['doe'] = "Pop";
 $_LANG['markdown']['male'] = "Masculin";
 $_LANG['markdown']['mary'] = "Maria";
@@ -2088,76 +2091,76 @@ $_LANG['markdown']['spanningMultipleLines'] = "Sau împărțit pe mai multe lini
 $_LANG['markdown']['saved'] = "salvat";
 $_LANG['markdown']['saving'] = "autosalvare";
 
-$_LANG['oauth']['authoriseAppToAccess'] = "Autorizați :appName<br />să acceseze contul dumneavoastră?";
+$_LANG['oauth']['authoriseAppToAccess'] = "Autorizezi :appName<br />să acceseze contul tău?";
 $_LANG['oauth']['willBeAbleTo'] = "Această aplicatie va avea dreptul să";
 $_LANG['oauth']['authorise'] = "Autorizează";
-$_LANG['oauth']['currentlyLoggedInAs'] = "sunteți autorizat ca și :firstName :lastName";
-$_LANG['oauth']['notYou'] = "Nu sunteți acesta?";
+$_LANG['oauth']['currentlyLoggedInAs'] = "ești autentificat ca și :firstName :lastName";
+$_LANG['oauth']['notYou'] = "Nu ești tu?";
 $_LANG['oauth']['returnToApp'] = "Înapoi la :appName";
 $_LANG['oauth']['copyrightFooter'] = "Copyright © :dateYear :companyName. Toate drepturile rezervate.";
-$_LANG['oauth']['loginToGrantApp'] = "Autentificați-vă pentru a acorda :appName<br />drepturi de acces la contul dumneavoastră";
-$_LANG['oauth']['redirectDescriptionOne'] = "Va redirecționăm înapoi către aplicație. Durează doar câteva momente.";
-$_LANG['oauth']['redirectDescriptionTwo'] = "Dacă browserul dumneavoastră nu vă redirecționează,";
-$_LANG['oauth']['redirectDescriptionThree'] = "faceți click aici pentru a continua";
-$_LANG['downloadLoginRequiredTagline'] = "Vă rugăm să vă logați pentru acces la descărcarea fișierului solicitat";
+$_LANG['oauth']['loginToGrantApp'] = "Autentifică-te pentru a acorda :appName<br />drepturi de acces la contul tău";
+$_LANG['oauth']['redirectDescriptionOne'] = "Te redirecționăm înapoi către aplicație. Durează doar câteva momente.";
+$_LANG['oauth']['redirectDescriptionTwo'] = "Dacă browserul tău nu te redirecționează,";
+$_LANG['oauth']['redirectDescriptionThree'] = "fă click aici pentru a continua";
+$_LANG['downloadLoginRequiredTagline'] = "Te rugăm să te autentifici pentru acces la descărcarea fișierului solicitat";
 
 $_LANG['orderForm']['year'] = "An";
 $_LANG['orderForm']['years'] = "Ani";
-$_LANG['orderForm']['domainOrKeyword'] = "Introduceți un domeniu sau un cuvânt cheie";
+$_LANG['orderForm']['domainOrKeyword'] = "Introdu un domeniu sau un cuvânt cheie";
 $_LANG['orderForm']['searching'] = "Verificare";
 $_LANG['orderForm']['domainIsUnavailable'] = "<strong>:domain</strong> nu este disponibil";
 $_LANG['orderForm']['add'] = "Adaugă";
 $_LANG['orderForm']['suggestedDomains'] = "Domenii sugerate";
 $_LANG['orderForm']['generatingSuggestions'] = "Sugestii";
-$_LANG['orderForm']['addHosting'] = "Adaugă Găzduire Web";
-$_LANG['orderForm']['chooseFromRange'] = "Alegeți dintr-o gamă de pachete de gazduire web";
-$_LANG['orderForm']['packagesForBudget'] = "Noi avem pachete concepute pentru a se potrivi la fiecare buget";
-$_LANG['orderForm']['exploreNow'] = "Explorează pachete acum";
-$_LANG['orderForm']['transferToUs'] = "Transferați domeniul dumneavoastră cu noi";
-$_LANG['orderForm']['transferExtend'] = "Transferați acum domeniul dumneavoastră cu extindere valabilitate până la 1 an!";
-$_LANG['orderForm']['transferDomain'] = "Transferați un domeniu";
+$_LANG['orderForm']['addHosting'] = "Adaugă găzduire web";
+$_LANG['orderForm']['chooseFromRange'] = "Alege dintr pachetele de găzduire web";
+$_LANG['orderForm']['packagesForBudget'] = "Avem pachete potrivite cu orice buget";
+$_LANG['orderForm']['exploreNow'] = "Explorează pachetele";
+$_LANG['orderForm']['transferToUs'] = "Transferă-ți domeniul la noi";
+$_LANG['orderForm']['transferExtend'] = "Transferă-ți acum domeniul cu prelungirea valabilității până la 1 an!";
+$_LANG['orderForm']['transferDomain'] = "Transferă un domeniu";
 $_LANG['orderForm']['extendExclusions'] = "Exclude anumite TLDs și domenii recent înnoite";
-$_LANG['orderForm']['singleTransfer'] = "Single domain transfer";
-$_LANG['orderForm']['enterDomain'] = "Vă rugăm să introduceți domeniul dumneavoastră";
+$_LANG['orderForm']['singleTransfer'] = "Transfer domeniu unic";
+$_LANG['orderForm']['enterDomain'] = "Te rugăm să introduci domeniul";
 $_LANG['orderForm']['authCode'] = "Cod de autorizare";
-$_LANG['orderForm']['authCodePlaceholder'] = "Epp Code / Auth Code";
-$_LANG['orderForm']['authCodeTooltip'] = "Pentru a iniția un transfer va trebui să obțineți codul de autorizare de la compania de înregistrare curentă. Acesta se numește cod de autorizare sau cod epp. El funcționează ca o parolă și este unic pentru numele de domeniu.";
+$_LANG['orderForm']['authCodePlaceholder'] = "Cod EPP / Autorizare";
+$_LANG['orderForm']['authCodeTooltip'] = "Pentru a iniția un transfer va trebui să obții codul de autorizare de la compania de înregistrare curentă. Acesta se numește cod de autorizare sau cod EPP. El funcționează ca o parolă și este unic pentru numele de domeniu.";
 $_LANG['orderForm']['help'] = "Ajutor";
 $_LANG['orderForm']['required'] = "Necesar";
 
 $_LANG['orderForm']['checkingAvailability'] = "Verifică disponibilitatea";
-$_LANG['orderForm']['verifyingTransferEligibility'] = "Se verifică eligibilitatea transferului";
+$_LANG['orderForm']['verifyingTransferEligibility'] = "Verificăm eligibilitatea transferului";
 $_LANG['orderForm']['verifyingDomain'] = "Se verifică domeniile selectate";
-$_LANG['orderForm']['transferEligible'] = "Domeniul dumneavoastră este eligibil pentru transfer";
-$_LANG['orderForm']['transferUnlockBeforeContinuing'] = "Vă rugăm să vă asigurați că ați deblocat domeniul dvs. la compania de înregistrare curentă înainte de a continua.";
+$_LANG['orderForm']['transferEligible'] = "Domeniul tău este eligibil pentru transfer";
+$_LANG['orderForm']['transferUnlockBeforeContinuing'] = "Asigură-te că ai deblocat domeniul la compania de înregistrare curentă înainte de a continua.";
 $_LANG['orderForm']['transferNotEligible'] = "Nu este eligibil pentru transfer";
 $_LANG['orderForm']['transferNotRegistered'] = "Domeniul nu este înregistrat.";
-$_LANG['orderForm']['trasnferRecentlyRegistered'] = "În cazul în care domeniul a fost înregistrat recent, poate fi necesar să încercați din nou mai târziu.";
-$_LANG['orderForm']['transferAlternativelyRegister'] = "Ca alternativă, puteți efectua o căutare pentru a înregistra acest domeniu.";
-$_LANG['orderForm']['domainInvalid'] = "Nume de domeniu nevalid.";
-$_LANG['orderForm']['domainInvalidCheckEntry'] = "Vă rugăm să verificați numele domeniului și încercați din nou.";
-$_LANG['orderForm']['domainPriceRegisterLabel'] = "Continuați să înregistratți acest domeniu pentru";
-$_LANG['orderForm']['domainPriceTransferLabel'] = "Transferați cu noi și extindeți până la 1 An* pentru";
+$_LANG['orderForm']['trasnferRecentlyRegistered'] = "În cazul în care domeniul a fost înregistrat recent, poate fi necesar să încerci mai târziu.";
+$_LANG['orderForm']['transferAlternativelyRegister'] = "Ca alternativă, poți efectua o căutare pentru a înregistra acest domeniu.";
+$_LANG['orderForm']['domainInvalid'] = "Nume invalid de domeniu.";
+$_LANG['orderForm']['domainInvalidCheckEntry'] = "Verifică numele domeniului și încearcă din nou.";
+$_LANG['orderForm']['domainPriceRegisterLabel'] = "Continuă să înregistrezi acest domeniu pentru";
+$_LANG['orderForm']['domainPriceTransferLabel'] = "Transferă-l la noi și extinde-l până la 1 an* pentru";
 
 $_LANG['change'] = "Schimbă";
 
 $_LANG['filemanagement']['nofileuploaded'] = "Niciun fișier încărcat.";
 $_LANG['filemanagement']['invalidname'] = "Numele de fișiere valide conțin numai caractere alfanumerice, punct, cratimă și caractere de subliniere.";
-$_LANG['filemanagement']['couldNotSaveFile'] = "Nu s-a putut salva fișierul încărcat.";
-$_LANG['filemanagement']['checkPermissions'] = "Verificați permisiunile.";
-$_LANG['filemanagement']['checkAvailableDiskSpace'] = "Verificați spațiul disponibil pe disc.";
+$_LANG['filemanagement']['couldNotSaveFile'] = "Nu am putut salva fișierul încărcat.";
+$_LANG['filemanagement']['checkPermissions'] = "Verifică permisiunile.";
+$_LANG['filemanagement']['checkAvailableDiskSpace'] = "Verifică spațiul disponibil pe disc.";
 $_LANG['filemanagement']['fileAlreadyExists'] = "Fisierul există deja.";
-$_LANG['filemanagement']['noUniqueName'] = "Imposibil de găsit un nume de fișier unic.";
+$_LANG['filemanagement']['noUniqueName'] = "Nu am găsit un nume unic de fișier.";
 
-$_LANG['cartSimpleCaptcha'] = "Vă rugăm să introduceți codul afișat mai jos";
+$_LANG['cartSimpleCaptcha'] = "Introdu codul afișat mai jos";
 
-$_LANG['clientHomePanels']['showingRecent100'] = "Se afișează cele mai recente 100 înregistrări";
+$_LANG['clientHomePanels']['showingRecent100'] = "Afișez cele mai recente 100 înregistrări";
 $_LANG['orderForm']['domainLetterOrNumber'] = "Domeniile trebuie să înceapă cu o literă sau un număr";
 $_LANG['orderForm']['domainLengthRequirements'] = " și să fie între <span class=\"min-length\"></span> și <span class=\"max-length\"></span> caractere în lungime.";
 
 $_LANG['clientareatransferredaway'] = "Transferat";
 $_LANG['clientareacompleted'] = "Finalizat";
-$_LANG['domainContactUs'] = "Contacteaza-ne";
+$_LANG['domainContactUs'] = "Contactează-ne";
 
 $_LANG['orderForm']['shortPerYear'] = "/:years/an";
 $_LANG['orderForm']['shortPerYears'] = "/:years/ani";
@@ -2166,97 +2169,119 @@ $_LANG['domainCheckerSalesGroup']['sale'] = "Reducere";
 $_LANG['domainCheckerSalesGroup']['hot'] = "Popular";
 $_LANG['domainCheckerSalesGroup']['new'] = "Nou";
 
-$_LANG['pricing']['browseExtByCategory'] = "Răsfoiți extensiile după categorie";
-$_LANG['pricing']['register'] = "Pret nou";
+$_LANG['pricing']['browseExtByCategory'] = "Grupează extensiile după categorie";
+$_LANG['pricing']['register'] = "Preț nou";
 $_LANG['pricing']['transfer'] = "Transfer";
 $_LANG['pricing']['renewal'] = "Reînnoire";
-$_LANG['pricing']['selectExtCategory'] = "Alegeți o categorie de mai sus.";
+$_LANG['pricing']['selectExtCategory'] = "Alege o categorie de mai sus.";
 $_LANG['pricing']['noExtensionsDefined'] = "Nici o extensie disponibilă";
 
-$_LANG['navStore'] = "Magazin";
-$_LANG['navBrowseProductsServices'] = "Răsfoiți tot";
+$_LANG['navStore'] = "Servicii";
+$_LANG['navBrowseProductsServices'] = "Toate serviciile";
 
-$_LANG['navWebsiteSecurity'] = "Site & Securitate";
+$_LANG['navWebsiteSecurity'] = "Site & securitate";
 $_LANG['navMarketConnectService']['symantec'] = "Certificate SSL";
-$_LANG['navMarketConnectService']['weebly'] = "Website Builder";
-$_LANG['navMarketConnectService']['spamexperts'] = "Servicii e-mail";
+$_LANG['navMarketConnectService']['weebly'] = "Weebly - Website Builder";
+$_LANG['navMarketConnectService']['spamexperts'] = "Servicii antispam";
 
 $_LANG['store']['emailServices']['title'] = "Servicii e-mail";
 $_LANG['store']['ssl']['title'] = "Certificate SSL";
-$_LANG['store']['ssl']['dv']['title'] = "Domain Validated SSL";
-$_LANG['store']['ssl']['ov']['title'] = "Validarea Organizației";
-$_LANG['store']['ssl']['ev']['title'] = "SSL cu Validare Extinsa";
-$_LANG['store']['ssl']['wildcard']['title'] = "Wildcard SSL";
+$_LANG['store']['ssl']['dv']['title'] = "Certificate SSL validate pe domeniu";
+$_LANG['store']['ssl']['ov']['title'] = "Certificate SSL validate pe organizație";
+$_LANG['store']['ssl']['ev']['title'] = "Certificate SSL cu validare extinsă";
+$_LANG['store']['ssl']['wildcard']['title'] = "SSL wildcard";
 $_LANG['store']['websiteBuilder']['title'] = "Website Builder";
-$_LANG['store']['configure']['configureProduct'] = "Configurați produsul";
+$_LANG['store']['configure']['configureProduct'] = "Configurează";
 
-$_LANG['store']['ssl']['dv']['tagline'] = "Asigurați-vă site-ul în doar câteva minute!";
+$_LANG['store']['ssl']['dv']['tagline'] = "Asigură-ți site-ul în doar câteva minute!";
 $_LANG['store']['ssl']['dv']['descriptionTitle'] = "Ce este Standard DV SSL?";
-$_LANG['store']['ssl']['dv']['descriptionContent'] = "<p>Certificatele de Validare ale Domeniului oferă o modalitate economică și rapidă de a implementa SSL pe site-ul dvs.. Certificatele validate pe domeniu vă confirmă faptul că sunteți proprietarul domeniului, dar nu efectuați nicio validare suplimentară la nivel de organizație.</p> <p>Certificatele validate pe domeniu sunt ideale pentru site-uri personale, bloguri și social media sau orice site care nu transmite privat și confidențial informație. Un certificat de domeniu validat activează lacătul din browser și permite utilizarea https-ului pentru a vă asigura vizitatorilor și clienților site-ului că le-ați luat intimitatea în serios.</p>";
+$_LANG['store']['ssl']['dv']['descriptionContent'] = "<p>Certificatele SSL validate pe domeniu (DV) oferă o modalitate economică și rapidă de a implementa SSL pe site-ul tău. Certificatele DV confirmă faptul că ești proprietarul domeniului, dar nu fac nicio validare suplimentară la nivel de organizație.</p> <p>Certificatele DV sunt ideale pentru site-uri personale, bloguri și social media sau orice site care nu transmite date cu caracter personal sau confidențial. Un certificat DV activează lacătul din browser și permite utilizarea protocolului https pentru a asigura vizitatorii site-ului.</p>";
 
-$_LANG['store']['ssl']['ov']['tagline'] = "Asigurarea de securitate SSL prezintă vizitatorilor site-ului identitatea dvs. autentificată";
-$_LANG['store']['ssl']['ov']['descriptionTitle'] = "Ce este Validarea Organizației SSL?";
-$_LANG['store']['ssl']['ov']['descriptionContent'] = "<p>Certificatele SSL validate pe organizație oferă confirmarea instantanee a identității și protecție SSL puternică pentru site-ul dvs. web și pentru afacerea dvs. </p> <p> OV SSL este un certificat validat pe organizație, care oferă site-ului dvs. o creștere a credibilității față de certificatele SSL validate pe domeniu. Acesta activează lacătul și https-ul browserului, afișează identitatea dvs. corporativă și asigură clienților dvs. că luați foarte în serios securitatea. Vizitatorii site-ului pot verifica dacă site-ul web este operat de o companie legitimă și nu este un site de tip impostor.</p>";
+$_LANG['store']['ssl']['ov']['tagline'] = "Certificatul de securitate SSL prezintă vizitatorilor site-ului identitatea companiei tale";
+$_LANG['store']['ssl']['ov']['descriptionTitle'] = "Ce sunt certificatele SSL validate pe organizație?";
+$_LANG['store']['ssl']['ov']['descriptionContent'] = "<p>Certificatele SSL validate pe organizație (OV) oferă confirmarea instantanee a identității și protecție SSL puternică pentru site-ul și respectiv afacerea ta.</p> <p> Certificatul SSL OV este validat pe organizație, oferind site-ului tău o creștere a credibilității față de certificatele SSL validate pe domeniu. Acesta activează lacătul și protocolul https în browser, afișează identitatea companiei tale și asigură vizitatorii că tratezi foarte serios securitatea datelor. Vizitatorii pot verifica dacă site-ul web este operat de o companie legitimă.</p>";
 
-$_LANG['store']['ssl']['ev']['tagline'] = "Activați bara de adrese verde pentru cea mai mare încredere și conversii";
-$_LANG['store']['ssl']['ev']['descriptionTitle'] = "Ce este Extended Validation SSL?";
-$_LANG['store']['ssl']['ev']['descriptionContent'] = "<p>EV SSL este un certificat cu validare extinsă care vă oferă cel mai inalt grad de siguranță si securitate atât pentru domeniu cât și pentru organizație.</p><p>Certificatele EV afișează în cele mai multe cazuri adresa website-ului pe o bandă verde. Alegeți o afișare proeminentă si o cât mai inalta garanție de încredere pentru domeniul și compania dvs.</p>";
+$_LANG['store']['ssl']['ev']['tagline'] = "Activează bara verde de adrese încredere maximă";
+$_LANG['store']['ssl']['ev']['descriptionTitle'] = "Ce sunt certificatele cu validare extinsă?";
+$_LANG['store']['ssl']['ev']['descriptionContent'] = "<p>Certificatele SSL cu validare extinsă (EV) sunt certificate care oferă cel mai inalt grad de siguranță si securitate atât pentru domeniu cât și pentru organizație.</p><p>Certificatele EV afișează în cele mai multe cazuri adresa website-ului pe o bandă verde. Alege certificatele SSL EV pentru o afișare mai vizibilă si o garanție de încredere pentru domeniul și compania ta</p>";
 
 $_LANG['store']['ssl']['wildcard']['tagline'] = "Subdomenii nelimitate cu un singur certificat.";
-$_LANG['store']['ssl']['wildcard']['descriptionTitle'] = "Ce este un certificat SSL Wildcard?";
-$_LANG['store']['ssl']['wildcard']['descriptionContent'] = "<p>Wildcard SSL vă permite să vă asigurați un număr nelimitat de subdomenii într-un singur certificat. Este o soluție minunată pentru oricine găzduiește sau gestionează mai multe site-uri sau pagini care există pe același domeniu. Costul unic al certificatului vă acoperă pentru subdomenii suplimentare pe care le puteți adăuga în viitor. </ P> <p> Spre deosebire de un certificat SSL standard care este emis doar unui singur nume de domeniu complet de calificare, de ex. www.yourdomain.com, ceea ce înseamnă că poate fi folosit numai pentru a asigura domeniul exact la care a fost emis, un certificat SSL Wildcard este emis pentru * .yourdomain.com, unde asteriscul reprezintă toate subdomeniile posibile. </p> <p> Wildcard SSL este o opțiune disponibilă pentru certificatele DV și OV SSL.</p>";
+$_LANG['store']['ssl']['wildcard']['descriptionTitle'] = "Ce sunt certificatele SSL Wildcard?";
+$_LANG['store']['ssl']['wildcard']['descriptionContent'] = "<p>Certificatele SSL Wildcard îți permit protejarea unui număr nelimitat de subdomenii într-un singur certificat. Este o soluție excelentă pentru oricine găzduiește sau gestionează mai multe site-uri sau pagini care există pe același domeniu. Costul unic al certificatului acoperă subdomeniile suplimentare pe care le poți adăuga în viitor. </p> <p> Spre deosebire de un certificat SSL standard care este emis doar unui singur nume de domeniu (de ex. www.yourdomain.com), ceea ce înseamnă că poate fi folosit numai pentru a asigura domeniul exact la care a fost emis, un certificat SSL Wildcard este emis pentru *.yourdomain.com, unde asteriscul reprezintă toate subdomeniile posibile. </p> <p> Wildcard SSL este disponibil atât ca DV, cât și ca OV SSL.</p>";
 
 $_LANG['store']['websiteBuilder']['headline'] = "Construirea unui site nu a fost niciodată mai ușoară";
-$_LANG['store']['websiteBuilder']['tagline'] = "Creați site-ul perfect cu instrumente puternice de tragere și plasare";
-$_LANG['store']['websiteBuilder']['introduction'] = "Cu Weebly website builder este ușor de a crea un site web puternic, profesional, fără nici o abilitate tehnică. Peste 40 de milioane de întreprinzători și întreprinderi mici au utilizat deja Weebly pentru a-și construi prezența online cu un site web, un blog sau un magazin.";
+$_LANG['store']['websiteBuilder']['tagline'] = "Construiește-ți site-ul perfect cu instrumente simple și rapide";
+$_LANG['store']['websiteBuilder']['introduction'] = "Cu Weebly website builder este ușor să creezi un site web puternic, profesional, fără nici o abilitate tehnică deosebită. Peste 40 de milioane de întreprinzători și întreprinderi mici au utilizat deja Weebly pentru a-și construi prezența online cu un site web, un blog sau un magazin.";
 
-$_LANG['store']['emailServices']['headline'] = "Securitate E-mail, creată pentru dvs.";
-$_LANG['store']['emailServices']['tagline'] = "Recâștiga controlul asupra mesajelor primite";
-$_LANG['store']['emailServices']['blockSpamHeadline'] = "Blochează aproape 100% din viruși, malware și spam înainte de a ajunge vreodată în căsuța de e-mail";
+$_LANG['store']['emailServices']['headline'] = "Securitate e-mail, concepută pentru tine";
+$_LANG['store']['emailServices']['tagline'] = "Recâștigă controlul asupra mesajelor e-mail";
+$_LANG['store']['emailServices']['blockSpamHeadline'] = "Blochează aproape 100% din viruși, malware și spam înainte de a ajunge vreodată în căsuța e-mail";
 
-$_LANG['store']['sitelock']['features']['malwareScanning'] = "Daily Malware Scanning";
-$_LANG['store']['sitelock']['features']['numberOfPages'] = "Number of Pages";
-$_LANG['store']['sitelock']['features']['dailyBlacklistMonitoring'] = "Daily Blacklist Monitoring";
-$_LANG['store']['sitelock']['features']['sitelockRiskScore'] = "SiteLock Risk Score";
-$_LANG['store']['sitelock']['features']['websiteAppScan'] = "Website Application Scan";
-$_LANG['store']['sitelock']['features']['sqlInjectionScan'] = "SQL Injection Scan";
-$_LANG['store']['sitelock']['features']['xssScan'] = "Cross Site (XSS) Scan";
+$_LANG['store']['sitelock']['features']['malwareScanning'] = "Scanare anti-malware zilnică";
+$_LANG['store']['sitelock']['features']['numberOfPages'] = "Pagini";
+$_LANG['store']['sitelock']['features']['dailyBlacklistMonitoring'] = "Monitorizare zilinică a listelor de blocare";
+$_LANG['store']['sitelock']['features']['sitelockRiskScore'] = "Scor de risc SiteLock";
+$_LANG['store']['sitelock']['features']['websiteAppScan'] = "Scanări de aplicații web";
+$_LANG['store']['sitelock']['features']['sqlInjectionScan'] = "Scanări de injecții SQL";
+$_LANG['store']['sitelock']['features']['xssScan'] = "Scanări Cross Site (XSS)";
 $_LANG['store']['sitelock']['features']['trustSeal'] = "Sitelock&trade; Trust Seal";
-$_LANG['store']['sitelock']['features']['dailySmartScans'] = "Daily SMART Scans";
-$_LANG['store']['sitelock']['features']['autoMalwareRemoval'] = "Automatic Malware Removal";
-$_LANG['store']['sitelock']['features']['trueshieldProtection'] = "TrueShield Protection";
-$_LANG['store']['sitelock']['features']['wordPressScan'] = "WordPress Scan";
-$_LANG['store']['sitelock']['features']['spamBlacklistMonitoring'] = "Spam Blacklist Monitoring";
-$_LANG['store']['sitelock']['features']['waf'] = "Web Application Firewall";
-$_LANG['store']['sitelock']['features']['globalCdn'] = "Global CDN";
-$_LANG['store']['sitelock']['features']['contentAcceleration '] = "Content Acceleration";
+$_LANG['store']['sitelock']['features']['dailySmartScans'] = "Scanări SMART zilnice";
+$_LANG['store']['sitelock']['features']['autoMalwareRemoval'] = "Ștergere automată a virușilor";
+$_LANG['store']['sitelock']['features']['trueshieldProtection'] = "Protecție TrueShield";
+$_LANG['store']['sitelock']['features']['wordPressScan'] = "Scanare WordPress";
+$_LANG['store']['sitelock']['features']['spamBlacklistMonitoring'] = "Monitorizare liste spam";
+$_LANG['store']['sitelock']['features']['waf'] = "Firewall de aplicații web (WAF)";
+$_LANG['store']['sitelock']['features']['globalCdn'] = "CDN Global";
+$_LANG['store']['sitelock']['features']['contentAcceleration '] = "Accelerare de conținut";
 
-$_LANG['pricingCycleShort']['monthly'] = "lu";
-$_LANG['pricingCycleShort']['quarterly'] = "3lu";
-$_LANG['pricingCycleShort']['semiannually'] = "6lu";
-$_LANG['pricingCycleShort']['annually'] = "an";
-$_LANG['pricingCycleShort']['biennially'] = "2ani";
-$_LANG['pricingCycleShort']['triennially'] = "3ani";
-$_LANG['pricingCycleLong']['monthly'] = "1 Lună";
-$_LANG['pricingCycleLong']['quarterly'] = "3 Luni";
-$_LANG['pricingCycleLong']['semiannually'] = "6 Luni";
-$_LANG['pricingCycleLong']['annually'] = "1 An";
-$_LANG['pricingCycleLong']['biennially'] = "2 Ani";
-$_LANG['pricingCycleLong']['triennially'] = "3 Ani";
+$_LANG['pricingCycleShort']['monthly'] = "l";
+$_LANG['pricingCycleShort']['quarterly'] = "3l";
+$_LANG['pricingCycleShort']['semiannually'] = "6l";
+$_LANG['pricingCycleShort']['annually'] = "a";
+$_LANG['pricingCycleShort']['biennially'] = "2a";
+$_LANG['pricingCycleShort']['triennially'] = "3a";
+$_LANG['pricingCycleLong']['monthly'] = "1 lună";
+$_LANG['pricingCycleLong']['quarterly'] = "3 luni";
+$_LANG['pricingCycleLong']['semiannually'] = "6 luni";
+$_LANG['pricingCycleLong']['annually'] = "1 an";
+$_LANG['pricingCycleLong']['biennially'] = "2 ani";
+$_LANG['pricingCycleLong']['triennially'] = "3 ani";
 
-$_LANG['navManageSsl'] = "Gestionați certificatele SSL";
+$_LANG['navManageSsl'] = "Gestionează certificatele SSL";
+$_LANG['almostDone'] = "Aproape gata";
 
-$_LANG['invoicesPaymentPending'] = "Plata în așteptare";
+$_LANG['invoicesPaymentPending'] = "Plată în așteptare";
 
-$_LANG['ssl']['changeApproverEmail'] = "Schimbați adresa de e-mail";
-$_LANG['ssl']['reissueCertificate'] = "Eliberați din nou certificatul";
-$_LANG['ssl']['retrieveCertificate'] = "Preluați certificatul";
+$_LANG['ssl']['changeApproverEmail'] = "Schimbă adresa e-mail";
+$_LANG['ssl']['reissueCertificate'] = "Re-emite certificatul";
+$_LANG['ssl']['retrieveCertificate'] = "Descarcă certificatul";
+$_LANG['ssl']['selectValidation'] = "Alege o modalitate de validare";
+$_LANG['ssl']['dnsMethod'] = "DNS";
+$_LANG['ssl']['emailMethod'] = "Email";
+$_LANG['ssl']['fileMethod'] = "Fișier HTTP";
+$_LANG['ssl']['emailMethodDescription'] = "Validarea va fi efectuată de Autoritatea de Certificare prin trimiterea unui mesaj e-mail la adresa aleasă mai jos.";
+$_LANG['ssl']['dnsMethodDescription'] = "Autoritatea de Certificare va verifica înregistrările DNS ale domeniului, căutând o înregistrare specifică ce are o valoare unică. Asigură-te că ai acces la panoul de administrare a înregistrărilor DNS ale domeniului pentru a finaliza acest pas. Informațiile privind înregistrarea DNS vor fi furnizate după acest pas de configurare.";
+$_LANG['ssl']['fileMethodDescription'] = "Autoritatea de Certificare va efectua o accesare HTTPS a unui fișier special găzduit pe domeniul tău, așteptând o valoare unică la răspuns. Fișierul și conținutul acestuia vor fi furnizate după acest pas de configurare.";
+$_LANG['ssl']['selectEmail'] = "Alege o adresă e-mail";
+$_LANG['ssl']['nextSteps'] = "Ce urmează?";
+$_LANG['ssl']['emailSteps'] = "Autoritatea de Certificare va trimite un mesaj cu instrucțiuni de validare la adresa e-mail aleasă. Dacă validarea este corectă, certificatul va fi emis automat.";
+$_LANG['ssl']['dnsSteps'] = "Autoritatea de Certificare va începe verificarea înregistrărilor DNS de validare furnizate. Asigură-te că ai adăugat aceste înregistrări pentru domeniul tău, astfel încât după validare, certificatul va fi emis automat.";
+$_LANG['ssl']['fileSteps'] = "Autoritatea de Certificare va încerca să acceseze adresa URL de mai jos, așteptând răspunsul unic configurat. Dacă răspunsul este corect, certificatul va fi emis automat.";
+$_LANG['ssl']['url'] = "URL";
+$_LANG['ssl']['value'] = "Valoare";
+$_LANG['ssl']['type'] = "Tip";
+$_LANG['ssl']['host'] = "Host";
+$_LANG['ssl']['dnsRecordInformation'] = "Înregistrare DNS";
+$_LANG['ssl']['fileInformation'] = "Fișier de validare";
+$_LANG['ssl']['emailInformation'] = "E-mail de validare";
+$_LANG['ssl']['dcv'] = "Validare pe domeniu";
+$_LANG['ssl']['defaultcontacts'] = "Adrese implicite de contact pentru domeniu";
 
-$_LANG['upgradeCredit'] = "Actualizați creditul";
-$_LANG['upgradeCreditDescription'] = "Calculul bazat pe :daysRemaining zilele neutilizate din :totalDays total zile în ciclul actual de facturare..";
+$_LANG['upgradeCredit'] = "Actualizează creditul";
+$_LANG['upgradeCreditDescription'] = "Calculul este bazat pe :daysRemaining zile neutilizate din :totalDays zile în ciclul actual de facturare..";
 
-$_LANG['orderForm']['domainExtensionTransferNotSupported'] = "Domeniul dvs. nu este acceptat pentru a fi transferat la noi în acest moment. Încercați un alt domeniu.";
-$_LANG['orderForm']['domainExtensionTransferPricingNotConfigured'] = "Domeniul dvs. nu este eligibil pentru a fi transferat la noi. Încercați un alt domeniu.";
+$_LANG['orderForm']['domainExtensionTransferNotSupported'] = "Domeniul tău nu este acceptat pentru a fi transferat la noi în acest moment. Încearcă un alt domeniu.";
+$_LANG['orderForm']['domainExtensionTransferPricingNotConfigured'] = "Domeniul tău nu este eligibil pentru a fi transferat la noi. Încearcă un alt domeniu.";
 
 $_LANG['remoteAuthn']['success'] = "Efectuat!";
 $_LANG['remoteAuthn']['errorExclamation'] = "Eroare!";
@@ -2265,56 +2290,56 @@ $_LANG['remoteAuthn']['linkInitiated'] = "Link inițiat!";
 $_LANG['remoteAuthn']['areYouSure'] = "Esti sigur?";
 $_LANG['remoteAuthn']['yesUnlinkIt'] = "Da, deconectez!";
 $_LANG['remoteAuthn']['unlinked'] = "Deconectat!";
-$_LANG['remoteAuthn']['unavailable'] = "nu este disponibil în acest moment. Vă rugăm să încercați din nou mai târziu.";
-$_LANG['remoteAuthn']['connectError'] = "Nu am reușit să conectăm contul. Contactați administratorul de sistem.";
-$_LANG['remoteAuthn']['completeSignIn'] = "Completați conectarea la furnizorul dvs. de servicii ales.";
+$_LANG['remoteAuthn']['unavailable'] = "nu este disponibil în acest moment. Te rugăm să încerci din nou mai târziu.";
+$_LANG['remoteAuthn']['connectError'] = "Nu am reușit să conectăm contul. Contactează administratorul.";
+$_LANG['remoteAuthn']['completeSignIn'] = "Finalizează conectarea la furnizorul tău de servicii.";
 $_LANG['remoteAuthn']['redirecting'] = "Conectare automată reușită! Redirecționează ...";
-$_LANG['remoteAuthn']['accountNowLinked'] = "Contul dvs. este acum conectat cu contul dvs. :displayName .";
-$_LANG['remoteAuthn']['oneTimeAuthRequired'] = "Completați conectarea pentru a asocia acest serviciu cu contul dvs. existent. Va trebui doar să faceți asta o singură dată.";
-$_LANG['remoteAuthn']['completeRegistrationForm'] = "Completați formularul de înregistrare de mai jos.";
-$_LANG['remoteAuthn']['completeNewAccountForm'] = "Vă rugăm să completați informațiile noului cont.";
-$_LANG['remoteAuthn']['linkedToAnotherClient'] = "Acest cont este deja conectat la un cont existent la noi. Alegeți un alt cont la furnizorul de autentificare terță parte.";
-$_LANG['remoteAuthn']['alreadyLinkedToYou'] = "Acest cont este deja conectat la contul dvs. cu noi. Alegeți un alt cont la furnizorul de autentificare terță parte.";
-$_LANG['remoteAuthn']['saveTimeByLinking'] = "Economisiți timp prin înscrierea utilizând un cont existent cu oricare dintre serviciile de mai jos.";
-$_LANG['remoteAuthn']['unlinkDesc'] = "Aceasta deconectează permanent contul autorizat.";
-$_LANG['remoteAuthn']['mayHaveMultipleLinks'] = "Conectați-vă contul la oricare dintre serviciile de mai jos pentru a vă simplifica experiența de conectare. Utilizăm aceste informații numai pentru a vă verifica contul și nu va posta niciodată în numele dvs.";
-$_LANG['remoteAuthn']['titleSignUpVerb'] = "Inscrie-te";
-$_LANG['remoteAuthn']['titleOr'] = "Sau";
+$_LANG['remoteAuthn']['accountNowLinked'] = "Contul tău este acum conectat cu contul :displayName .";
+$_LANG['remoteAuthn']['oneTimeAuthRequired'] = "Finalizează conectarea pentru a asocia acest serviciu cu contul tău existent. Va trebui să faci asta doar o singură dată.";
+$_LANG['remoteAuthn']['completeRegistrationForm'] = "Completează formularul de înregistrare de mai jos.";
+$_LANG['remoteAuthn']['completeNewAccountForm'] = "Completează informațiile noului cont.";
+$_LANG['remoteAuthn']['linkedToAnotherClient'] = "Acest cont este deja conectat la un alt cont existent la noi. Alegeți un alt cont la furnizorul de autentificare terță parte.";
+$_LANG['remoteAuthn']['alreadyLinkedToYou'] = "Acest cont este deja conectat la contul tău. Alege un alt cont la furnizorul de autentificare.";
+$_LANG['remoteAuthn']['saveTimeByLinking'] = "Economisește timp la autentificare folosind un cont existent la oricare dintre serviciile de mai jos.";
+$_LANG['remoteAuthn']['unlinkDesc'] = "Asta deconectează permanent contul autorizat.";
+$_LANG['remoteAuthn']['mayHaveMultipleLinks'] = "Conectează-ți contul la oricare dintre serviciile de mai jos pentru a-ți simplifica accesul. Utilizăm aceste informații numai pentru a-ți verifica contul și nu vom publica niciodată date în numele tău.";
+$_LANG['remoteAuthn']['titleSignUpVerb'] = "Înscrie-te";
+$_LANG['remoteAuthn']['titleOr'] = "sau";
 $_LANG['remoteAuthn']['titleLinkedAccounts'] = "Conturi asociate";
-$_LANG['remoteAuthn']['provider'] = "Provider";
+$_LANG['remoteAuthn']['provider'] = "Furnizor";
 $_LANG['remoteAuthn']['name'] = "Nume";
-$_LANG['remoteAuthn']['emailAddress'] = "Adresa de email";
+$_LANG['remoteAuthn']['emailAddress'] = "Adresa e-mail";
 $_LANG['remoteAuthn']['actions'] = "Acțiuni";
 $_LANG['remoteAuthn']['noLinkedAccounts'] = "Nu există conturi asociate";
-$_LANG['remoteAuthn']['signInWith'] = "Inscrie-te :provider";
+$_LANG['remoteAuthn']['signInWith'] = "Inscrie-te cu :provider";
 $_LANG['remoteAuthn']['connectWith'] = "Conectează-te cu :provider";
 $_LANG['remoteAuthn']['signUpWith'] = "Inscrie-te cu :provider";
 
 $_LANG['unlink'] = "Deconectează";
 
-$_LANG['invoicePaymentSuccessAwaitingNotify'] = "Vă mulțumim pentru finalizarea procesului de plată. Așteptăm notificarea pentru a confirma plata pe care tocmai ați făcut-o. Vă vom trimite o confirmare prin e-mail de îndată ce aceasta va fi primită.";
+$_LANG['invoicePaymentSuccessAwaitingNotify'] = "Îți mulțumim pentru finalizarea procesului de plată. Așteptăm confirmarea plății de la procesator. Îți vom trimite o confirmare prin e-mail de îndată ce aceasta va fi primită.";
 
 $_LANG['errorPage']['404']['title'] = "Oops!";
-$_LANG['errorPage']['404']['subtitle'] = "Nu am putut găsi pagina respectivă";
-$_LANG['errorPage']['404']['description'] = "Încercați să navigați utilizând opțiunile de mai jos.";
+$_LANG['errorPage']['404']['subtitle'] = "Nu am găsit pagina";
+$_LANG['errorPage']['404']['description'] = "Folosește opțiunile de mai jos pentru navigare.";
 $_LANG['errorPage']['404']['home'] = "Acasă";
-$_LANG['errorPage']['404']['submitTicket'] = "Contactați asistența";
+$_LANG['errorPage']['404']['submitTicket'] = "Contactează asistența";
 
-$_LANG['creditCard']['removeDescription'] = "Sigur doriți să eliminați detaliile cărții dvs. de credit?";
+$_LANG['creditCard']['removeDescription'] = "Sigur vrei să ștergi detaliile cardului?";
 
 $_LANG['marketConnect']['weebly']['ftpHost'] = "Host FTP";
 $_LANG['marketConnect']['weebly']['ftpUsername'] = "Utilizator FTP";
 $_LANG['marketConnect']['weebly']['ftpPassword'] = "Parola FTP";
-$_LANG['marketConnect']['weebly']['ftpPath'] = "Percurs FTP";
-$_LANG['marketConnect']['weebly']['updateFtp'] = "Actualizați acreditările FTP";
-$_LANG['marketConnect']['weebly']['manage'] = "Conectați-vă la Weebly";
+$_LANG['marketConnect']['weebly']['ftpPath'] = "Cale FTP";
+$_LANG['marketConnect']['weebly']['updateFtp'] = "Actualizează datele FTP";
+$_LANG['marketConnect']['weebly']['manage'] = "Conectează-te la Weebly";
 
-$_LANG['domainChecker']['contactSupport'] = "Contactați asistența pentru achiziționare";
+$_LANG['domainChecker']['contactSupport'] = "Contactează echipa de asistență pentru achiziționare";
 
-$_LANG['cart']['availableCreditBalance'] = "Soldul dvs. de credit disponibil este :amount.";
-$_LANG['cart']['applyCreditAmount'] = "Aplicați <span>:amount</span> din soldul meu de credit la această comandă și voi plăti suma rămasă prin metoda de plată selectată mai jos.";
-$_LANG['cart']['applyCreditAmountNoFurtherPayment'] = "Aplicați <span>:amount</span> din soldul meu de credit la această comandă. Nu se va datora nicio plată ulterioară.";
-$_LANG['cart']['applyCreditSkip'] = "Nu aplicați niciun credit din soldul meu de credit la această comandă. Voi plăti pentru aceasta folosind metoda de plată selectată mai jos.";
+$_LANG['cart']['availableCreditBalance'] = "Soldul tău de credit disponibil este :amount.";
+$_LANG['cart']['applyCreditAmount'] = "Folosesc <span>:amount</span> din soldul meu de credit la această comandă și voi plăti suma rămasă prin metoda de plată selectată mai jos.";
+$_LANG['cart']['applyCreditAmountNoFurtherPayment'] = "Folosesc <span>:amount</span> din soldul meu de credit la această comandă. Nu mai datorez nicio sumă ulterioară.";
+$_LANG['cart']['applyCreditSkip'] = "Nu folosesc niciun credit din soldul meu la această comandă. Voi plăti folosind metoda de plată selectată mai jos.";
 
 $_LANG['dateTime']['monday'] = "Luni";
 $_LANG['dateTime']['tuesday'] = "Marți";
@@ -2326,10 +2351,10 @@ $_LANG['dateTime']['sunday'] = "Duminică";
 $_LANG['dateTime']['mon'] = "Lu";
 $_LANG['dateTime']['tue'] = "Ma";
 $_LANG['dateTime']['wed'] = "Mi";
-$_LANG['dateTime']['thu'] = "J";
+$_LANG['dateTime']['thu'] = "Jo";
 $_LANG['dateTime']['fri'] = "Vi";
-$_LANG['dateTime']['sat'] = "S";
-$_LANG['dateTime']['sun'] = "D";
+$_LANG['dateTime']['sat'] = "Sâ";
+$_LANG['dateTime']['sun'] = "Du";
 $_LANG['dateTime']['th'] = "";
 $_LANG['dateTime']['nd'] = "";
 $_LANG['dateTime']['rd'] = "";
@@ -2338,7 +2363,7 @@ $_LANG['dateTime']['january'] = "Ianuarie";
 $_LANG['dateTime']['february'] = "Februarie";
 $_LANG['dateTime']['march'] = "Martie";
 $_LANG['dateTime']['april'] = "Aprilie";
-$_LANG['dateTime']['may'] = "MaI";
+$_LANG['dateTime']['may'] = "Mai";
 $_LANG['dateTime']['june'] = "Iunie";
 $_LANG['dateTime']['july'] = "Iulie";
 $_LANG['dateTime']['august'] = "August";
@@ -2350,29 +2375,28 @@ $_LANG['dateTime']['jan'] = "Ian";
 $_LANG['dateTime']['feb'] = "Feb";
 $_LANG['dateTime']['mar'] = "Mar";
 $_LANG['dateTime']['apr'] = "Apr";
-$_LANG['dateTime']['may'] = "MaI";
 $_LANG['dateTime']['jun'] = "Iun";
 $_LANG['dateTime']['jul'] = "Iul";
 $_LANG['dateTime']['aug'] = "Aug";
-$_LANG['dateTime']['sep'] = "Sept";
+$_LANG['dateTime']['sep'] = "Sep";
 $_LANG['dateTime']['oct'] = "Oct";
-$_LANG['dateTime']['nov'] = "No";
+$_LANG['dateTime']['nov'] = "Noi";
 $_LANG['dateTime']['dec'] = "Dec";
 $_LANG['dateTime']['AM'] = "AM";
 $_LANG['dateTime']['PM'] = "PM";
 $_LANG['dateTime']['am'] = "am";
 $_LANG['dateTime']['pm'] = "pm";
-$_LANG['dateTime']['day'] = "Zi";
-$_LANG['dateTime']['days'] = "Zile";
-$_LANG['dateTime']['hour'] = "Oră";
-$_LANG['dateTime']['hours'] = "Ore";
-$_LANG['dateTime']['minute'] = "Minut";
-$_LANG['dateTime']['minutes'] = "Minute";
+$_LANG['dateTime']['day'] = "zi";
+$_LANG['dateTime']['days'] = "zile";
+$_LANG['dateTime']['hour'] = "oră";
+$_LANG['dateTime']['hours'] = "ore";
+$_LANG['dateTime']['minute'] = "minut";
+$_LANG['dateTime']['minutes'] = "minute";
 
-$_LANG['emailMarketing']['joinOurMailingList'] = "Alătură-te listei noastre de mail";
+$_LANG['emailMarketing']['joinOurMailingList'] = "Abonează-te la buletinul nostru e-mail";
 
-$_LANG['edit'] = "Editați";
-$_LANG['thankYou'] = "Vă mulțumim";
+$_LANG['edit'] = "Modifică";
+$_LANG['thankYou'] = "Mulțumim";
 $_LANG['na'] = "N/A";
 
 $_LANG['domainGracePeriodFeeInvoiceItem'] = "Taxa de reînnoire a domeniului în perioada de grație pentru :domainName";
@@ -3587,8 +3611,8 @@ $_LANG['support']['requestor']['externaluser'] = "External User";
 $_LANG['support']['requestor']['subaccount'] = "Sub-account";
 $_LANG['support']['requestor']['guest'] = "Guest";
 
-$_LANG['twoFactor']['enabled'] = "Two-Factor Authentication Enabled";
-$_LANG['twoFactor']['disabled'] = "Two-Factor Authentication Disabled";
+$_LANG['twoFactor']['enabled'] = "Autentificarea cu doi factori a fost activată";
+$_LANG['twoFactor']['disabled'] = "Autentificarea cu doi factori a fost dazactivată";
 
 $_LANG['store']['poweredBy'] = "Powered by: :service";
 
@@ -3731,7 +3755,7 @@ $_LANG['transferExtend'] = "Transferă domeniul acum și prelungește-i valabili
 $_LANG['howCanWeHelp'] = "Cum te putem ajuta";
 $_LANG['homepage']['submitTicket'] = "Trimite o sesizare";
 $_LANG['homepage']['manageServices'] = "Servicii";
-$_LANG['homepage']['manageDomains'] = "Domanii";
+$_LANG['homepage']['manageDomains'] = "Domenii";
 $_LANG['homepage']['supportRequests'] = "Asistență";
 $_LANG['homepage']['makeAPayment'] = "Plăți";
 $_LANG['homepage']['yourAccount'] = "Contul tău";
