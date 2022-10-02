@@ -2450,7 +2450,7 @@ $_LANG['store']['sitelock']['featuresTrustSealTitle'] = "Parafa SiteLock&trade; 
 $_LANG['store']['sitelock']['featuresTrustSealContent'] = "Crește încrederea vizitatorilor site-ului, confirmând că site-ul este protejat de SiteLock.";
 $_LANG['store']['sitelock']['featuresFirewallTitle'] = "Firewall";
 $_LANG['store']['sitelock']['featuresFirewallContent'] = "Firewall-ul de aplicații web TrueShield&trade; (WAF) îți protejează site-ul împotriva atacurilor din internet.";
-$_LANG['store']['sitelock']['featuresReputationTitle'] = "Proteția reputației";
+$_LANG['store']['sitelock']['featuresReputationTitle'] = "Protecția reputației";
 $_LANG['store']['sitelock']['featuresReputationContent'] = "Daily scans help detect malware early before search engines have a chance to find it and blacklist your site.";
 $_LANG['store']['sitelock']['featuresSetupTitle'] = "Fast automated setup";
 $_LANG['store']['sitelock']['featuresSetupContent'] = "Instant and fully automated setup gives you protection immediately without anything to install.";
@@ -3271,7 +3271,7 @@ $_LANG['store']['marketgoo']['cartShortDescription'] = "Îmbunătățește-ți t
 $_LANG['store']['marketgoo']['promo']['sidebar']['title'] = "Marketgoo SEO Tools";
 $_LANG['store']['marketgoo']['promo']['sidebar']['body'] = "Îmbunătățește-ți traficul site-ului și crește-ți afacerea";
 
-$_LANG['emailPreferences']['oneRequired'] = "Trebuie să aveți cel puțin o adresă de email activă pentru notificari domenii, conform prevederilor ICANN";
+$_LANG['emailPreferences']['oneRequired'] = "Trebuie să ai cel puțin o adresă de email activă pentru notificari domenii, conform prevederilor ICANN";
 $_LANG['emailPreferences']['domainContactRequired'] = "To disable domain notifications, please enable domain notifications for the primary account holder or another contact.";
 $_LANG['emailPreferences']['domainClientRequired'] = "Pentru a dezactiva notificările prin email vă rugăm să creați un contact alternativ care să le primească";
 
@@ -3376,7 +3376,7 @@ $_LANG['domainDns']['url'] = "URL Redirect";
 $_LANG['domainDns']['frame'] = "URL Frame";
 
 $_LANG['navContacts'] = "Contacte";
-$_LANG['navUserManagement'] = "Gestionare utilizatori";
+$_LANG['navUserManagement'] = "Utilizatori";
 $_LANG['navSwitchAccount'] = "Schimbă contul";
 $_LANG['navAccountSecurity'] = "Securitate";
 
@@ -3391,7 +3391,7 @@ $_LANG['emailVerification']['expired'] = "Your email verification link has expir
 $_LANG['emailVerification']['notFound'] = "Sorry, we couldn't find a pending verification matching your request.";
 $_LANG['emailVerification']['loginToRequest'] = "Please log in to request a new email verification link.";
 
-$_LANG['switchAccount']['title'] = "Choose Account";
+$_LANG['switchAccount']['title'] = "Alege contul";
 $_LANG['switchAccount']['choose'] = "Choose account to login and manage";
 $_LANG['switchAccount']['noneFound'] = "No accounts found.";
 $_LANG['switchAccount']['createInstructions'] = "To create a new account, you will need to place a new order.";
@@ -3400,17 +3400,17 @@ $_LANG['switchAccount']['invalidChooseAnother'] = "Invalid account requested. Pl
 $_LANG['switchAccount']['cancelAndReturn'] = "Cancel and return to homepage";
 $_LANG['switchAccount']['forcedSwitchRequest'] = "The URL you have attempted to access requires you to be logged in as a different client.";
 
-$_LANG['shopNow'] = "Shop Now";
-$_LANG['clientOwner'] = "Owner";
+$_LANG['shopNow'] = "Magazin now";
+$_LANG['clientOwner'] = "Proprietar";
 
 $_LANG['userManagement']['title'] = "User Management";
 $_LANG['userManagement']['managePermissions'] = "Manage Permissions";
-$_LANG['userManagement']['permissions'] = "Permissions";
-$_LANG['userManagement']['usersFound'] = ":count Users Found";
-$_LANG['userManagement']['userDescriptor'] = "Email Address / Last Login";
-$_LANG['userManagement']['lastLogin'] = "Last Login";
-$_LANG['userManagement']['actions'] = "Actions";
-$_LANG['userManagement']['emailAddress'] = "Email Address";
+$_LANG['userManagement']['permissions'] = "Permisiuni";
+$_LANG['userManagement']['usersFound'] = ":count utilizatori";
+$_LANG['userManagement']['userDescriptor'] = "Adresa e-mail / Ultima autentificare";
+$_LANG['userManagement']['lastLogin'] = "Ultima autentificare";
+$_LANG['userManagement']['actions'] = "Acțiuni";
+$_LANG['userManagement']['emailAddress'] = "Adresa e-mail";
 $_LANG['userManagement']['removeAccess'] = "Remove Access";
 $_LANG['userManagement']['pendingInvites'] = "Pending Invites";
 $_LANG['userManagement']['inviteSent'] = "Invite Sent";
@@ -3605,18 +3605,18 @@ $_LANG['cart']['idnLanguage'] = "Choose IDN Language";
 $_LANG['cart']['selectIdnLanguageForRegister'] = "Please select the language of the domain you wish to register.";
 
 $_LANG['support']['requestor']['operator'] = "Operator";
-$_LANG['support']['requestor']['owner'] = "Owner";
-$_LANG['support']['requestor']['authorizeduser'] = "Authorized User";
-$_LANG['support']['requestor']['externaluser'] = "External User";
-$_LANG['support']['requestor']['subaccount'] = "Sub-account";
-$_LANG['support']['requestor']['guest'] = "Guest";
+$_LANG['support']['requestor']['owner'] = "Proprietar";
+$_LANG['support']['requestor']['authorizeduser'] = "Utilizator autorizat";
+$_LANG['support']['requestor']['externaluser'] = "Utilizator extern";
+$_LANG['support']['requestor']['subaccount'] = "Sub-cont";
+$_LANG['support']['requestor']['guest'] = "Vizitator";
 
 $_LANG['twoFactor']['enabled'] = "Autentificarea cu doi factori a fost activată";
 $_LANG['twoFactor']['disabled'] = "Autentificarea cu doi factori a fost dazactivată";
 
-$_LANG['store']['poweredBy'] = "Powered by: :service";
+$_LANG['store']['poweredBy'] = "Motorizat de: :service";
 
-$_LANG['navMarketConnectService']['ox'] = "Professional Email";
+$_LANG['navMarketConnectService']['ox'] = "E-mail profesional";
 
 $_LANG['store']['ox']['title'] = "Professional Email";
 $_LANG['store']['ox']['manage'] = "Manage Accounts";
