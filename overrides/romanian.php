@@ -1772,11 +1772,11 @@ $_LANG['quoteacceptagreetos'] = "Pentru a valida oferta, te rugăm să confirmi 
 $_LANG['quoteacceptcontractwarning'] = "Te rugăm să înțelegi că acceptarea ofertei este considerată ca fiind încheierea unui contract și nu o vei putea anula odată ce ai acceptat-o.";
 
 // Client alerts
-$_LANG['clientAlerts']['creditCardExpiring'] = "Cardul dumneavoastră :creditCardType-:creditCardLastFourDigits expiră în  :days zile. Vă rugăm să actualizați datele de card când aveți timp.";
-$_LANG['clientAlerts']['domainsExpiringSoon'] = "Aveți :numberOfDomains domenii ce expiră în următoarele :days zile.";
-$_LANG['clientAlerts']['invoicesUnpaid'] = "Aveți :numberOfInvoices facturi neachitate. Pentru liniștea dvs, achitați-le la timp.";
-$_LANG['clientAlerts']['invoicesOverdue'] = "Aveți :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Achitați-le acum, pentru a evita întreruperea livrării serviciilor.";
-$_LANG['clientAlerts']['creditBalance'] = "Aveți un credit de :creditBalance.";
+$_LANG['clientAlerts']['creditCardExpiring'] = "Cardul tău :creditCardType-:creditCardLastFourDigits expiră în  :days zile. Te rugăm să actualizezi datele de card căt mai curând.";
+$_LANG['clientAlerts']['domainsExpiringSoon'] = "Ai :numberOfDomains domenii ce expiră în următoarele :days zile.";
+$_LANG['clientAlerts']['invoicesUnpaid'] = "Ai :numberOfInvoices facturi neachitate. Pentru liniștea ta, achită-le la timp.";
+$_LANG['clientAlerts']['invoicesOverdue'] = "Ai :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Achită-le acum, pentru a evita întreruperea livrării serviciilor.";
+$_LANG['clientAlerts']['creditBalance'] = "Ai un credit de :creditBalance.";
 
 // Client homepage panels
 $_LANG['clientHomePanels']['unpaidInvoices'] = "Facturi neachitate";
