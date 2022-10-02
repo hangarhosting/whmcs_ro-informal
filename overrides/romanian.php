@@ -1780,33 +1780,33 @@ $_LANG['clientAlerts']['creditBalance'] = "Ai un credit de :creditBalance.";
 
 // Client homepage panels
 $_LANG['clientHomePanels']['unpaidInvoices'] = "Facturi neachitate";
-$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Aveți :numberOfInvoices facturi neachitate, însumând o balanță totală de :balanceDue. Vă rugăm să le achitați la timp.";
+$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Ai :numberOfInvoices facturi neachitate, însumând o balanță totală de :balanceDue. Te rugăm să le achiți la timp.";
 $_LANG['clientHomePanels']['overdueInvoices'] = "Facturi depășite";
-$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Aveți :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Vă rugăm sa le achitați de urgență, pentru a evita întreruperea livrării serviciilor.";
+$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Ai :numberOfInvoices facturi depășite, cu o balanță totală de :balanceDue. Te rugăm sa le achiți de urgență, pentru a evita întreruperea livrării serviciilor.";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "Domenii ce expiră în curând";
-$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Aveți :numberOfDomains domenii ce expiră în următoarele :days zile. Pentru liniștea dumneavoastră, reînnoiți-le acum.";
+$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Ai :numberOfDomains domenii ce expiră în următoarele :days zile. Pentru liniștea ta, reînnoiește-le acum.";
 $_LANG['clientHomePanels']['activeProductsServices'] = "Servicii active";
-$_LANG['clientHomePanels']['activeProductsServicesNone'] = "Nu aveți produse sau servicii la noi. <a href=\"cart.php\">Plasați o comandă nouă pentru a începe</a>.";
+$_LANG['clientHomePanels']['activeProductsServicesNone'] = "Nu ai produse sau servicii la noi. <a href=\"cart.php\">Plasați o comandă nouă pentru a începe</a>.";
 $_LANG['clientHomePanels']['recentNews'] = "Anunțuri recente";
 $_LANG['clientHomePanels']['affiliateProgram'] = "Programul de afiliere";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "Tichete recente";
-$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nu am găsit tichete recente. Dacă doriți ajutor, vă rugăm <a href=\"submitticket.php\">deschideți o sesizare</a>.";
-$_LANG['clientHomePanels']['affiliateSummary'] = "Balanța dumneavoastră de comisioane este de :commissionBalance. Mai aveți nevoie de :amountUntilWithdrawalLevel pentru a putea retrage câștigurile.";
-$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Balanța dumneavoastră de comisioane este de :commissionBalance. Puteți retrage comisioanele acum.";
-$_LANG['clientHomePanels']['productsAndServices'] = "Browse our Products/Services";
+$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nu am găsit tichete recente. Dacă vrei ajutor, te rugăm <a href=\"submitticket.php\">deschide o sesizare</a>.";
+$_LANG['clientHomePanels']['affiliateSummary'] = "Balanța ta de comisioane este de :commissionBalance. Mai ai nevoie de :amountUntilWithdrawalLevel pentru a putea retrage câștigurile.";
+$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Balanța ta de comisioane este de :commissionBalance. Poți retrage comisioanele acum.";
+$_LANG['clientHomePanels']['productsAndServices'] = "Afișează produsele și serviciile noastre";
 
-$_LANG['upgradeNotPossible'] = "Transformarea acestui produs nu este posibilă.  Dacă considerați că ați ajuns aici dintr-o eroare, vă rugăm să notificați departamentul de suport.  Altfel, vă rugăm verificați din nou alegerea făcută.";
-$_LANG['upgradeSameProductMustExtendCycle'] = "Pentru a modifica perioada de facturare, vă rugăm sa alegeți o perioadă mai mare decât cea curentă";
+$_LANG['upgradeNotPossible'] = "Transformarea acestui produs nu este posibilă. Dacă consideri că ai ajuns aici dintr-o eroare, te rugăm să notifici departamentul de suport.  Altfel, te rugăm să verifici din nou alegerea făcută.";
+$_LANG['upgradeSameProductMustExtendCycle'] = "Pentru a modifica abonamentul, te rugăm sa alegi o perioadă mai mare decât cea curentă";
 
 $_LANG['hostingInfo'] = "Informații despre găzduire";
 $_LANG['additionalInfo'] = "Informații suplimentare";
-$_LANG['resourceUsage'] = "Utilizare resurse";
+$_LANG['resourceUsage'] = "Resurse utilizate";
 $_LANG['primaryIP'] = "Adresă IP primară";
 $_LANG['assignedIPs'] = "Adrese IP alocate";
-$_LANG['diskSpace'] = "Spațiu pe disc";
+$_LANG['diskSpace'] = "Spațiu de stocare";
 $_LANG['bandwidth'] = "Trafic lunar";
 $_LANG['registered'] = "Înregistrat";
-$_LANG['upgrade'] = "Upgrade";
+$_LANG['upgrade'] = "Modificare";
 
 $_LANG['downdoadsdesc'] = "Manuale, programe utile și alte fișiere ce te-ar putea interesa";
 
@@ -1826,7 +1826,7 @@ $_LANG['moreDetails'] = "Mai multe detalii";
 
 $_LANG['clientHomeSearchKb'] = "Caută în biblioteca noastră de informații...";
 
-$_LANG['whoisContactWarning'] = "Este important să mențineți actualizate informațiile de contact WHOIS ale domeniului, pentru a evita pierderea controlului asupra domeniului.";
+$_LANG['whoisContactWarning'] = "Este important să menții actualizate informațiile de contact WHOIS ale domeniului, pentru a evita pierderea controlului asupra acestuia.";
 
 $_LANG['paymentstodate'] = "Plăți la zi";
 $_LANG['balancedue'] = "Balanța de credit";
@@ -1837,20 +1837,20 @@ $_LANG['domaincheckertransferable'] = "Disponibil pentru transferare";
 $_LANG['domaincheckertaken'] = "Rezervat";
 $_LANG['domaincheckeradding'] = "se adaugă";
 $_LANG['domaincheckeradded'] = "Adăugat";
-$_LANG['domaincheckernomoresuggestions'] = "Acestea sunt toate rezultatele ce le-am găsit pentru dumneavoastră! Dacă încă nu ați găsit ceea ce căutați, vă rugăm încercați cu alte cuvinte cheie.";
+$_LANG['domaincheckernomoresuggestions'] = "Acestea sunt toate rezultatele ce le-am găsit pentru tine! Dacă încă nu ai găsit ceea ce cauți, te rugăm să încerci cu alte cuvinte cheie.";
 $_LANG['domaincheckerunabletooffertld'] = "Din păcate, nu putem înregistra acest TLD acum";
-$_LANG['domaincheckerbulkplaceholder'] = "Introduceți până la 20 de nume de domenii.\nFiecare domeniu trebuie să fie pe un rând nou.\n\nExemple:\nexample.com\nexample.net";
+$_LANG['domaincheckerbulkplaceholder'] = "Adaugă până la 20 de nume de domenii.\nFiecare domeniu trebuie să fie pe un rând nou.\n\nExemple:\nexample.com\nexample.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "Domeniu indisponibil";
-$_LANG['domainchecker']['suggestiontakenmsg'] = "Din păcate, domeniul ales nu este disponibil. Acest lucru se poate întâmpla când altcineva a înregistrat recent domeniul ales. Vă rugăm să vă întoarceți și să alegeți alt domeniu.";
-$_LANG['domainchecker']['suggestiontakenchooseanother'] = "Alegeți alt domeniu";
+$_LANG['domainchecker']['suggestiontakenmsg'] = "Din păcate, domeniul ales nu este disponibil. Acest lucru se poate întâmpla când altcineva a înregistrat recent domeniul ales. Alege alt domeniu.";
+$_LANG['domainchecker']['suggestiontakenchooseanother'] = "Alege alt domeniu";
 
 $_LANG['domainchecker']['alreadyincarttitle'] = "Este deja în coș";
-$_LANG['domainchecker']['alreadyincartmsg'] = "Acest domeniu este deja în coșul dumneavoastră de cumpărături. Continuați cu comanda pentru a finaliza achiziția.";
+$_LANG['domainchecker']['alreadyincartmsg'] = "Acest domeniu este deja în coșul tău. Continuă cu comanda pentru a finaliza achiziția.";
 $_LANG['domainchecker']['alreadyincartcheckoutnow'] = "Trimite comanda";
 
 $_LANG['genericerror']['title'] = "Oops, ceva nu a funcționat corect!";
-$_LANG['genericerror']['msg'] = "Vă rugăm să încercați din nou și dacă problema persistă, contactați echipa de asistență.";
+$_LANG['genericerror']['msg'] = "Te rugăm să încerci din nou și dacă problema persistă, contactează echipa de suport.";
 
 # Licensing Addon
 
