@@ -1585,9 +1585,9 @@ $_LANG['sidebars']['viewAccount']['emailHistory'] = "Istoric e-mailuri";
 $_LANG['aboutsecurityquestions'] = "De ce întrebări de securitate?";
 $_LANG['registersecurityquestionblurb'] = "Configurarea unei întrebări de securitate îți asigură un nivel suplimentar de protecție, devreme ce orice modificări în contul tău vor trebui confirmate cu detaliile acestei întrebări.";
 
-$_LANG['update'] = "Actualizare";
-$_LANG['yourinfo'] = "Datele mele";
-$_LANG['shortcuts'] = "Link-uri directe";
+$_LANG['update'] = "Actualizează";
+$_LANG['yourinfo'] = "Date de cont";
+$_LANG['shortcuts'] = "Link-uri rapide";
 
 $_LANG['yourservices'] = "Serviciile tale";
 $_LANG['yourdomains'] = "Domeniile tale";
@@ -2451,13 +2451,13 @@ $_LANG['store']['sitelock']['featuresTrustSealContent'] = "Crește încrederea v
 $_LANG['store']['sitelock']['featuresFirewallTitle'] = "Firewall";
 $_LANG['store']['sitelock']['featuresFirewallContent'] = "Firewall-ul de aplicații web TrueShield&trade; (WAF) îți protejează site-ul împotriva atacurilor din internet.";
 $_LANG['store']['sitelock']['featuresReputationTitle'] = "Protecția reputației";
-$_LANG['store']['sitelock']['featuresReputationContent'] = "Daily scans help detect malware early before search engines have a chance to find it and blacklist your site.";
-$_LANG['store']['sitelock']['featuresSetupTitle'] = "Fast automated setup";
-$_LANG['store']['sitelock']['featuresSetupContent'] = "Instant and fully automated setup gives you protection immediately without anything to install.";
+$_LANG['store']['sitelock']['featuresReputationContent'] = "Scanările zilnice detectează rapid codul malware, înainte ca motoarele de căutare să-l găsească și să îți blocheze site-ul.";
+$_LANG['store']['sitelock']['featuresSetupTitle'] = "Configurare automată rapidă";
+$_LANG['store']['sitelock']['featuresSetupContent'] = "Configurarea instantanee și total automatizată îți asigură protecția fără să instalezi nimic.";
 $_LANG['store']['sitelock']['featuresCDNTitle'] = "Content Delivery Network (CDN)";
-$_LANG['store']['sitelock']['featuresCDNContent'] = "Speed up your website by distributing it globally and serving it to your visitors from the closest location for faster page load speeds wherever they are.";
-$_LANG['store']['sitelock']['emergencyPlanTitle'] = "Website Hacked?";
-$_LANG['store']['sitelock']['emergencyPlanHeadline'] = "Fix it now with SiteLock Emergency Response";
+$_LANG['store']['sitelock']['featuresCDNContent'] = "Crește-ți viteza site-ului prin distribuirea sa globală și servirea către vizitatori a conținutului din cea mai apropiată locație.";
+$_LANG['store']['sitelock']['emergencyPlanTitle'] = "Site compromis?";
+$_LANG['store']['sitelock']['emergencyPlanHeadline'] = "Repară-l acum cu SiteLock Emergency Response";
 $_LANG['store']['sitelock']['emergencyPlanBody'] = "If your website has been attacked and compromised get immediate emergency assistance to quickly recover your site. Here's how SiteLock Emergency Response helps:";
 $_LANG['store']['sitelock']['emergencyPlanResponseTitle'] = "Immediate response";
 $_LANG['store']['sitelock']['emergencyPlanResponseContent'] = "Get our fastest response time with analysis and work to recover your site started within 30 minutes.";
@@ -3455,8 +3455,8 @@ $_LANG['accountInvite']['contactAdministrator'] = "Please contact the account ad
 
 $_LANG['clientareanavcontacts'] = "Contacte";
 
-$_LANG['permissions']['descriptions']['profile'] = "Access and modify the client profile information";
-$_LANG['permissions']['descriptions']['contacts'] = "Access and manage contacts";
+$_LANG['permissions']['descriptions']['profile'] = "Accesează și modifică informațiile de profil ale clientului";
+$_LANG['permissions']['descriptions']['contacts'] = "Accesează și gestionează contactele";
 $_LANG['permissions']['descriptions']['products'] = "View access to products, services and addons";
 $_LANG['permissions']['descriptions']['manageproducts'] = "Allow password resets and other actions";
 $_LANG['permissions']['descriptions']['productsso'] = "Allow single sign-on into services";
@@ -3469,8 +3469,8 @@ $_LANG['permissions']['descriptions']['affiliates'] = "Access to view and reques
 $_LANG['permissions']['descriptions']['emails'] = "Access to view account email history";
 $_LANG['permissions']['descriptions']['orders'] = "Allow placing of new orders";
 
-$_LANG['closed'] = "Closed";
-$_LANG['noPermission'] = "No Permission";
+$_LANG['closed'] = "Închis";
+$_LANG['noPermission'] = "Nu ai permisiuni";
 
 $_LANG['domainDetails']['error']['getNs'] = "An issue was encountered while retrieving the domain nameservers. Please contact support.";
 $_LANG['domainDetails']['error']['saveNs'] = "An issue was encountered while updating the domain nameservers. Please contact support.";
@@ -3614,7 +3614,7 @@ $_LANG['support']['requestor']['guest'] = "Vizitator";
 $_LANG['twoFactor']['enabled'] = "Autentificarea cu doi factori a fost activată";
 $_LANG['twoFactor']['disabled'] = "Autentificarea cu doi factori a fost dazactivată";
 
-$_LANG['store']['poweredBy'] = "Motorizat de: :service";
+$_LANG['store']['poweredBy'] = "Furnizat de: :service";
 
 $_LANG['navMarketConnectService']['ox'] = "E-mail profesional";
 
@@ -3723,11 +3723,11 @@ $_LANG['ox']['required']['email'] = "Email Address is a required field.";
 $_LANG['ox']['required']['password'] = "Password is a required field.";
 $_LANG['ox']['required']['passwordMatchMissing'] = "Confirmation Password is a required field.";
 $_LANG['ox']['required']['passwordMatch'] = "Confirmation Password must match Password.";
-$_LANG['ox']['accessSuite'] = "Online Portal";
-$_LANG['ox']['accountDeleted'] = "Account deleted successfully.";
-$_LANG['ox']['accountCreated'] = "Account created successfully.";
-$_LANG['ox']['accountModified'] = "Account modified successfully.";
-$_LANG['ox']['passwordChanged'] = "Account password changed successfully.";
+$_LANG['ox']['accessSuite'] = "Portal online";
+$_LANG['ox']['accountDeleted'] = "Contul a fost șters cu succes.";
+$_LANG['ox']['accountCreated'] = "Contul a fost creat cu succes.";
+$_LANG['ox']['accountModified'] = "Contul a fost modificat cu succes.";
+$_LANG['ox']['passwordChanged'] = "Parola contului a fost schimbată cu succes.";
 
 $_LANG['orderForm']['upgradeQuantityCannotBeLowerThanMinimum'] = "The quantity of the service cannot be changed below the minimum (:minimum).";
 $_LANG['orderForm']['upgradeQuantityMustChange'] = "You must choose a plan upgrade or change the quantity.";
