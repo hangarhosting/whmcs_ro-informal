@@ -1586,7 +1586,7 @@ $_LANG['aboutsecurityquestions'] = "De ce întrebări de securitate?";
 $_LANG['registersecurityquestionblurb'] = "Configurarea unei întrebări de securitate îți asigură un nivel suplimentar de protecție, devreme ce orice modificări în contul tău vor trebui confirmate cu detaliile acestei întrebări.";
 
 $_LANG['update'] = "Actualizare";
-$_LANG['yourinfo'] = "Datele tale";
+$_LANG['yourinfo'] = "Datele mele";
 $_LANG['shortcuts'] = "Link-uri directe";
 
 $_LANG['yourservices'] = "Serviciile tale";
@@ -2179,7 +2179,7 @@ $_LANG['pricing']['noExtensionsDefined'] = "Nici o extensie disponibilă";
 $_LANG['navStore'] = "Servicii";
 $_LANG['navBrowseProductsServices'] = "Toate serviciile";
 
-$_LANG['navWebsiteSecurity'] = "Site & securitate";
+$_LANG['navWebsiteSecurity'] = "Site & Securitate";
 $_LANG['navMarketConnectService']['symantec'] = "Certificate SSL";
 $_LANG['navMarketConnectService']['weebly'] = "Weebly - Website Builder";
 $_LANG['navMarketConnectService']['spamexperts'] = "Servicii antispam";
@@ -2402,55 +2402,55 @@ $_LANG['na'] = "N/A";
 $_LANG['domainGracePeriodFeeInvoiceItem'] = "Taxa de reînnoire a domeniului în perioada de grație pentru :domainName";
 $_LANG['domainRedemptionPeriodFeeInvoiceItem'] = "Taxa de reînnoire a domeniului în perioada de răscumpărare pentru :domainName";
 $_LANG['gracePeriod'] = "Perioadă de grație";
-$_LANG['redemptionPeriod'] = "Perioada de răscumpărare";
-$_LANG['domainsExpiringSoon'] = "Expirat curând";
+$_LANG['redemptionPeriod'] = "Perioadă de răscumpărare";
+$_LANG['domainsExpiringSoon'] = "Expirat de curând";
 $_LANG['expiresToday'] = "Expiră azi";
-$_LANG['clientareagrace'] = "Perioada de grație (expirată)";
-$_LANG['clientarearedemption'] = "Perioada de răscumpărare (expirată)";
+$_LANG['clientareagrace'] = "Domeniu expirat (în perioada de grație)";
+$_LANG['clientarearedemption'] = "Domeniu expirat  (în perioada de răscumpărare)";
 $_LANG['domainRenewal']['availablePeriods'] = "Perioade de reînnoire disponibile";
 $_LANG['domainRenewal']['unavailable'] = "Reînnoirea domeniului nu este disponibilă";
-$_LANG['domainRenewal']['renewingDomains'] = "Reînnoiți domeniile";
-$_LANG['domainRenewal']['graceFee'] = "Taxa ptr. perioada de grație";
-$_LANG['domainRenewal']['redemptionFee'] = "Taxa ptr. Perioada de răscumpărare";
-$_LANG['domainRenewal']['graceRenewalPeriodDescription'] = "Domeniile intră în perioada de grație la expirarea termenului. Odată ajuns în acest statut, domeniul poate fi reînnoit numai pentru un termen maxim de perioadă minimă de înregistrare.";
+$_LANG['domainRenewal']['renewingDomains'] = "Reînnoiește domeniile";
+$_LANG['domainRenewal']['graceFee'] = "Taxa în perioada de grație";
+$_LANG['domainRenewal']['redemptionFee'] = "Taxa în perioada de răscumpărare";
+$_LANG['domainRenewal']['graceRenewalPeriodDescription'] = "Domeniul intră în perioada de grație la expirarea termenului. Odată ajuns în acest statut, domeniul poate fi reînnoit numai pentru un termen maxim de perioadă minimă de înregistrare.";
 $_LANG['domainRenewal']['hasExpired'] = "Acest domeniu a expirat.";
 $_LANG['domainRenewal']['expiringIn'] = "Expiră în :days de zile";
 $_LANG['domainRenewal']['expiredDaysAgo'] = "Expirat de :days de zile";
-$_LANG['domainRenewal']['noDomains'] = "În prezent nu aveți niciun domeniu care să fie eligibil pentru reînnoire";
-$_LANG['domainRenewal']['showingDomains'] = "Se afișează :showing din :totalCount domenii";
-$_LANG['domainRenewal']['showAll'] = "Arată tot";
+$_LANG['domainRenewal']['noDomains'] = "În prezent nu ai niciun domeniu eligibil pentru reînnoire";
+$_LANG['domainRenewal']['showingDomains'] = "Afișez :showing din :totalCount domenii";
+$_LANG['domainRenewal']['showAll'] = "Afișează tot";
 $_LANG['domainRenewal']['maximumAdvanceRenewal'] = "Reînnoirea maximă în avans este de :days de zile";
 
 $_LANG['navMarketConnectService']['sitelock'] = "Protecție site";
-$_LANG['store']['sitelock']['title'] = "SiteLock Protecție Site";
-$_LANG['store']['sitelock']['tagline'] = "Scanează automat site-ul dvs. pentru malware și vă protejază reputația online";
-$_LANG['store']['sitelock']['manageService'] = "Gestionați serviciul SiteLock";
-$_LANG['store']['sitelock']['cartShortDescription'] = "SiteLock oferă o serie de caracteristici menite să protejeze site-ul dvs. și reputația companiei dvs.";
-$_LANG['store']['sitelock']['plansAndPricing'] = "Plans & Pricing";
-$_LANG['store']['sitelock']['featuresLink'] = "Features";
-$_LANG['store']['sitelock']['websiteHacked'] = "Website Hacked?";
+$_LANG['store']['sitelock']['title'] = "Protecție SiteLock";
+$_LANG['store']['sitelock']['tagline'] = "Scanează automat site-ul împotriva programelor malware și îți protejază reputația online";
+$_LANG['store']['sitelock']['manageService'] = "Gestionează serviciul SiteLock";
+$_LANG['store']['sitelock']['cartShortDescription'] = "SiteLock oferă o serie de caracteristici menite să-ți protejeze site-ul și reputația companiei tale";
+$_LANG['store']['sitelock']['plansAndPricing'] = "Abonamente";
+$_LANG['store']['sitelock']['featuresLink'] = "Facilități";
+$_LANG['store']['sitelock']['websiteHacked'] = "Site compromis?";
 $_LANG['store']['sitelock']['faq'] = "FAQ";
-$_LANG['store']['sitelock']['contentHeadline'] = "Website security & malware protection for your website";
-$_LANG['store']['sitelock']['contentBodyParagraph1'] = "SiteLock&trade;, the global leader in website security, protects your website to give you peace of mind.";
-$_LANG['store']['sitelock']['contentBodyParagraph2'] = "SiteLock's Daily Malware Scanning identifies vulnerabilities and known malicious code and automatically removes it from your website to protect your website and visitors against threats.";
-$_LANG['store']['sitelock']['contentBodyParagraph3'] = "Plus you get the SiteLock Trust Seal which builds customer confidence and is proven to increase sales and conversion rates.";
-$_LANG['store']['sitelock']['comparePlans'] = "Compare SiteLock Plans";
-$_LANG['store']['sitelock']['comparePlansSubtitle'] = "Professional security features for your website";
-$_LANG['store']['sitelock']['featuresTitle'] = "SiteLock Features";
-$_LANG['store']['sitelock']['featuresHeadline'] = "Provides a range of features designed to protect both your website and your business’ reputation:";
-$_LANG['store']['sitelock']['featuresMalwareTitle'] = "Malware Scan";
-$_LANG['store']['sitelock']['featuresMalwareContent'] = "Proactively monitors for and alerts you about any malware that is detected on your website.";
-$_LANG['store']['sitelock']['featuresMalwareRemovalTitle'] = "Automatic malware removal";
-$_LANG['store']['sitelock']['featuresMalwareRemovalContent'] = "If a scan finds anything, SiteLock will safely remove any known malware automatically.";
-$_LANG['store']['sitelock']['featuresVulnerabilityTitle'] = "Vulnerability Scan";
-$_LANG['store']['sitelock']['featuresVulnerabilityContent'] = "Automatically checks your applications to ensure they're up-to-date and secured against known vulnerabilities.";
-$_LANG['store']['sitelock']['featuresOWASPTitle'] = "OWASP Protection";
-$_LANG['store']['sitelock']['featuresOWASPContent'] = "Get protection against the top 10 web app security flaws as recognised by OWASP, the Open Web Application Security Project.";
-$_LANG['store']['sitelock']['featuresTrustSealTitle'] = "SiteLock&trade; Trust Seal";
-$_LANG['store']['sitelock']['featuresTrustSealContent'] = "Give your visitors added confidence by showing your website is protected by SiteLock.";
+$_LANG['store']['sitelock']['contentHeadline'] = "Securitate și protecție antimalware pentru site-ul tău";
+$_LANG['store']['sitelock']['contentBodyParagraph1'] = "SiteLock&trade;, lider global în securitate cibernetică, îți protejează site-ul.";
+$_LANG['store']['sitelock']['contentBodyParagraph2'] = "Scanarea zilnică antimalware de la SiteLock's identifică vulnerabilitățile și programele periculoase, ștergându-le automat și protejând atât site-ul cât și vizitatorii.";
+$_LANG['store']['sitelock']['contentBodyParagraph3'] = "În plus, primești parafa SiteLock Trust Seal, care va crește încrederea clienților, fiind dovedită creșterea vânzărilor și ratelor de conversie.";
+$_LANG['store']['sitelock']['comparePlans'] = "Compară abonamentele SiteLock";
+$_LANG['store']['sitelock']['comparePlansSubtitle'] = "Facilități profesionale de securitate pentru site-ul tău";
+$_LANG['store']['sitelock']['featuresTitle'] = "Facilități SiteLock";
+$_LANG['store']['sitelock']['featuresHeadline'] = "Asigură o varietate de facilități destinate atât protecției site-ului tău, cât și a reputației afacerii tale:";
+$_LANG['store']['sitelock']['featuresMalwareTitle'] = "Scanare anti-malware";
+$_LANG['store']['sitelock']['featuresMalwareContent'] = "Monitorizează proactiv și te alertează la detectarea oricărui cod malware în site.";
+$_LANG['store']['sitelock']['featuresMalwareRemovalTitle'] = "Ștergere automată a codului malware";
+$_LANG['store']['sitelock']['featuresMalwareRemovalContent'] = "Dacă o scanare găsește ceva, SiteLock va șterge automat și în siguranță orice malware cunoscut.";
+$_LANG['store']['sitelock']['featuresVulnerabilityTitle'] = "Scanare vulnerabilități";
+$_LANG['store']['sitelock']['featuresVulnerabilityContent'] = "Verifică automat aplicațiile tale pentru a te asigura că sunt la zi și securizate împotriva vulnerabilităților cunoscute.";
+$_LANG['store']['sitelock']['featuresOWASPTitle'] = "Protecție OWASP";
+$_LANG['store']['sitelock']['featuresOWASPContent'] = "Primești protecție împotriva celr 10 tipuri de atacuri de securitate recunoscute de OWASP - Open Web Application Security Project.";
+$_LANG['store']['sitelock']['featuresTrustSealTitle'] = "Parafa SiteLock&trade; Trust Seal";
+$_LANG['store']['sitelock']['featuresTrustSealContent'] = "Crește încrederea vizitatorilor site-ului, confirmând că site-ul este protejat de SiteLock.";
 $_LANG['store']['sitelock']['featuresFirewallTitle'] = "Firewall";
-$_LANG['store']['sitelock']['featuresFirewallContent'] = "The TrueShield&trade; Web Application Firewall protects your website against hackers and attacks.";
-$_LANG['store']['sitelock']['featuresReputationTitle'] = "Protect your reputation";
+$_LANG['store']['sitelock']['featuresFirewallContent'] = "Firewall-ul de aplicații web TrueShield&trade; (WAF) îți protejează site-ul împotriva atacurilor din internet.";
+$_LANG['store']['sitelock']['featuresReputationTitle'] = "Proteția reputației";
 $_LANG['store']['sitelock']['featuresReputationContent'] = "Daily scans help detect malware early before search engines have a chance to find it and blacklist your site.";
 $_LANG['store']['sitelock']['featuresSetupTitle'] = "Fast automated setup";
 $_LANG['store']['sitelock']['featuresSetupContent'] = "Instant and fully automated setup gives you protection immediately without anything to install.";
@@ -2498,36 +2498,36 @@ $_LANG['store']['sitelock']['faqFiveBody'] = "No. During a website scan, SiteLoc
 $_LANG['store']['sitelock']['faqSixTitle'] = "What is the SiteLock Trust Seal?";
 $_LANG['store']['sitelock']['faqSixBody'] = "The SiteLock Trust Seal is a widely-recognized security badge you can display on your website. It is a clear indication that your website is secure and malware-free. To add the seal to your website, simply include the code snippet that SiteLock provides in the footer area of your website.";
 
-$_LANG['learnmore'] = "Aflați mai multe";
+$_LANG['learnmore'] = "Află mai multe";
 $_LANG['category'] = "Categorie";
-$_LANG['changeCurrency'] = "Schimbare valută";
+$_LANG['changeCurrency'] = "Schimbă moneda";
 
 $_LANG['store']['ssl']['competitiveUpgrade'] = "Upgrade competitiv";
-$_LANG['store']['ssl']['competitiveUpgradeBannerMsg'] = "Domeniul dvs. <em>:domain</em> a fost validat cu succes. Alegeți un tip de certificat pentru a continua și finaliza procesul de plată.";
+$_LANG['store']['ssl']['competitiveUpgradeBannerMsg'] = "Domeniul tău <em>:domain</em> a fost validat cu succes. Alege un tip de certificat pentru a continua și finaliza procesul de plată.";
 $_LANG['store']['ssl']['competitiveUpgradeQualified'] = "Calificat pentru upgrade competitiv";
 
 $_LANG['dismiss'] = "Renunță";
 
-$_LANG['store']['emailServices']['manageService'] = "Conectați-vă la panoul de control SpamExperts";
+$_LANG['store']['emailServices']['manageService'] = "Conectează-te la panoul de control SpamExperts";
 
-$_LANG['noDomain'] = "Nici un domeniu";
+$_LANG['noDomain'] = "Niciun domeniu";
 
-$_LANG['upgradeService']['serviceBeingUpgraded'] = "Serviciu in curs de actualizare";
-$_LANG['upgradeService']['chooseNew'] = "Alegeți un nou produs/plan";
-$_LANG['upgradeService']['currentProduct'] = "Produsul curent";
+$_LANG['upgradeService']['serviceBeingUpgraded'] = "Serviciu în curs de actualizare";
+$_LANG['upgradeService']['chooseNew'] = "Alege un nou serviciu";
+$_LANG['upgradeService']['currentProduct'] = "Serviciul curent";
 $_LANG['upgradeService']['recommended'] = "Recomandat";
-$_LANG['upgradeService']['select'] = "Selectați";
+$_LANG['upgradeService']['select'] = "Alege";
 
-$_LANG['feeds']['itemsInBasket'] = "Aveți <b>:count</b> articole în coșul dumneavoastră";
+$_LANG['feeds']['itemsInBasket'] = "Ai <b>:count</b> articole în coș";
 
 $_LANG['validation']['accepted'] = " :attribute trebuie să fie acceptat.";
 $_LANG['validation']['active_url'] = " :attribute nu este o adresă URL validă.";
-$_LANG['validation']['after'] = " :attribute trebuie să fie o dată ulterioară de :date.";
+$_LANG['validation']['after'] = " :attribute trebuie să fie o dată ulterioară datei de :date.";
 $_LANG['validation']['alpha'] = " :attribute poate conține numai litere.";
 $_LANG['validation']['alpha_dash'] = " :attribute poate conține numai litere, cifre și liniuțe.";
 $_LANG['validation']['alpha_num'] = " :attribute poate conține numai litere și cifre.";
 $_LANG['validation']['array'] = " :attribute trebuie să fie o matrice.";
-$_LANG['validation']['before'] = " :attribute trebuie să fie o dată înainte de :date.";
+$_LANG['validation']['before'] = " :attribute trebuie să fie o dată înaintea datei de :date.";
 $_LANG['validation']['between']['numeric'] = " :attribute trebuie să fie între :min și :max.";
 $_LANG['validation']['between']['file'] = " :attribute trebuie să fie între :min și :max kilobyte.";
 $_LANG['validation']['between']['string'] = " :attribute trebuie să fie între :min și :max caractere.";
@@ -2543,10 +2543,10 @@ $_LANG['validation']['email'] = " :attribute trebuie să fie o adresă de e-mail
 $_LANG['validation']['exists'] = " :attribute selectat este nevalid.";
 $_LANG['validation']['filled'] = "Câmpul :attribute este obligatoriu.";
 $_LANG['validation']['image'] = " :attribute trebuie să fie o imagine.";
-$_LANG['validation']['in'] = " :attribute selectat este nevalid.";
+$_LANG['validation']['in'] = " :attribute selectat este invalid.";
 $_LANG['validation']['integer'] = " :attribute trebuie să fie un număr întreg.";
 $_LANG['validation']['ip'] = " :attribute trebuie să fie o adresă IP validă.";
-$_LANG['validation']['json'] = " :attribute trebuie să fie o stringă JSON validă.";
+$_LANG['validation']['json'] = " :attribute trebuie să fie un șir de caractere JSON valid.";
 $_LANG['validation']['max']['numeric'] = " :attribute nu poate fi mai mare decât :max.";
 $_LANG['validation']['max']['file'] = " :attribute nu poate fi mai mare decât :max kilobyte.";
 $_LANG['validation']['max']['string'] = " :attribute nu poate fi mai mare decât :max caractere.";
@@ -2556,10 +2556,10 @@ $_LANG['validation']['min']['numeric'] = " :attribute trebuie să fie de cel pu�
 $_LANG['validation']['min']['file'] = " :attribute trebuie să fie de cel puțin :min kilobyte.";
 $_LANG['validation']['min']['string'] = " :attribute trebuie să fie de cel puțin :min caractere.";
 $_LANG['validation']['min']['array'] = " :attribute trebuie să fie de cel puțin :min articole.";
-$_LANG['validation']['not_in'] = " :attribute selectat este nevalid.";
+$_LANG['validation']['not_in'] = " :attribute selectat este invalid.";
 $_LANG['validation']['numeric'] = " :attribute trebuie să fie un număr.";
 $_LANG['validation']['present'] = "Câmpul :attribute trebuie să fie prezent.";
-$_LANG['validation']['regex'] = "Formatul :attribute este nevalid.";
+$_LANG['validation']['regex'] = "Formatul :attribute este invalid.";
 $_LANG['validation']['required'] = "Câmpul :attribute este obligatoriu.";
 $_LANG['validation']['required_if'] = "Câmpul :attribute este necesar atunci când :other este :value.";
 $_LANG['validation']['required_unless'] = "Câmpul :attribute este necesar decât dacă :other este in :values.";
@@ -2577,44 +2577,44 @@ $_LANG['validation']['timezone'] = " :attribute trebuie să fie o zonă validă.
 $_LANG['validation']['unique'] = " :attribute a fost deja luat.";
 $_LANG['validation']['url'] = "Formatul  :attribute este nevalid.";
 
-$_LANG['orderErrorServerHostnameInvalid'] = "Numele Host pentru serverul dvs. este nevalid.";
-$_LANG['orderErrorServerNameserversInvalid'] = "Prefixul nameserverului este nevalid.";
+$_LANG['orderErrorServerHostnameInvalid'] = "Numele host pentru serverul tău este invalid.";
+$_LANG['orderErrorServerNameserversInvalid'] = "Prefixul nameserverului este invalid.";
 
-$_LANG['checkAll'] = "Selectați tot";
-$_LANG['uncheckAll'] = "Deselectați tot";
+$_LANG['checkAll'] = "Selectează tot";
+$_LANG['uncheckAll'] = "De-selectează tot";
 
-$_LANG['maxmind']['manualReview'] = "Comanda dvs. a fost reținută pentru o examinare manuală.<br /><br />Dacă credeți că ați primit acest mesaj din greșeală, vă rugăm să acceptați scuzele noastre și <a href=\"submitticket.php\">trimiteți un ticket de asistență</a> la echipa noastră de asistență pentru clienți. Vă mulțumim.";
+$_LANG['maxmind']['manualReview'] = "Comanda ta a fost reținută pentru o verificare manuală.<br /><br />Dacă crezi că ai primit acest mesaj din greșeală, te rugăm să accepți scuzele noastre și să <a href=\"submitticket.php\">trimiți un tichet de asistență</a> la echipa noastră de suport. Mulțumim.";
 
 $_LANG['nodomain'] = "Nu este specificat niciun domeniu";
 
-$_LANG['store']['symantec']['cartTitle'] = "Protejați-vă site-ul cu SSL";
-$_LANG['store']['symantec']['cartShortDescription'] = "Adăugați SSL hosting-ului dvs. pentru a oferi vizitatorilor informația că site-ul este verificat și vă ajută să vă construiți încrederea.";
+$_LANG['store']['symantec']['cartTitle'] = "Protejează-ți site-ul cu SSL";
+$_LANG['store']['symantec']['cartShortDescription'] = "Adaugă un certificat SSL site-ului tău pentru a oferi vizitatorilor încredere și siguranță.";
 
-$_LANG['store']['weebly']['cartTitle'] = "Powerful Website Builder";
-$_LANG['store']['weebly']['cartShortDescription'] = "Adăugați Weebly drag and drop creatorul de site-uri web pentru a vă permite să creați un site minunat, magazin sau blog.";
+$_LANG['store']['weebly']['cartTitle'] = "Constructor de site-uri puternic";
+$_LANG['store']['weebly']['cartShortDescription'] = "Adaugă creatorul de site-uri «drag-and-drop» Weebly pentru un site minunat, magazin sau blog.";
 
-$_LANG['store']['spamexperts']['cartTitle'] = "SpamExperts Email Security";
-$_LANG['store']['spamexperts']['cartShortDescription'] = "Adăugați securitate profesională prin e-mail și arhivare în domeniul dvs. pentru a vă proteja și securiza e-mailurile împotriva atacurilor și a programelor malware.";
+$_LANG['store']['spamexperts']['cartTitle'] = "Securitate E-mail de la SpamExperts";
+$_LANG['store']['spamexperts']['cartShortDescription'] = "Adaugă securitate profesională și arhivare e-mail la domeniul tău pentru a-ți proteja și securiza corespondența împotriva atacurilor și a programelor malware.";
 
-$_LANG['store']['sitelock']['cartTitle'] = "SiteLock Website Security";
+$_LANG['store']['sitelock']['cartTitle'] = "Securitate web de la SiteLock";
 
-$_LANG['store']['symantec']['promo']['sidebar']['title'] = "Add SSL to your website";
-$_LANG['store']['symantec']['promo']['sidebar']['body'] = "Activate the padlock icon and protect user privacy";
+$_LANG['store']['symantec']['promo']['sidebar']['title'] = "Adaugă SSL la site";
+$_LANG['store']['symantec']['promo']['sidebar']['body'] = "Activează lăcățelul și protejează datele utilizatorilor";
 
-$_LANG['store']['weebly']['promo']['sidebar']['title'] = "Powerful Site Builder";
-$_LANG['store']['weebly']['promo']['sidebar']['body'] = "Creați un site uimitor mai repede decât oricând cu Weebly";
+$_LANG['store']['weebly']['promo']['sidebar']['title'] = "Constructor de site-uri puternic";
+$_LANG['store']['weebly']['promo']['sidebar']['body'] = "Construiește cu Weebly un site uimitor, mai repede decât oricând";
 
-$_LANG['store']['spamexperts']['promo']['sidebar']['title'] = "Obțineți protecție spam";
-$_LANG['store']['spamexperts']['promo']['sidebar']['body'] = "Opriți spam-ul cu o filtrare profesională";
+$_LANG['store']['spamexperts']['promo']['sidebar']['title'] = "Protecție anti-spam";
+$_LANG['store']['spamexperts']['promo']['sidebar']['body'] = "Filtrează spam-ul cu o soluție` profesională";
 
-$_LANG['store']['sitelock']['promo']['sidebar']['title'] = "Protecție Malware";
-$_LANG['store']['sitelock']['promo']['sidebar']['body'] = "Descoperă automat malwarele și protejează reputația ta online";
+$_LANG['store']['sitelock']['promo']['sidebar']['title'] = "Protecție anti-malware";
+$_LANG['store']['sitelock']['promo']['sidebar']['body'] = "Descoperă automat codul malware și protejează-ți reputația online";
 
-$_LANG['store']['recommendedForYou'] = "Recomandat pentru dvs.";
-$_LANG['store']['lastChance'] = "Ultima șansa";
+$_LANG['store']['recommendedForYou'] = "Recomandat pentru tine";
+$_LANG['store']['lastChance'] = "Ultima șansă";
 
 $_LANG['domains']['importantReminder'] = "Remarcă importantă";
-$_LANG['domains']['irtpNotice'] = "Modificările pe care le-ați efectuat vor permite blocarea transferului IRTP pentru acest domeniu.";
+$_LANG['domains']['irtpNotice'] = "Modificările pe care le-ai efectuat vor permite blocarea transferului IRTP pentru acest domeniu.";
 $_LANG['domains']['optOut'] = "Deblocarea transferului (dacă este disponibilă)";
 $_LANG['domains']['optOutReason'] = "Motivul deblocării (opțional)";
 $_LANG['domains']['contactChangePending'] = "Schimbare contacte în curs";
@@ -2626,24 +2626,24 @@ $_LANG['domains']['newRegistrationDate'] = "Un e-mail a fost trimis proprietarul
 $_LANG['domains']['irtpLockEnabled'] = "Blocarea transferului IRTP este activată";
 $_LANG['domains']['irtpLockDescription'] = "Acest domeniu este în prezent blocat pentru transfer din cauza unei schimbări de contact sau a unei noi înregistrări.";
 $_LANG['domains']['irtpLockDescriptionDate'] = "Acest domeniu este în prezent blocat pentru transfer din cauza unei schimbări de contact sau a unei noi înregistrări. Aceasta va expira pe :date.";
-$_LANG['domains']['resendNotification'] = "Retrimiteți e-mailul de verificare";
-$_LANG['domains']['resendNotificationQuestion'] = "Sigur doriți să retrimiteți e-mailul?";
+$_LANG['domains']['resendNotification'] = "Retrimite e-mailul de verificare";
+$_LANG['domains']['resendNotificationQuestion'] = "Sigur vrei să retrimiți e-mailul?";
 $_LANG['domains']['resendNotificationSuccess'] = "E-mailul de verificare a fost retrimis.";
 $_LANG['domains']['modifyPending'] = "Verificare necesară";
-$_LANG['domains']['changePending'] = "Modificarea solicitată a declanșat procesul de verificare a contactelor. A fost trimis un e-mail de verificare a proprietății la :email. Faceți clic pe linkul din e-mail pentru a aplica modificările.";
-$_LANG['domains']['changePendingDate'] = "Modificarea solicitată a declanșat procesul de verificare a contactelor. A fost trimis un e-mail de verificare a proprietății la :email. Faceți clic pe link-ul din e-mail în :days zile pentru a aplica modificările.";
-$_LANG['domains']['changePendingFormRequired'] = "Modificarea deținătorului a fost trmisă. Pentru finalizarea modificării este necesar să completați  formularul <strong>Change of Registrant</strong>  Vă rugăm sa vizitați formularul si sa îl completați in vederea finalizării procesului.";
+$_LANG['domains']['changePending'] = "Modificarea solicitată a declanșat procesul de verificare a contactelor. A fost trimis un e-mail de verificare a proprietății la :email. Fă click pe link-ul din e-mail pentru a aplica modificările.";
+$_LANG['domains']['changePendingDate'] = "Modificarea solicitată a declanșat procesul de verificare a contactelor. A fost trimis un e-mail de verificare a proprietății la :email. Fă click pe link-ul din e-mail în :days zile pentru a aplica modificările.";
+$_LANG['domains']['changePendingFormRequired'] = "Modificarea deținătorului a fost trmisă. Pentru finalizarea modificării este necesar să completezi formularul <strong>Change of Registrant</strong>. Vă rugăm sa completyezi formularul în vederea finalizării procesului.";
 
-$_LANG['getStartedNow'] = "Începeți acum";
+$_LANG['getStartedNow'] = "Începe acum";
 $_LANG['notificationsnew'] = "NOU";
 
 $_LANG['store']['websiteBuilder']['tab']['overview'] = "Sinteză";
 $_LANG['store']['websiteBuilder']['tab']['features'] = "Caracteristici";
 $_LANG['store']['websiteBuilder']['tab']['pricing'] = "Prețuri";
-$_LANG['store']['websiteBuilder']['tab']['faq'] = "Întrebări Frecvente";
-$_LANG['store']['websiteBuilder']['ddEditor'] = "Drag & Drop Builder";
-$_LANG['store']['websiteBuilder']['ddEditorDescription'] = "Drag & drop Builder vă permite să creați un site web profesional fără a avea nevoie de competențe tehnice. Din browserul web alegeți diferite elemente pentru a adăuga fotografii, hărți sau videoclipuri doar prin glisarea și plasarea lor pe loc.";
-$_LANG['store']['websiteBuilder']['features']['builder'] = "Builder";
+$_LANG['store']['websiteBuilder']['tab']['faq'] = "Întrebări frecvente";
+$_LANG['store']['websiteBuilder']['ddEditor'] = "Constructor drag-and-drop";
+$_LANG['store']['websiteBuilder']['ddEditorDescription'] = "Constructorul drag-and-drop îți permite să creezi un site web profesional fără a avea nevoie de competențe tehnice. Din browserul web alegi diferite elemente pentru a adăuga fotografii, documente sau videoclipuri doar prin glisarea și plasarea lor în poziția dorită.";
+$_LANG['store']['websiteBuilder']['features']['builder'] = "Constructor";
 $_LANG['store']['websiteBuilder']['features']['builderDescription'] = "Creați un site web perfect, cu instrumente puternice de tragere și plasare";
 $_LANG['store']['websiteBuilder']['features']['ecommerce'] = "E-Commerce";
 $_LANG['store']['websiteBuilder']['features']['ecommerceDescription'] = "Soluție completă de comerț electronic pentru a vă dezvolta afacerea online";
@@ -2659,7 +2659,7 @@ $_LANG['store']['websiteBuilder']['features']['video'] = "Video";
 $_LANG['store']['websiteBuilder']['features']['videoDescription'] = "Încorporați videoclipuri de la servicii populare sau propri";
 $_LANG['store']['websiteBuilder']['features']['seo'] = "SEO";
 $_LANG['store']['websiteBuilder']['features']['seoDescription'] = "Puternic instrument SEO pentru a ajuta motoarele de căutare să vă găsească";
-$_LANG['store']['websiteBuilder']['pricing']['free']['headline'] = "Încercați Weebly";
+$_LANG['store']['websiteBuilder']['pricing']['free']['headline'] = "Încearcă Weebly";
 $_LANG['store']['websiteBuilder']['pricing']['free']['tagline'] = "Orice aveți nevoie pentru a crea un site";
 $_LANG['store']['websiteBuilder']['pricing']['idealFor'] = "Ideal pentru :for";
 $_LANG['store']['websiteBuilder']['pricing']['siteFeatures'] = "Caracteristici site";
@@ -2720,20 +2720,20 @@ $_LANG['store']['websiteBuilder']['upgrade']['noPlans'] = "Nu au fost găsite pl
 $_LANG['store']['websiteBuilder']['upgrade']['loggedInAs'] = "În prezent sunteți conectat (ă) ca :email";
 $_LANG['store']['websiteBuilder']['upgrade']['switchUser'] = "Deconectați/Comutați utilizatorul";
 
-$_LANG['tax']['taxLabel'] = "ID Taxă";
+$_LANG['tax']['taxLabel'] = "Cod unic TVA";
 $_LANG['tax']['vatLabel'] = "Cod TVA";
-$_LANG['tax']['errorInvalid'] = "Eticheta taxei introdusă nu este validă";
+$_LANG['tax']['errorInvalid'] = "Codul TVA introdus nu este valid";
 
-$_LANG['fraud']['checkConfiguration'] = "A apărut o eroare la Verificarea antifraudă. Vă rugăm să contactați asistența.";
-$_LANG['fraud']['title'] = "Verificarea antifraudă";
+$_LANG['fraud']['checkConfiguration'] = "A apărut o eroare la verificarea antifraudă. Te rugăm să contactezi echipa de suport.";
+$_LANG['fraud']['title'] = "Verificare antifraudă";
 $_LANG['fraud']['error'] = "Eroare";
-$_LANG['fraud']['manualReview'] = "Comanda dvs. a fost reținută pentru revizuire manuală. <br /> <br /> Dacă credeți că ați primit acest mesaj din greșeală, atunci vă rugăm să acceptați scuzele noastre și <a href=\"submitticket.php\"> trimiteți un bilet de asistență <// a> echipei noastre de servicii pentru clienți. Mulțumesc.";
-$_LANG['fraud']['highFraudRiskScore'] = "Comanda dvs. a fost marcată cu un risc potențial ridicat și, prin urmare, a fost reținută pentru revizuire manuală. <br /> <br /> Dacă credeți că ați primit acest mesaj din greșeală, atunci vă rugăm să acceptați scuzele noastre și <a href=\"submitticket.php\"> trimiteți un bilet de asistență </a> la echipa noastră de servicii pentru clienți. Mulțumim.";
+$_LANG['fraud']['manualReview'] = "Comanda ta a fost reținută pentru revizuire manuală. <br /> <br /> Dacă crezi că ai primit acest mesaj din greșeală, te rugăm să accepți scuzele noastre și să <a href=\"submitticket.php\">trimiți un tichet de asistență </a> echipei noastre de servicii pentru clienți. Mulțumim.";
+$_LANG['fraud']['highFraudRiskScore'] = "Comanda ta a fost marcată cu un risc potențial ridicat și, prin urmare, a fost reținută pentru revizuire manuală. <br /> <br /> Dacă credeți că ați primit acest mesaj din greșeală, atunci vă rugăm să acceptați scuzele noastre și <a href=\"submitticket.php\"> trimiteți un bilet de asistență </a> la echipa noastră de servicii pentru clienți. Mulțumim.";
 $_LANG['fraud']['countryMismatch'] = "Țara adresei dvs. IP nu s-a potrivit cu țara dvs. de adresă de facturare pe care ați introdus-o, astfel încât nu putem accepta comanda dvs.";
 $_LANG['fraud']['highRiskCountry'] = "Din păcate, nu putem accepta comanda dvs., întrucât s-au desfășurat o mulțime de activități frauduloase din țara dvs. Dacă doriți să alegeți un mijloc alternativ de plată, vă rugăm să ne contactați.";
-$_LANG['fraud']['anonymousProxy'] = "Nu acceptăm comenzi plasate prin Proxy anonim";
+$_LANG['fraud']['anonymousProxy'] = "Nu acceptăm comenzi plasate prin proxy-uri anonime";
 
-$_LANG['navMarketConnectService']['codeguard'] = "Website Backup";
+$_LANG['navMarketConnectService']['codeguard'] = "Backup pentru site";
 $_LANG['store']['codeguard']['cartTitle'] = "CodeGuard Backup";
 $_LANG['store']['codeguard']['cartShortDescription'] = "Cel mai rapid, cel mai de încredere serviciu de backup a site-ului web, care vă urmărește toate modificările zilnice.";
 $_LANG['store']['codeGuard']['title'] = "CodeGuard Backup";
@@ -2808,30 +2808,30 @@ $_LANG['sslState']['expiryDate'] = "Data Expirării SSL";
 $_LANG['sslState']['issuerName'] = "Emitentul SSL";
 $_LANG['sslState']['sslStatus'] = "SSL Status";
 
-$_LANG['generatePassword']['btnLabel'] = "Generare Parolă";
-$_LANG['generatePassword']['btnShort'] = "Generate";
-$_LANG['generatePassword']['title'] = "Generare Parolă";
-$_LANG['generatePassword']['lengthValidationError'] = "Vă rugăm să introduceți  un număr între 8 și 64 caractere pentru lungimea parolei";
-$_LANG['generatePassword']['pwLength'] = "Lungimea Parolei";
-$_LANG['generatePassword']['generatedPw'] = "Parola Generată";
-$_LANG['generatePassword']['generateNew'] = "Generați o noua parolă";
-$_LANG['generatePassword']['copyAndInsert'] = "Copiază în memorie și inserează";
+$_LANG['generatePassword']['btnLabel'] = "Generare parolă";
+$_LANG['generatePassword']['btnShort'] = "Generează";
+$_LANG['generatePassword']['title'] = "Generare parolă";
+$_LANG['generatePassword']['lengthValidationError'] = "Introdu un număr între 8 și 64 caractere pentru lungimea parolei";
+$_LANG['generatePassword']['pwLength'] = "Lungimea parolei";
+$_LANG['generatePassword']['generatedPw'] = "Parola generată";
+$_LANG['generatePassword']['generateNew'] = "Generează o nouă parolă";
+$_LANG['generatePassword']['copyAndInsert'] = "Copiază și inserează";
 
 $_LANG['close'] = "Închide";
 
-$_LANG['setupMandate'] = "Setare Mandat pentru Plată";
+$_LANG['setupMandate'] = "Configurare mandat de plată";
 
-$_LANG['invoicePaymentPendingCleared'] = "Plata dvs a fost procesată și se va aplica imediat ce va fi confirmată";
-$_LANG['invoicePaymentAutoWhenDue'] = "Plata dvs va fi efectuată automat la scadență";
+$_LANG['invoicePaymentPendingCleared'] = "Plata a fost procesată și va fi validată imediat după confirmare";
+$_LANG['invoicePaymentAutoWhenDue'] = "Plata va fi efectuată automat la scadență";
 
 $_LANG['support']['attachmentsRemoved'] = "Șters din cauza inactivității în tichet";
-$_LANG['unpaidInvoiceAlert'] = "Aveți o factură neplătită. Plătiți acum pentru a evita întreruperea serviciului.";
-$_LANG['overdueInvoiceAlert'] = "Aveți o factură cu scadența depășită";
-$_LANG['payInvoice'] = "Plătiți Factura";
+$_LANG['unpaidInvoiceAlert'] = "Ai o factură neplătită. Plătește-o acum pentru a evita întreruperea serviciului.";
+$_LANG['overdueInvoiceAlert'] = "Ai o factură cu scadența depășită";
+$_LANG['payInvoice'] = "Plătește";
 
 $_LANG['close'] = "Închide";
-$_LANG['submit'] = "Trimiteți";
-$_LANG['finish'] = "Finalizați";
+$_LANG['submit'] = "Trimite";
+$_LANG['finish'] = "Finalizează";
 
 $_LANG['twofanowenabled'] = "Autentificarea în doi pași este acum activă";
 $_LANG['twofacurrently'] = "Autentificarea în doi pași este acum";
@@ -3154,75 +3154,75 @@ $_LANG['errors']['badRequestTryAgain'] = "A apărut o eroare. Vă rugăm să în
 $_LANG['paymentMethods']['iban'] = "IBAN";
 $_LANG['paymentMethods']['mandateAcceptance'] = "Prin furnizarea IBAN și confirmarea acestei plăți, autorizați: :companyName și Stripe, furnizorul nostru de servicii de plată, să trimită instrucțiuni băncii dvs. pentru a vă debita contul și banca pentru a vă debita contul în conformitate cu instrucțiunile respective. Aveți dreptul la o rambursare de la banca dvs. în termenii și condițiile acordului dvs. cu banca dvs. O rambursare trebuie să fie solicitată în termen de 8 săptămâni de la data debitării contului.";
 
-$_LANG['metrics']['title'] = "Metrics";
-$_LANG['metrics']['explanation'] = "Acest produs are taxe de facturare bazate pe utilizare, pe lângă prețul de bază. Valorile de utilizare și informațiile despre prețuri sunt afișate mai jos.";
+$_LANG['metrics']['title'] = "Măsurători";
+$_LANG['metrics']['explanation'] = "Pe lângă prețul de bază, acest produs este facturat și pe baza resurselor utilizate. Resursele măsurate și prețurile de facturare sunt afișate mai jos.";
 $_LANG['metrics']['from'] = "De la";
 $_LANG['metrics']['to'] = "La";
-$_LANG['metrics']['startingQuantity'] = "Cantitatea minimă";
+$_LANG['metrics']['startingQuantity'] = "Cantitate minimă";
 $_LANG['metrics']['unit'] = "Unități";
 $_LANG['metrics']['pricePerUnit'] = "Preț pe unitate";
 $_LANG['metrics']['pricePer'] = "Preț pe ";
-$_LANG['metrics']['viewPricing'] = "Vedeți prețurile";
+$_LANG['metrics']['viewPricing'] = "Afișează prețurile";
 $_LANG['metrics']['pricing'] = "Prețuri";
 $_LANG['metrics']['startingFrom'] = "Începând de la";
-$_LANG['metrics']['pricingschema']['simple']['info'] = "Acest item are o structurî singulară de preț";
+$_LANG['metrics']['pricingschema']['simple']['info'] = "Acest articol are o structură singulară de preț";
 $_LANG['metrics']['pricingschema']['simple']['detail'] = "Prețul pe unitate este în funcție de volum";
-$_LANG['metrics']['pricingschema']['grad']['info'] = "Acest item are o structură graduală de preț";
+$_LANG['metrics']['pricingschema']['grad']['info'] = "Acest articol are o structură graduală de preț";
 $_LANG['metrics']['pricingschema']['grad']['detail'] = "Prețul unitar este pe interval de consum. Taxa totală este suma calculelor intervalului.";
-$_LANG['metrics']['pricingschema']['flat']['info'] = "Acest articol are o structură de prețuri de volum plat.";
+$_LANG['metrics']['pricingschema']['flat']['info'] = "Acest articol are o structură plată de preț.";
 $_LANG['metrics']['pricingschema']['flat']['detail'] = "Prețul unitar este determinat de volumul total consumat.";
-$_LANG['metrics']['previousUsage'] = "Utilizarea anterioară";
-$_LANG['metrics']['currentUsage'] = "Utilizarea curentă";
+$_LANG['metrics']['previousUsage'] = "Utilizare anterioară";
+$_LANG['metrics']['currentUsage'] = "Utilizare curentă";
 $_LANG['metrics']['lastUpdated'] = "Ultima actualizare";
-$_LANG['metrics']['metric'] = "Metric";
+$_LANG['metrics']['metric'] = "Măsurătoare";
 $_LANG['metrics']['billing'] = "facturare";
-$_LANG['metrics']['includedNotCounted'] = "inclus";
+$_LANG['metrics']['includedNotCounted'] = "resurse incluse";
 $_LANG['metrics']['includedInBase'] = "Inclus în prețul de bază";
 
-$_LANG['metrics']['invoiceitem']['perunit'] = ":Consumat :metricname @ :price Per :perUnitName";
-$_LANG['metrics']['invoiceitem']['included'] = ":Inclus :metricname Included";
+$_LANG['metrics']['invoiceitem']['perunit'] = ":Consumat :metricname @ :price pe :perUnitName";
+$_LANG['metrics']['invoiceitem']['included'] = ":Inclus :metricname inclus";
 
-$_LANG['bankPaymentDeclined'] = "Detaliile contului bancar introduse au fost refuzate. Vă rugăm să încercați un alt cont sau să ne contactați.";
-$_LANG['invoicePaymentInitiated'] = "Mulțumim! Plata dvs. a fost inițiată cu succes. Veți primi un e-mail de confirmare după ce plata va fi finalizată.";
-$_LANG['genericPaymentDeclined'] = "Your payment was declined. Please try again or contact support.";
+$_LANG['bankPaymentDeclined'] = "Detaliile contului au fost refuzate. Te rugăm să încerci un alt cont sau să ne contactezi.";
+$_LANG['invoicePaymentInitiated'] = "Mulțumim! Plata ta a fost inițiată cu succes. Vei primi un e-mail de confirmare după ce plata va fi finalizată.";
+$_LANG['genericPaymentDeclined'] = "Plata a fost respinsă. Te rugăm să încerci un alt cont sau să ne contactezi.";
 
-$_LANG['sitelockvpn']['loginPanelText'] = "Conectați-vă pentru a configura și gestiona datele de autentificare ale utilizatorului dvs. VPN și descărcați clienții VPN.";
-$_LANG['store']['save'] = "Economisiți :saving%";
-$_LANG['marketConnect']['codeguard']['manageBackup'] = "Administrare Backup-uri";
-$_LANG['store']['chooseExistingDomain'] = "Alegeți un domeniu existent";
-$_LANG['store']['choosePaymentTerm'] = "Alegeți modalitatea de plată";
-$_LANG['store']['chooseDomain'] = "Alegeți domeniul";
+$_LANG['sitelockvpn']['loginPanelText'] = "Conectează-te pentru a configura și gestiona datele de autentificare ale utilizatorului tău VPN și a descărca clienții VPN.";
+$_LANG['store']['save'] = "Economisești :saving%";
+$_LANG['marketConnect']['codeguard']['manageBackup'] = "Administrare backup";
+$_LANG['store']['chooseExistingDomain'] = "Alege un domeniu existent";
+$_LANG['store']['choosePaymentTerm'] = "Alege modalitatea de plată";
+$_LANG['store']['chooseDomain'] = "Alege domeniul";
 $_LANG['store']['subOfExisting'] = "Subdomeniu al unui domeniu existent";
 $_LANG['store']['domainAlreadyOwned'] = "Un domeniu pe care îl dețin deja";
 $_LANG['store']['eligible'] = "Eligibil";
-$_LANG['store']['login'] = "Login";
+$_LANG['store']['login'] = "Autentificare";
 $_LANG['store']['addToExistingPackage'] = "Pentru a adăuga la un pachet de găzduire existent";
 
-$_LANG['marketConnect']['sitelock']['manageSecurity'] = "Gestionați securitatea";
-$_LANG['marketConnect']['sitelockvpn']['manageVPN'] = "Gestionați VPN";
-$_LANG['marketConnect']['spamexperts']['manageEmail'] = "Gestionați Emailul dvs";
-$_LANG['marketConnect']['weebly']['buildWebsite'] = "Construiți propriul dvs site";
+$_LANG['marketConnect']['sitelock']['manageSecurity'] = "Gestionează securitatea";
+$_LANG['marketConnect']['sitelockvpn']['manageVPN'] = "Gestionează VPN";
+$_LANG['marketConnect']['spamexperts']['manageEmail'] = "Gestionează e-mailul";
+$_LANG['marketConnect']['weebly']['buildWebsite'] = "Construiește-ți site-ul";
 
-$_LANG['creditCardHolderName'] = "Numele deținătorului de card";
+$_LANG['creditCardHolderName'] = "Deținător de card";
 
-$_LANG['redirectingToCompleteCheckout'] = "Vă redirecționăm pentru finalizarea plații. Vă rugăm așteptați";
-$_LANG['paypalEmailAddress'] = "Adresa Email Paypal";
+$_LANG['redirectingToCompleteCheckout'] = "Te redirecționăm pentru finalizarea plații. Te rugăm să aștepți";
+$_LANG['paypalEmailAddress'] = "Adresa e-mail de la Paypal";
 
 $_LANG['fromJust'] = "De la doar";
-$_LANG['forJust'] = "for just";
-$_LANG['remoteTransError'] = "Tranzacție eșuată. Vă rugăm să ne contactați";
+$_LANG['forJust'] = "pentru doar";
+$_LANG['remoteTransError'] = "Tranzacție eșuată. Te rugăm să ne contactezi";
 
 $_LANG['imageUnavailable'] = "Imagine indisponibilă";
 
-$_LANG['emailPreferences']['affiliate'] = "Emailuri de Afiliere - recepționare notificări de afiliere";
-$_LANG['emailPreferences']['domain'] = "Emailuri domenii - notificări înregistrare, transfer și reînnoire domenii";
-$_LANG['emailPreferences']['general'] = "Emailuri generale - Toate emailurile referitoare la cont";
-$_LANG['emailPreferences']['invoice'] = "Emailuri facturi - notificări creare, reamintiri sau depășiri scadență facturi";
-$_LANG['emailPreferences']['product'] = "Emailuri Produse - Notifcări cu privire la produse și servicii, activări, și suspendări";
-$_LANG['emailPreferences']['support'] = "Emailuri suport - notificări CC pentru toate tichetele de suport";
+$_LANG['emailPreferences']['affiliate'] = "E-mailuri de afiliere - recepționare notificări de afiliere";
+$_LANG['emailPreferences']['domain'] = "E-mailuri de domenii - notificări înregistrare, transfer și reînnoire domenii";
+$_LANG['emailPreferences']['general'] = "E-mailuri generale - toate emailurile referitoare la cont";
+$_LANG['emailPreferences']['invoice'] = "E-mailuri despre facturi - notificări creare, reamintiri sau depășiri scadență facturi";
+$_LANG['emailPreferences']['product'] = "E-mailuri despre servicii - notifcări cu privire la produse și servicii, activări, și suspendări";
+$_LANG['emailPreferences']['support'] = "E-mailuri de suport - notificări CC pentru toate tichetele de suport";
 
-$_LANG['navMarketConnectService']['marketgoo'] = "SEO Tools";
-$_LANG['store']['marketgoo']['title'] = "Marketgoo SEO Tools";
+$_LANG['navMarketConnectService']['marketgoo'] = "Unelte SEO";
+$_LANG['store']['marketgoo']['title'] = "Unelte SEO Marketgoo";
 $_LANG['store']['marketgoo']['headline'] = "Îmbunătățiți traficul site-ului dvs";
 $_LANG['store']['marketgoo']['tagline'] = "și <em> Crește-ți afacerea </em> cu marketgoo";
 $_LANG['store']['marketgoo']['tab']['how'] = "Cum funcționează";
@@ -3276,13 +3276,13 @@ $_LANG['emailPreferences']['domainContactRequired'] = "To disable domain notific
 $_LANG['emailPreferences']['domainClientRequired'] = "Pentru a dezactiva notificările prin email vă rugăm să creați un contact alternativ care să le primească";
 
 $_LANG['twoFactor']['duosecurity']['friendlyName'] = "Duo Security";
-$_LANG['twoFactor']['duosecurity']['description'] = "Obțineți coduri prin Duo Push, SMS sau Callback telefonic.";
+$_LANG['twoFactor']['duosecurity']['description'] = "Obține codul prin Duo Push, SMS sau apel telefonic.";
 $_LANG['twoFactor']['totp']['friendlyName'] = "Tokenuri bazate pe timp";
-$_LANG['twoFactor']['totp']['description'] = "Obțineți coduri dintr-o aplicație precum Google Authenticator sau Duo.";
+$_LANG['twoFactor']['totp']['description'] = "Obține codul dintr-o aplicație precum Google Authenticator sau Duo.";
 $_LANG['twoFactor']['yubico']['friendlyName'] = "Yubico";
-$_LANG['twoFactor']['yubico']['description'] = "Generați coduri folosind un dispozitiv hardware YubiKey.";
+$_LANG['twoFactor']['yubico']['description'] = "Generează codul folosind o cheie YubiKey.";
 
-$_LANG['orderForm']['selectCategory'] = "Vă rugăm să alegeți o categorie din meniul lateral";
+$_LANG['orderForm']['selectCategory'] = "Alege o categorie din meniul lateral";
 
 $_LANG['store']['sampleProduct'] = "Acesta este un produs de probă";
 $_LANG['store']['emailServices']['tab']['overview'] = "Overview";
@@ -3366,8 +3366,8 @@ $_LANG['store']['emailServices']['faqs']['q6'] = "How much email can I store?";
 $_LANG['store']['emailServices']['faqs']['a6'] = "Email Archiving includes 10GB of compressed email storage by default. If you need more storage, additional 10GB licenses can be added.";
 $_LANG['store']['emailServices']['preview'] = "Email service products you activate will display here";
 $_LANG['store']['emailServices']['domain'] = "domain";
-$_LANG['domainDns']['a'] = "A (Address)";
-$_LANG['domainDns']['aaaa'] = "AAAA (Address)";
+$_LANG['domainDns']['a'] = "A (Adresă IPv4)";
+$_LANG['domainDns']['aaaa'] = "AAAA (Adresă IPv6)";
 $_LANG['domainDns']['mxe'] = "MXE (Mail Easy)";
 $_LANG['domainDns']['mx'] = "MX (Mail)";
 $_LANG['domainDns']['cname'] = "CNAME (Alias)";
@@ -3375,18 +3375,18 @@ $_LANG['domainDns']['txt'] = "SPF (txt)";
 $_LANG['domainDns']['url'] = "URL Redirect";
 $_LANG['domainDns']['frame'] = "URL Frame";
 
-$_LANG['navContacts'] = "Contacts";
-$_LANG['navUserManagement'] = "User Management";
-$_LANG['navSwitchAccount'] = "Switch Account";
-$_LANG['navAccountSecurity'] = "Account Security";
+$_LANG['navContacts'] = "Contacte";
+$_LANG['navUserManagement'] = "Gestionare utilizatori";
+$_LANG['navSwitchAccount'] = "Schimbă contul";
+$_LANG['navAccountSecurity'] = "Securitate";
 
-$_LANG['never'] = "Never";
+$_LANG['never'] = "Niciodată";
 
-$_LANG['yourProfile'] = "Your Profile";
-$_LANG['verifyEmailAddress'] = "Verificați-vă casuța email și faceți click pe linkul de confirmare primit.";
+$_LANG['yourProfile'] = "Profilul tău";
+$_LANG['verifyEmailAddress'] = "Verifică-ți căsuța e-mail și fă click pe linkul de confirmare primit.";
 
-$_LANG['emailVerification']['title'] = "Email Verification";
-$_LANG['emailVerification']['success'] = "Your email address has been verified";
+$_LANG['emailVerification']['title'] = "Verificare e-mail";
+$_LANG['emailVerification']['success'] = "Adresa ta e-mail a fost verificată";
 $_LANG['emailVerification']['expired'] = "Your email verification link has expired";
 $_LANG['emailVerification']['notFound'] = "Sorry, we couldn't find a pending verification matching your request.";
 $_LANG['emailVerification']['loginToRequest'] = "Please log in to request a new email verification link.";
@@ -3436,12 +3436,12 @@ $_LANG['userManagement']['inviteResendSuccess'] = "Invite resent successfully!";
 $_LANG['userManagement']['inviteCancelled'] = "Invite cancelled successfully!";
 $_LANG['userManagement']['settings'] = "The following security settings apply to your user account.";
 
-$_LANG['userProfile']['profile'] = "Profile";
+$_LANG['userProfile']['profile'] = "Profil";
 $_LANG['userProfile']['changeEmail'] = "Change Email Address";
 $_LANG['userProfile']['notVerified'] = "Email Not Verified";
 $_LANG['userProfile']['verified'] = "Email Verified";
 
-$_LANG['accountInvite']['title'] = "Accept Invite";
+$_LANG['accountInvite']['title'] = "Acceptă invitația";
 $_LANG['accountInvite']['youHaveBeenInvited'] = "You have been invited to :clientName";
 $_LANG['accountInvite']['givenAccess'] = ":ot:senderName:ct has given you access to the :ot:clientName:ct account.";
 $_LANG['accountInvite']['inviteAcceptLoggedIn'] = "To accept the invite, simply click the button below.";
@@ -3453,7 +3453,7 @@ $_LANG['accountInvite']['emailAlreadyExists'] = "A user already exists with that
 $_LANG['accountInvite']['notFound'] = "Sorry, we couldn't find a pending invite matching your request.";
 $_LANG['accountInvite']['contactAdministrator'] = "Please contact the account administrator to request a new invite.";
 
-$_LANG['clientareanavcontacts'] = "Contacte/Conturi secundare";
+$_LANG['clientareanavcontacts'] = "Contacte";
 
 $_LANG['permissions']['descriptions']['profile'] = "Access and modify the client profile information";
 $_LANG['permissions']['descriptions']['contacts'] = "Access and manage contacts";
