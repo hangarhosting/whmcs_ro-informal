@@ -3437,37 +3437,37 @@ $_LANG['userManagement']['inviteCancelled'] = "Invite cancelled successfully!";
 $_LANG['userManagement']['settings'] = "The following security settings apply to your user account.";
 
 $_LANG['userProfile']['profile'] = "Profil";
-$_LANG['userProfile']['changeEmail'] = "Change Email Address";
-$_LANG['userProfile']['notVerified'] = "Email Not Verified";
-$_LANG['userProfile']['verified'] = "Email Verified";
+$_LANG['userProfile']['changeEmail'] = "Modifică adresa e-mail";
+$_LANG['userProfile']['notVerified'] = "E-mailul nu este verificat";
+$_LANG['userProfile']['verified'] = "E-mail verificat";
 
 $_LANG['accountInvite']['title'] = "Acceptă invitația";
-$_LANG['accountInvite']['youHaveBeenInvited'] = "You have been invited to :clientName";
-$_LANG['accountInvite']['givenAccess'] = ":ot:senderName:ct has given you access to the :ot:clientName:ct account.";
-$_LANG['accountInvite']['inviteAcceptLoggedIn'] = "To accept the invite, simply click the button below.";
-$_LANG['accountInvite']['inviteAcceptLoggedOut'] = "To accept the invite, please login or register below.";
-$_LANG['accountInvite']['accept'] = "Accept Invite";
-$_LANG['accountInvite']['userAlreadyAssociated'] = "Your user account is already associated with the target invite account";
-$_LANG['accountInvite']['acceptSuccess'] = "Account invite accepted!";
-$_LANG['accountInvite']['emailAlreadyExists'] = "A user already exists with that email address. Please login or use a different email.";
-$_LANG['accountInvite']['notFound'] = "Sorry, we couldn't find a pending invite matching your request.";
-$_LANG['accountInvite']['contactAdministrator'] = "Please contact the account administrator to request a new invite.";
+$_LANG['accountInvite']['youHaveBeenInvited'] = "Ai fost invitat la :clientName";
+$_LANG['accountInvite']['givenAccess'] = ":ot:senderName:ct ți-a acordat acces la contul :ot:clientName:ct .";
+$_LANG['accountInvite']['inviteAcceptLoggedIn'] = "Pentru a accepta invitația, apasă butonul de mai jos.";
+$_LANG['accountInvite']['inviteAcceptLoggedOut'] = "Pentru a accepta invitația, autentifică-te sau înregistrează-te mai jos.";
+$_LANG['accountInvite']['accept'] = "Accept invitația";
+$_LANG['accountInvite']['userAlreadyAssociated'] = "Contul tău de utilizator este deja asociat cu contul din invitație";
+$_LANG['accountInvite']['acceptSuccess'] = "Invitația a fost acceptată!";
+$_LANG['accountInvite']['emailAlreadyExists'] = "Există deja un utilizator cu această adresă e-mail. Te rugăm să te autentifici sau să folosești altă adresă e-mail pentru înscriere.";
+$_LANG['accountInvite']['notFound'] = "Ne pare rău, nu am găsit o invitație care să corespundă cererii tale.";
+$_LANG['accountInvite']['contactAdministrator'] = "Contactează administratorul contului pentru o nouă invitație.";
 
 $_LANG['clientareanavcontacts'] = "Contacte";
 
-$_LANG['permissions']['descriptions']['profile'] = "Accesează și modifică informațiile de profil ale clientului";
-$_LANG['permissions']['descriptions']['contacts'] = "Accesează și gestionează contactele";
-$_LANG['permissions']['descriptions']['products'] = "View access to products, services and addons";
-$_LANG['permissions']['descriptions']['manageproducts'] = "Allow password resets and other actions";
-$_LANG['permissions']['descriptions']['productsso'] = "Allow single sign-on into services";
-$_LANG['permissions']['descriptions']['domains'] = "View access to domain registrations";
-$_LANG['permissions']['descriptions']['managedomains'] = "Allow domain management eg. nameservers/whois/transfers";
-$_LANG['permissions']['descriptions']['invoices'] = "View and payment access to invoices";
-$_LANG['permissions']['descriptions']['quotes'] = "View and acceptance permissions for quotes";
-$_LANG['permissions']['descriptions']['tickets'] = "Access to open, respond and manage support tickets";
-$_LANG['permissions']['descriptions']['affiliates'] = "Access to view and request withdrawals";
-$_LANG['permissions']['descriptions']['emails'] = "Access to view account email history";
-$_LANG['permissions']['descriptions']['orders'] = "Allow placing of new orders";
+$_LANG['permissions']['descriptions']['profile'] = "Permisiuni de acces și modificare a informațiilor de profil ale clientului";
+$_LANG['permissions']['descriptions']['contacts'] = "Permisiuni de acces și gestionare a contactelor";
+$_LANG['permissions']['descriptions']['products'] = "Permisiuni de afișare a produselor, serviciilor și opțiunilor suplimentare";
+$_LANG['permissions']['descriptions']['manageproducts'] = "Permite resetări de parole și alte acțiuni";
+$_LANG['permissions']['descriptions']['productsso'] = "Permite acces single sign-on la servicii";
+$_LANG['permissions']['descriptions']['domains'] = "Permisiuni de afișare a domeniilor înregistrate";
+$_LANG['permissions']['descriptions']['managedomains'] = "Permisiuni de management al domeniilor (ex. nameservere/whois/transferuri)";
+$_LANG['permissions']['descriptions']['invoices'] = "Permisiuni de afișare și plată pentru facturi";
+$_LANG['permissions']['descriptions']['quotes'] = "Permisiuni de afișare și acceptare a ofertelor";
+$_LANG['permissions']['descriptions']['tickets'] = "Permisiuni de deschidere, răspuns și gestionare a tichetelor de suport";
+$_LANG['permissions']['descriptions']['affiliates'] = "Permisiuni de afișare și retragere a comisioanelor";
+$_LANG['permissions']['descriptions']['emails'] = "Acces la istoricul mesajelor e-mail";
+$_LANG['permissions']['descriptions']['orders'] = "Permisiuni de plasare comenzi noi";
 
 $_LANG['closed'] = "Închis";
 $_LANG['noPermission'] = "Nu ai permisiuni";
@@ -3769,11 +3769,11 @@ $_LANG['userLogin']['createAccount'] = "Înscrie-te";
 $_LANG['userLogin']['signInToContinue'] = "Autentifică-te pentru a continua.";
 $_LANG['userLogin']['notRegistered'] = "Nu ai cont?";
 
-$_LANG['networkIssues']['scheduled'] = "Sunt :count întreruperi programate.";
+$_LANG['networkIssues']['scheduled'] = "Sunt programate :count întreruperi.";
 $_LANG['networkIssues']['http'] = "HTTP";
 $_LANG['networkIssues']['ftp'] = "FTP";
 $_LANG['networkIssues']['pop3'] = "POP3";
-$_LANG['networkIssues']['affectingYou'] = "Această problemă poate afectea și serviciile tale";
+$_LANG['networkIssues']['affectingYou'] = "Această problemă poate afecta și serviciile tale";
 
 $_LANG['chooseFile'] = "Alege fișierul";
 $_LANG['support']['postedBy'] = "Publicat de :name la data de :date :requestorType";
