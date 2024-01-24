@@ -1046,7 +1046,7 @@ $_LANG['domaindnsmxonly'] = "Prioritate înregistrare MX";
 
 $_LANG['orderpromoprestart'] = "Această promoție nu a început încă. Încearcă mai târziu.";
 
-$_LANG['ticketmerge'] = "COMASATE";
+$_LANG['ticketmerge'] = "Comasate";
 
 $_LANG['quote'] = "Ofertă";
 $_LANG['quotestitle'] = "Ofertele mele";
@@ -3063,20 +3063,20 @@ $_LANG['store']['ssl']['landingPage']['padlock'] = "Plasează un lacăt lângă 
 $_LANG['store']['ssl']['landingPage']['authenticates'] = "Autentifică identitatea organizației";
 $_LANG['store']['ssl']['landingPage']['certTypeInfo'] = "Certificatele <a href=\":dvLink\">Standard SSL (Domain Validated)</a> sunt cele mai simple și răspândite tipuri de certificate SSL. Certificatele <a href=\":ovLink\">OV</a> și <a href=\":evLink\">certificatele EV</a> verifică de asemenea și identitatea companiei sau organizației ce deține certificatul, asigurând o mai mare încredere vizitatorilor. <br /><br />With our SSL certificate services*, you won't need to take manual steps to configure and deploy new certificates every year. We generate a renewal order automatically when your certificate nears the end of its validity. After payment, we will automatically configure, validate, and provision your new certificate for you.<br><br><small>* Your domain must be hosted through the same hosting provider who sold the SSL certificate, and the server must use cPanel, Plesk, or DirectAdmin.</small>";
 $_LANG['store']['ssl']['landingPage']['benefits']['title'] = "Îmbunătățirea în clasamentul motoarelor de cautare";
-$_LANG['store']['ssl']['landingPage']['benefits']['subtitle'] = "Stabilește încrederea și securitatea online pentru vizitatorii site-ului dvs";
-$_LANG['store']['ssl']['landingPage']['benefits']['higherResults'] = "Google dorește să asigure securitatea web, iar o mare parte din aceasta implică asigurarea accesului la site-urile accesate de vizitatori prin intermediul Google. De aceea, site-urile care utilizează SSL s-au dovedit că beneficiază de un nivel mai ridicat în rezultatele căutării.";
-$_LANG['store']['ssl']['landingPage']['benefits']['reasons'] = "Mai sunt multe alte motive pentru care recomandam adăugarea SSL site-ului dvs";
-$_LANG['store']['ssl']['landingPage']['benefits']['encrypt'] = "Criptare Date Sensibile";
-$_LANG['store']['ssl']['landingPage']['benefits']['privacy'] = "Protecția Datelor Personale";
-$_LANG['store']['ssl']['landingPage']['benefits']['secure'] = "Securizare Tranzactii Online";
-$_LANG['store']['ssl']['landingPage']['benefits']['https'] = "Activați HTTPS și pictograma de blocare";
-$_LANG['store']['ssl']['landingPage']['benefits']['legitimacy'] = "Dovedește Legitimitatea";
-$_LANG['store']['ssl']['landingPage']['benefits']['seo'] = "Mărește SEO Rank";
+$_LANG['store']['ssl']['landingPage']['benefits']['subtitle'] = "Stabilește încrederea și securitatea online pentru vizitatorii site-ului tău";
+$_LANG['store']['ssl']['landingPage']['benefits']['higherResults'] = "Google dorește să asigure securitatea web, iar o mare parte din aceasta implică asigurarea accesului la site-urile accesate de vizitatori prin intermediul Google. De aceea, site-urile care utilizează SSL s-au dovedit că beneficiază de o poziție mai ridicată în rezultatele căutării.";
+$_LANG['store']['ssl']['landingPage']['benefits']['reasons'] = "Mai sunt multe alte motive pentru care recomandam adăugarea SSL la site-ul tău";
+$_LANG['store']['ssl']['landingPage']['benefits']['encrypt'] = "Criptare date sensibile";
+$_LANG['store']['ssl']['landingPage']['benefits']['privacy'] = "Protecția datelor personale";
+$_LANG['store']['ssl']['landingPage']['benefits']['secure'] = "Securizare tranzactii online";
+$_LANG['store']['ssl']['landingPage']['benefits']['https'] = "Activează HTTPS și iconița de blocare";
+$_LANG['store']['ssl']['landingPage']['benefits']['legitimacy'] = "Dovedește legitimitatea";
+$_LANG['store']['ssl']['landingPage']['benefits']['seo'] = "Îmbunătățește scorul SEO";
 $_LANG['store']['ssl']['landingPage']['browser']['title'] = "Browserele s-au schimbat, nu rămâneți în urmă";
-$_LANG['store']['ssl']['landingPage']['browser']['insecureNotice'] = "Site-urile fără SSL nu se mai deschid în <strong>Google Chrome</strong> și <strong>Mozilla Firefox</strong>. Nu lăsați site-ul dvs să fie unul din ele. Adăugați SSL acum..";
+$_LANG['store']['ssl']['landingPage']['browser']['insecureNotice'] = "Site-urile fără certificta SSL nu se mai deschid în <strong>Google Chrome</strong> și <strong>Mozilla Firefox</strong>. Nu-ți lăsa site-ul să fie unul din ele. Adaugă un certificat SSL acum.";
 $_LANG['store']['ssl']['landingPage']['competitiveUpgrade'] = "Upgradați cu noi și veți primi adițional până la 12 luni gratuit";
-$_LANG['store']['ssl']['landingPage']['browser']['competitiveUpgrade'] = "Upgradați cu noi și veți primi adițional până la 12 luni gratuit";
-$_LANG['store']['ssl']['landingPage']['evs']['upgradeTitle'] = "Upgradați la SSL Extended Validation";
+$_LANG['store']['ssl']['landingPage']['browser']['competitiveUpgrade'] = "Actualizează și vei primi adițional până la 12 luni gratuit";
+$_LANG['store']['ssl']['landingPage']['evs']['upgradeTitle'] = "Treci la un certificat SSL EV";
 $_LANG['store']['ssl']['landingPage']['evs']['description'] = "Deși nevoia de securitate online este universală, nu toate certificatele SSL sunt create egal. Ghidul de mai jos este conceput pentru a vă ajuta să decideți ce tip de certificat este potrivit pentru dvs.";
 $_LANG['store']['ssl']['landingPage']['evs']['whatIs'] = "<strong>Certificate SSL cu validare extinsă</strong> oferă cel mai ridicat nivel de validare și încredere. Ele validează și afișează numele și locația companiilor și organizațiilor pentru a oferi clienților un plus de încredere atunci când se ocupă de afaceri online.";
 $_LANG['store']['ssl']['landingPage']['evs']['learn'] = "Citește mai multe despre certificatele SSL cu validare extinsă";
